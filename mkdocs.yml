@@ -1,2 +1,14 @@
 site_name: AZtest Docs
-theme: readthedocs
+site_description: Hệ thống cung cấp Website tổ chức thi, ôn luyện bằng hình thức trắc nghiệm hoàn toàn miễn phí
+copyright: AZtest - Hệ thống tạo lập website thi trắc nghiệm trực tuyến miễn phí
+site_url: https://docs.aztest.vn
+site_author: AZtest
+theme:
+    name: readthedocs
+    custom_dir: themes/aztest/
+repo_name: Github
+repo_url: https://github.com/mynukeviet/aztest-docs
+nav:
+    - Bắt đầu: start.md
+    - Quản trị trắc nghiệm: test.md
+    - Quản trị hệ thống: system.md

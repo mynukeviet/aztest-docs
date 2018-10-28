@@ -1,3 +1,7 @@
+---
+title: Trang chủ
+---
+
 AZtest là hệ thống cung cấp website trắc nghiệm trực tuyến cho các cá nhân, tổ chức có nhu cầu cung cấp các đề thi trực tuyến cho người học.. 
 
 Với AZtest, người dùng có thể dễ dàng tạo lập cho mình một website tổ chức ôn tập, thi trắc nghiệm trực tuyến hoàn toàn miễn phí, mà không cần quan tâm đến các vấn đề kỹ thuật. 
