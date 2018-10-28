@@ -3,34 +3,25 @@ title: Quản trị hệ thống
 ---
 
 ## Cấu hình thông tin website
-Để cấu hình thông tin website bạn cần thao tác như sau.
 
-Bước 1: Đăng nhập vào quản trị website.
+Bạn có thể thay đổi các thông tin cơ bản của website như tiêu đề, mô tả, logo,... bằng cách thực hiện các thao tác sau:
 
-Bước 2: Sau đó vào mục cấu hình và chọn "**Cấu hình site**". 
+- Đăng nhập vào quản trị website.
+- Tại giao diện chính, chọn **Cấu hình** (Menu ngang)
+- Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn **Lưu cấu hình** ở cuối trang để lưu lại thiết lập.
+ 
 ![](images/system/cau_hinh_site.png)
 
-Trong mục cấu hình site chúng ta có thể cấu hình các phần như tên miền, tên gọi của website và ảnh của website ... 
-
-Sau khi cấu hình xong chúng ta chọn "**Lưu cấu hình**" để lưu cấu hình cài đặt.
+Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần **Cấu hình / Cấu hình chung**
 
 ## Cấu hình máy chủ gửi thư (Email)
-Mặc định khi chưa cáu hình email, website đã cấu hình gửi email cho khách hàng, nhưng khi gửi email tên người hoặc đơn vị sẽ là mặc định tên của máy chủ mail.
 
-Để  cấu hình email theo đơn vị hoặc người hiện hành đang sử dụng chúng ta làm như sau.
+Mặc định, AZtest đã thiết lập máy chủ gửi thư để website có thể gửi thư đi mà không cần cấu hình thêm. Song, AZtest cũng cung cấp giải pháp để những người am hiểu kỹ thuật có thể tự cấu hình máy chủ gửi thư của riêng họ.
 
-Bước 1: Cấu hình email gửi thư chúng ta cần vào "**Cấu hình site**" và chọn "**Cấu hình SMTP**".
-
-Bước 2: Chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.
+- Truy cập menu (ngang) **Cấu hình / Cấu hình SMTP**
+- Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.
 
 ![](images/system/cau_hinh_email.png)
-
-> Lưu ý: 
-> 
-> * Nếu sử dụng xác thực SSL thì chúng ta chọn cổng 465, xác thức TLS cổng 587.
-> * Tên tài khoản gửi mail là tên tài khoản email của người dùng.
-> * Mật khẩu ứng dụng là mật khẩu ứng dụng email của người dùng, để tạo mật khẩu ứng dụng tìm hiểu kỹ hơn người dùng có thể tham khảo.
-> [tại đây](https://vsoft.com.vn/Blog/huong-dan-lay-mat-khau-ung-dung-mail-de-gui-mail-smtp-15.html).
 
 ## Quản lý module
 Trong một hệ thống quản lý website có rất nhiều module và để quản lý được module người dùng muốn quản lý người dùng cần chọn menu "**Quản lý module**". Mục quản lý module giúp người dùng quản lý từng module nhỏ trong hệ thống website.
