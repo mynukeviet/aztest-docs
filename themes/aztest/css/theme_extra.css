@@ -129,13 +129,33 @@ td, th {
     content: none;
 }
 
-.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a{
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
     margin-bottom: 0
 }
 
-.wy-side-nav-search img{
+.wy-side-nav-search img {
     width: inherit;
     height: inherit;
     border-radius: 0;
     width: 200px
+}
+
+.rst-content img {
+    display: block;
+    margin: auto
+}
+
+.wy-plain-list-disc, .rst-content .section ul, .rst-content .toctree-wrapper ul, article ul {
+    padding-left: 40px
+}
+
+.rst-content blockquote {
+    margin-left: 0;
+    border-left: solid 6px #c5bfbf;
+    padding: 10px;
+    background-color: #f3f0f0;
+}
+
+.rst-content blockquote p {
+    margin-bottom: 0
 }
