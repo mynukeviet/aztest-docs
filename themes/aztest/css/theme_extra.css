@@ -146,7 +146,8 @@ td, th {
 }
 
 .wy-plain-list-disc, .rst-content .section ul, .rst-content .toctree-wrapper ul, article ul {
-    padding-left: 40px
+    padding-left: 40px;
+    line-height: 27px
 }
 
 .rst-content blockquote {
@@ -158,4 +159,16 @@ td, th {
 
 .rst-content blockquote p {
     margin-bottom: 0
+}
+
+.rst-content blockquote ul {
+    padding-left: 0 !important   
+}
+
+footer{
+    text-align: center
+}
+
+ul.subnav ul{
+    margin-left: 22px
 }
