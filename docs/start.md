@@ -21,18 +21,16 @@ Email này chứa thông tin về website (Tên miền, tiêu đề, tài khoả
 
 Bạn cần lưu ý ghi nhớ **Tên truy cập** và **Mật khẩu** để dùng cho việc xác thực thông tin quản trị bên dưới.
 
-Để đăng nhập vào khu vực quản trị, bạn cần truy cập vào URL đăng nhập khu vực quản trị, URL này có câu trúc `http://domain/admin/` (với domain là tên miền của bạn). Ví dụ: http://huutho.aztest.vn/admin/
+Để đăng nhập vào khu vực quản trị, bạn cần truy cập vào URL đăng nhập khu vực quản trị, URL này có cấu trúc `http://domain/admin/` (với domain là tên miền của bạn). 
 
-```
-Nội dung email có chứa URL đăng nhập, bạn có thể click vào liên kết đăng nhập quản trị ở nội dung email
-```
+Ví dụ: http://huutho.aztest.vn/admin/
+
+> Nội dung email có chứa URL đăng nhập, bạn có thể click vào liên kết đăng nhập quản trị ở nội dung email
 
 Điền thông tin đăng nhập chứa trong email hệ thống AZtest đã gửi về cho bạn để đăng nhập.
+
 ![](images/start/dang_nhap.PNG)
-
-Và đây là giao diện khu vực quản trị của bạn.
-![](images/start/khu_vuc_quan_tri.PNG)
-
+	
 ## Đăng xuất khu vực quản trị
 
 Để đăng xuất khu vực quản trị, chúng ta chọn tài khoản và thoát khỏi tài khoản quản trị.
@@ -41,24 +39,12 @@ Và đây là giao diện khu vực quản trị của bạn.
 
 ## Thay đổi thông tin tài khoản
 
-Bước 1: Click vào menu **Tài khoản** (Menu dọc, bên trái màn hình)
+- Click vào menu **Tài khoản** (Menu dọc, bên trái màn hình)
+- Tại danh sách **Tài khoản** thành viên, click biểu tượng **Sửa** ở cuối tên thành viên bạn muốn sửa đổi thông tin
+- Tiến hành điều chỉnh thông tin, sau đó nhấn nút **Lưu** ở cuối trang để kết thúc
 
-Bước 2: Tại danh sách **Tài khoản** thành viên, click biểu tượng **Sửa** ở cuối tên thành viên bạn muốn sửa đổi thông tin
-
-Bước 3: Tiến hành điều chỉnh thông tin, sau đó nhấn nút **Lưu** ở cuối trang để kết thúc
-
-![](images/start/sua_tai_khoan.png) 
-Lưu ý: 
-> Các trường có dấu (*) là những trường bắt buộc người dùng phải nhập.
-> 
-> Trường "Hiệu lực đến" sẽ giúp người dùng muốn nhóm thành viên có quyền hạn sử dụng.
-> 
-> Mục loại nhóm sẽ cho phép người dùng chọn tính chất của loại nhóm.
-> 
-> Ở mục bắt buộc xác thực hai bước khu vực quản trị và ngoài site giúp người dùng tăng khả năng bảo mật của tài khoản, khi dùng chức năng này người dùng đăng nhập bằng tài khoản hệ thống sẽ xác nhận lại đăng nhập bằng tin nhắn hoặc là email.
-> 
-> Ở mục quyền hạn sử dụng người dùng có thể phân quyền cho tài khoản.
-
+![](images/start/sua_tai_khoan.png)
+ 
 ## Chuyển đổi gói dịch vụ
 
 Khi muốn chuyển đổi gói dịch vụ, vui lòng liên hệ với AZtest tại [đây](https://aztest.vn/contact/) để được hỗ trợ. Sau khi nhận yêu cầu, bộ phận chăm sóc khách hàng của AZtest sẽ liên hệ để thực hiện một số thủ tục, website của bạn sẽ được tự động chuyển đổi gói dịch vụ sau khi giao dịch thành công.
@@ -72,21 +58,17 @@ Bạn có thể liên hệ với AZtest hoặc đưa ý tưởng lên các kênh
 
 **Tôi có thể dụng tên miền riêng cho website của tôi không?**
 
-Nếu đã có tên miền, vui lòng trỏ tên miền về IP 61.14.235.164, sau đó liên hệ với chúng tôi để được hỗ trợ chuyển đổi tên miền.
+Nếu đã có tên miền, vui lòng trỏ tên miền về IP `61.14.235.164`, sau đó liên hệ với chúng tôi để được hỗ trợ chuyển đổi tên miền.
 Trường hợp bạn chưa có tên miền, muốn mua tên miền mới, chúng tôi sẵn sàng cung cấp và hỗ trợ cấu hình tên miền mới cho website của bạn. Liên hệ để được tư vấn về giá.
 
 **Tôi thấy website khá hay, rất hiệu quả cho vấn đề giáo dục hiện nay và tôi muốn dùng ở các kỳ thi tập trung không?** 
 
-Vê vấn đề này hệ thống AZtestPro của chúng tôi có thể đáp ứng được nhu cầu của bạn, để dùng hệ thống AZtestPro bạn vui lòng tham khảo và đăng ký tại đây.   
-https://aztest.vn/aztestpro-he-thong-thi-trac-nghiem-tap-trung.html 
+Vê vấn đề này hệ thống AZtestPro của chúng tôi có thể đáp ứng được nhu cầu của bạn, để dùng hệ thống AZtestPro bạn vui lòng tham khảo và đăng ký tại [đây](https://aztest.vn/aztestpro-he-thong-thi-trac-nghiem-tap-trung.html)
 
 
 Vui lòng liên hệ với chúng tôi để được tư vấn chi tiết:
 
-CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC.
-
-Điện thoại: +84-2336270610
-
-Hotline: +84-905908430 (hỗ trợ 24/7)
-
-Email: contact@tdfoss.vn
+- CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC.
+- Điện thoại: +84-2336270610
+- Hotline: +84-905908430 (hỗ trợ 24/7)
+- Email: contact@tdfoss.vn
