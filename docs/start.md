@@ -13,9 +13,13 @@ Tiến hành khai báo thông tin vào biểu mẫu, thông tin của bạn cầ
 
 ## Đăng nhập khu vực quản trị
 
-Sau khi khởi tạo thành công, hệ thống AZtest xét duyệt và gửi email thông báo về cho bạn như hình dưới đây. Email này chứa thông tin về website (Tên miền, tiêu đề, tài khoản quản trị,....) và các thông tin cần lưu ý khác. Bạn cần lưu ý ghi nhớ **Tên truy cập** và **Mật khẩu** để dùng cho việc xác thực thông tin quản trị bên dưới.
+Sau khi khởi tạo thành công, hệ thống AZtest xét duyệt và gửi email thông báo về cho bạn như hình dưới đây. 
 
 ![](images/start/email_xac_nhan.PNG)
+
+Email này chứa thông tin về website (Tên miền, tiêu đề, tài khoản quản trị,....) và các thông tin cần lưu ý khác. 
+
+Bạn cần lưu ý ghi nhớ **Tên truy cập** và **Mật khẩu** để dùng cho việc xác thực thông tin quản trị bên dưới.
 
 Để đăng nhập vào khu vực quản trị, bạn cần truy cập vào URL đăng nhập khu vực quản trị, URL này có câu trúc `http://domain/admin/` (với domain là tên miền của bạn). Ví dụ: http://huutho.aztest.vn/admin/
 
