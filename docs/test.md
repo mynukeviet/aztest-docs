@@ -78,3 +78,53 @@ Sau khi nhập thông tin, nhấn nút **Cập nhật** để tiến hành thêm
 - Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa một chủ đề
 
 ## Quản lý xếp loại
+
+- Truy cập **Trắc nghiệm / Quản lý xếp loại** (menu dọc)
+- Mặc định, AZtest cấu hình sẵn 05 mốc xếp loại phổ biến, bạn có thể thay đổi các giá trị phù hợp với yêu cầu.
+
+![](./images/test/quan-ly-xep-loai.png)
+
+## Quản lý đề thi
+
+> Để bắt đầu tạo một đề thi mới, bạn hãy chắc chắn đã đọc và thực hiện xong các yêu cầu tại [Các thiết lập ban đầu](/test/#cac-thiet-lap-ban-au)
+
+Truy cập **Trắc nghiệm (1) / Đề thi (2)** (menu dọc)
+
+![](./images/test/quan-ly-de-thi.png)
+
+### Tạo đề thi mới
+
+Trên giao diện Quản lý đề thi, click **Thêm đề thi (3)**
+
+![](./images/test/them-de-thi.png)
+
+Giải thích các trường thông tin:
+
+- **Tên gọi đề thi (1):**  Nhập tên đề thi. Ví dụ: Đề thi toán học kỳ 2, năm học 2017-2018
+- **Liên kết tĩnh (2):** Đây là chuỗi quy định URL của một đề thi. Chuỗi này thường được tự động tạo sau khi điền xong Tiêu đề. Do đó, bạn có thể không cần quan tâm đến nó, cứ để giá trị có sẵn. Ví dụ: tương ứng với tiêu đề bên trên thì chúng ta sẽ có liên kết tĩnh tương ứng là `de-thi-toan-hoc-ky-2-nam-hoc-2017-2018`.
+- **Chủ đề (3):** Chọn Chủ đề cho đề thi, danh sách đề thi quản lý tại [Quản lý đề thi](/test/#quan-ly-e-thi)
+- **Hình ảnh (5):** Chọn ảnh đại diện cho đề thi, ảnh này sẽ hiển thị bên cạnh đề thi
+- **Giới thiệu (6):** Mô tả ngắn gọn về nội dung đề thi
+- **Nội dung (7):** Nhập nội dung mô tả chi tiết cho đề thi
+- **Nhóm tham gia thi (8):** Chọn nhóm thành viên được phép thực hiện đề thi này. Xem thêm [Quản lý nhóm thành viên](/system/#quan-ly-nhom-thanh-vien)
+- **Nhóm được bình luận (9):** Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi.
+- **Nhóm xem đáp án sau bài làm (10):** Nhóm thành viên được phép xem đáp án sau khi làm bài.
+
+![](./images/test/them-de-thi-1.png)
+
+- **Hình thức kiểm tra (1):**
+	- **Tự luyện:** Cho phép một thành viên thi nhiều lượt, mỗi lượt thi hệ thống sẽ tự động thay đổi vị trí các câu hỏi và đáp án. Mỗi lượt thi đều chấm điểm.
+	- **Chấm điểm:** Đề thi chỉ cho phép mỗi thành viên thi một lượt và được chấm điểm. Phương án này phù hợp với việc tổ chức các kỳ thi để lấy kết quả thi.
+- **Số lượng câu hỏi (2):** Nhập số lượng câu hỏi cho đề thi
+- **Thang điểm (3):** Nhập thang điểm cho đề thi. Ví dụ: thang điểm 10 thì nhập là 10
+- **Thời gian làm bài (4):** Nhập thời gian làm bài cho đề thi, **thời gian tính bằng đơn vị phút**.
+- **Số câu hỏi trên trang (5):** Nhập số câu hỏi hiển thị trên một trang. Trường hợp đề có nhiều câu hỏi thì việc phân trang sẽ giúp tiết kiệm 
+Phương thức nhập câu hỏi (6):
+Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi
+Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word
+Tích chọn các tính năng mở rộng cho đề thi (7): 
+Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.
+Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.
+Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên
+Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi
+Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp

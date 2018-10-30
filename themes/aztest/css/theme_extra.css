@@ -172,3 +172,9 @@ footer{
 ul.subnav ul{
     margin-left: 22px
 }
+
+.wy-nav-side {
+    height: calc(100% - 45px);
+    overflow-y: auto;
+    min-height: 0;
+}
