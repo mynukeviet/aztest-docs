@@ -178,3 +178,7 @@ ul.subnav ul{
     overflow-y: auto;
     min-height: 0;
 }
+
+li a.toctree-l3{
+display: none
+}
