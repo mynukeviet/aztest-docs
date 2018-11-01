@@ -99,6 +99,19 @@
     <li class="toctree-l2"><a href="#quan-ly-cau-hoi-cua-e-thi">Quản lý câu hỏi của đề thi</a></li>
     
 
+    <li class="toctree-l2"><a href="#nhap-cau-hoi-tu-microsoft-word">Nhập câu hỏi từ Microsoft Word</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#oi-voi-e-thi-co-chua-cong-thuc-toan-hoc">Đối với đề thi có chứa công thức toán học</a></li>
+        
+            <li><a class="toctree-l3" href="#chinh-sua-e-thi-theo-chuan-cua-he-thong-yeu-cau">Chỉnh sửa đề thi theo chuẩn của hệ thống yêu cầu</a></li>
+        
+            <li><a class="toctree-l3" href="#thuc-hien-import-cau-hoi-cho-e-thi">Thực hiện import câu hỏi cho đề thi</a></li>
+        
+        </ul>
+    
+
     </ul>
                     </li>
                 </ul>
@@ -265,6 +278,145 @@
 </ul>
 <p>Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn <strong>Cập nhật</strong> để thêm đề thi. Dựa vào lựa chọn <strong>Phương thức nhập câu hỏi (6)</strong>, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.</p>
 <h2 id="quan-ly-cau-hoi-cua-e-thi">Quản lý câu hỏi của đề thi</h2>
+<h2 id="nhap-cau-hoi-tu-microsoft-word">Nhập câu hỏi từ Microsoft Word</h2>
+<blockquote>
+<p>Tính năng này không có trong gói miễn phí. Vui lòng nâng cấp lên gói cao hơn.</p>
+</blockquote>
+<h3 id="oi-voi-e-thi-co-chua-cong-thuc-toan-hoc">Đối với đề thi có chứa công thức toán học</h3>
+<blockquote>
+<p>Phần này chỉ dành cho danh sách câu hỏi chứa công thức toán học. Nếu nội dung bạn không tồn tại công thức, hãy bỏ qua phần này</p>
+</blockquote>
+<p>Để tải đề thi có chứa công thức toán học lên hệ thống, bạn cần phải qua một số thao tác kỹ thuật nhằm chuyển công thức toán sang dạng ký hiệu. Hướng dẫn dưới đây sẽ giúp bạn làm điều này.</p>
+<p><strong>Cài đặt phần mềm MathType</strong></p>
+<p>Đây là phần mềm thương mại giúp bạn có thể soạn thảo công thức toán học, sau khi cài đặt nó sẽ được tích hợp trong bộ Office của Microsoft. Ngoài tính năng chính là soạn thảo công thức, phần mềm này có một số công cụ giúp chúng ta chuyển đổi công thức sang nhiều định dạng khác nhau.</p>
+<p>Tải về phiên bản mới nhất và tiến hành cài đặt tại <a href="http://www.dessci.com/en/products/mathtype/">http://www.dessci.com/en/products/mathtype/</a></p>
+<p><strong>Sử dụng MathType chuyển đổi công thức toán học sang mã Tex</strong></p>
+<ul>
+<li>Chọn toàn bộ văn bản (bôi đen)</li>
+<li>Trên thanh định dạng chọn <strong>MathType</strong>, chọn tiếp <strong>Toggle Tex</strong></li>
+</ul>
+<p><img alt="" src="../images/test/chuyen-doi-tex.png" /></p>
+<p>Lúc này văn bản chuyển sang dạng như sau</p>
+<p><img alt="" src="../images/test/chuyen-doi-tex-1.png" /></p>
+<p>Bạn cần lưu nội dung mới này là để thực hiện bước tiếp theo.</p>
+<h3 id="chinh-sua-e-thi-theo-chuan-cua-he-thong-yeu-cau">Chỉnh sửa đề thi theo chuẩn của hệ thống yêu cầu</h3>
+<p><strong>Kiểm tra và thay đổi nội dung đề thi</strong></p>
+<blockquote>
+<p>Hệ thống sẽ tự động xóa hết tất cả các định dạng trong nội dung đề thi (in đậm, in nghiêng, hình ảnh, màu sắc,....). Do đó, bạn cần định dạng lại nội dung sau khi thêm câu hỏi thành công.</p>
+</blockquote>
+<p>Đối với mỗi câu hỏi bạn thực hiện lần lượt các thao tác sau:</p>
+<ul>
+<li>Mỗi câu hỏi, đáp án nằm trên một hàng riêng biệt</li>
+<li>Không cần đánh thứ tự số câu. Ví dụ: Câu 1, Câu 2,...... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)</li>
+<li>Không cần đánh thứ tự đán án. Ví dụ: A, B, C, D,..... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)</li>
+<li>Đánh dấu đáp án đúng bằng ký tự sao (*), đằng trước đáp án đúng</li>
+<li>Mỗi bộ câu hỏi (gồm câu hỏi và đáp án) cách nhau bởi một dòng trắng (Enter)</li>
+</ul>
+<p>Xem ví dụ:</p>
+<pre><code>
+Xà phòng hóa hoàn toàn 265,2 gam chất béo (X) bằng dung dịch KOH thu được 288 gam một muối kali duy nhất. Tên gọi của X là
+*tripanmitoyl glixerol (hay tripanmitin).
+trilinoleoyl glixerol (hay trilinolein).
+tristearoyl glixerol (hay tristearin).
+trioleoyl glixerol (hay triolein).
+
+Nhiều vụ ngộ độc rượu do trong rượu có chứa metanol. Công thức của metanol là
+*C2H5OH 
+H-CHO   
+CH3COOH 
+CH3OH
+
+X là sản phẩm sinh ra khi cho fructozơ tác dụng với H2. Đốt cháy hoàn toàn m gam hỗn hợp Y gồm: ancol metylic, glixerol và X thu được 5,6 lít khí CO2 (đktc). Cũng m gam Y trên cho tác dụng với Na dư thu được tối đa V lít khí H2 (đktc). Giá trị của V là
+4,48
+2,80    
+*3,36   
+5,60
+</code></pre>
+
+<p>Bạn cần lưu nội dung mới này là để thực hiện bước tiếp theo.</p>
+<p><strong>Sử dụng macro tự động chuyển sang cấu trúc chuẩn AZtest</strong></p>
+<p>Cài đặt macro AZtest</p>
+<p>Việc cài đặt marco này chỉ thực hiện một lần trên một máy tính, lần sau bạn không cần phải thực hiện bước này nữa.</p>
+<p><strong>Bước 1:</strong> Trên giao diện Microsoft Word (2007 -&gt; 2013), chọn tab <strong>View =&gt; Macros =&gt; View macros</strong></p>
+<p><img alt="" src="../images/test/chuyen-doi-tex-2.png" /></p>
+<p><strong>Bước 2:</strong> Trên cửa sổ nhỏ mới xuất hiện, chọn Create để tạo mới marco.</p>
+<p><img alt="" src="../images/test/chuyen-doi-tex-3.png" /></p>
+<p><strong>Bước 3:</strong> Trên cửa sổ lớn mới xuất hiện, xóa hết nội dung có sẵn, sau đó copy nội nội mới này vào</p>
+<pre><code>Sub AZTEST_WORD()
+    Dim MyText As String
+    Dim MyRange As Object
+    iParcount = ActiveDocument.Paragraphs.Count
+    Dim I, J, Question As Long
+    J = 1
+    I = 1
+    Question = 1
+    Do
+        ' Lay du lieu cua doan van
+       Set MyRange = ActiveDocument.Paragraphs(J).Range
+       ' Doan van dau tien la de bai, them tieu de cau hoi va dau ngoac nhon
+       If I = 1 Then
+          MyText = &quot;::Question&quot; &amp; Question &amp; &quot;::&quot;
+          MyRange.InsertBefore (MyText)
+          MyText = &quot;[BEGIN]&quot; &amp; Chr(13)
+          MyRange.InsertAfter (MyText)
+          J = J + 1
+          iParcount = iParcount + 1   ' Do them 1 dong moi
+          Set MyRange = ActiveDocument.Paragraphs(J).Range
+       End If
+       ' Doan van thu 2 den 5 la cac dap an, them dau nga
+       If I = 2 Or I = 3 Or I = 4 Or I = 5 Then
+          MyText = &quot;~&quot;
+          MyRange.InsertBefore (MyText)
+       End If
+       ' Doan van cuoi cung them dau ngoac ket thuc cau hoi
+       If I = 5 Then
+          MyText = &quot;[END]&quot; &amp; Chr(13)
+          MyRange.InsertAfter (MyText)
+          J = J + 1
+          iParcount = iParcount + 1   ' Do them 1 dong moi
+          Set MyRange = ActiveDocument.Paragraphs(J).Range
+       End If
+       ' Cap nhat lai gia tri i the hien cau nao trong cau hoi trac nghiem
+       I = I + 1
+       If I = 7 Then
+            I = 1
+            Question = Question + 1
+       End If
+       J = J + 1
+    Loop Until J &gt; iParcount
+        ' Thay the ~* thanh dau =: dap an
+    With ActiveDocument.Content.Find
+    .ClearFormatting
+    With .Replacement
+        .ClearFormatting
+        .Font.Bold = False
+    End With
+    .Execute FindText:=&quot;~*&quot;, ReplaceWith:=&quot;=&quot;, Replace:=wdReplaceAll
+    End With
+End Sub
+</code></pre>
+
+<p><img alt="" src="../images/test/chuyen-doi-tex-4.png" /></p>
+<p>Nhấn <strong>Ctrl + S</strong> để lưu lại, bây giờ có thể đóng cửa sổ này.</p>
+<p><strong>Tự động chuyển về cấu trúc hợp lệ</strong></p>
+<ul>
+<li>Thực hiện lại bước trên, song lúc này chúng ta sẽ thấy marco <strong>AZTEST_WORD</strong> đã được cài đặt. Nhấn chọn <strong>AZTEST_WORD (1)</strong> và nhấn <strong>RUN (2)</strong></li>
+<li>Nội dung file word lúc này sẽ được tự động định dạng lại để phù hợp với yêu cầu của hệ thống AZtest, copy lại nội dung này để thực hiện bước tiếp theo.</li>
+</ul>
+<p><img alt="" src="../images/test/chuyen-doi-tex-5.png" /></p>
+<h3 id="thuc-hien-import-cau-hoi-cho-e-thi">Thực hiện import câu hỏi cho đề thi</h3>
+<ul>
+<li>Sau khi hoàn tất các bước chỉnh sửa đề thi theo cấu hình từ MS Word, bây giờ tiến hành import câu hỏi vào đề thi thuộc hệ thống AZtest. </li>
+<li>Từ giao diện quản lý câu hỏi, click <strong>Nhập câu hỏi từ MS Word</strong></li>
+</ul>
+<p><img alt="" src="../images/test/nhap-cau-hoi-tu-word.png" /></p>
+<ul>
+<li>Thực hiện dán nội dung bạn đã chuyển đổi bên trên vào</li>
+</ul>
+<p><img alt="" src="../images/test/nhap-cau-hoi-tu-word-1.png" /></p>
+<ul>
+<li>Nhấn <strong>Cập nhật</strong> để hoàn tất. Nếu thành công, bạn sẽ thấy được danh sách câu hỏi mới.</li>
+</ul>
               
             </div>
           </div>
