@@ -87,6 +87,18 @@
     <li class="toctree-l2"><a href="#quan-ly-xep-loai">Quản lý xếp loại</a></li>
     
 
+    <li class="toctree-l2"><a href="#quan-ly-e-thi">Quản lý đề thi</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#tao-e-thi-moi">Tạo đề thi mới</a></li>
+        
+        </ul>
+    
+
+    <li class="toctree-l2"><a href="#quan-ly-cau-hoi-cua-e-thi">Quản lý câu hỏi của đề thi</a></li>
+    
+
     </ul>
                     </li>
                 </ul>
@@ -192,6 +204,62 @@
 <li>Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa một chủ đề</li>
 </ul>
 <h2 id="quan-ly-xep-loai">Quản lý xếp loại</h2>
+<ul>
+<li>Truy cập <strong>Trắc nghiệm / Quản lý xếp loại</strong> (menu dọc)</li>
+<li>Mặc định, AZtest cấu hình sẵn 05 mốc xếp loại phổ biến, bạn có thể thay đổi các giá trị phù hợp với yêu cầu.</li>
+</ul>
+<p><img alt="" src="../images/test/quan-ly-xep-loai.png" /></p>
+<h2 id="quan-ly-e-thi">Quản lý đề thi</h2>
+<blockquote>
+<p>Để bắt đầu tạo một đề thi mới, bạn hãy chắc chắn đã đọc và thực hiện xong các yêu cầu tại <a href="/test/#cac-thiet-lap-ban-au">Các thiết lập ban đầu</a></p>
+</blockquote>
+<p>Truy cập <strong>Trắc nghiệm (1) / Đề thi (2)</strong> (menu dọc)</p>
+<p><img alt="" src="../images/test/quan-ly-de-thi.png" /></p>
+<h3 id="tao-e-thi-moi">Tạo đề thi mới</h3>
+<p>Trên giao diện <strong>Quản lý đề thi</strong>, click <strong>Thêm đề thi (3)</strong></p>
+<p><img alt="" src="../images/test/them-de-thi.png" /></p>
+<blockquote>
+<p>Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn <strong>Cập nhật</strong></p>
+</blockquote>
+<p>Giải thích các trường thông tin:</p>
+<ul>
+<li><strong>Tên gọi đề thi (1):</strong>  Nhập tên đề thi. Ví dụ: Đề thi toán học kỳ 2, năm học 2017-2018</li>
+<li><strong>Liên kết tĩnh (2):</strong> Đây là chuỗi quy định URL của một đề thi. Chuỗi này thường được tự động tạo sau khi điền xong Tiêu đề. Do đó, bạn có thể không cần quan tâm đến nó, cứ để giá trị có sẵn. Ví dụ: tương ứng với tiêu đề bên trên thì chúng ta sẽ có liên kết tĩnh tương ứng là <code>de-thi-toan-hoc-ky-2-nam-hoc-2017-2018</code>.</li>
+<li><strong>Chủ đề (3):</strong> Chọn Chủ đề cho đề thi, danh sách đề thi quản lý tại <a href="/test/#quan-ly-e-thi">Quản lý đề thi</a></li>
+<li><strong>Hình ảnh (5):</strong> Chọn ảnh đại diện cho đề thi, ảnh này sẽ hiển thị bên cạnh đề thi</li>
+<li><strong>Giới thiệu (6):</strong> Mô tả ngắn gọn về nội dung đề thi</li>
+<li><strong>Nội dung (7):</strong> Nhập nội dung mô tả chi tiết cho đề thi</li>
+<li><strong>Nhóm tham gia thi (8):</strong> Chọn nhóm thành viên được phép thực hiện đề thi này. Xem thêm <a href="/system/#quan-ly-nhom-thanh-vien">Quản lý nhóm thành viên</a></li>
+<li><strong>Nhóm được bình luận (9):</strong> Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi.</li>
+<li><strong>Nhóm xem đáp án sau bài làm (10):</strong> Nhóm thành viên được phép xem đáp án sau khi làm bài.</li>
+</ul>
+<p><img alt="" src="../images/test/them-de-thi-1.png" /></p>
+<ul>
+<li><strong>Hình thức kiểm tra (1):</strong><ul>
+<li><strong>Tự luyện:</strong> Cho phép một thành viên thi nhiều lượt, mỗi lượt thi hệ thống sẽ tự động thay đổi vị trí các câu hỏi và đáp án. Mỗi lượt thi đều chấm điểm.</li>
+<li><strong>Chấm điểm:</strong> Đề thi chỉ cho phép mỗi thành viên thi một lượt và được chấm điểm. Phương án này phù hợp với việc tổ chức các kỳ thi để lấy kết quả thi.</li>
+</ul>
+</li>
+<li><strong>Số lượng câu hỏi (2):</strong> Nhập số lượng câu hỏi cho đề thi</li>
+<li><strong>Thang điểm (3):</strong> Nhập thang điểm cho đề thi. Ví dụ: thang điểm 10 thì nhập là 10</li>
+<li><strong>Thời gian làm bài (4):</strong> Nhập thời gian làm bài cho đề thi, <strong>thời gian tính bằng đơn vị phút</strong>.</li>
+<li><strong>Số câu hỏi trên trang (5):</strong> Nhập số câu hỏi hiển thị trên một trang. Trường hợp đề có nhiều câu hỏi thì việc phân trang sẽ giúp tiết kiệm </li>
+<li><strong>Phương thức nhập câu hỏi (6):</strong><ul>
+<li><strong>Nhập câu hỏi mới:</strong> Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi</li>
+<li><strong>Nhập từ Microsoft Word:</strong> Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word</li>
+</ul>
+</li>
+<li><strong>Tích chọn các tính năng mở rộng cho đề thi (7):</strong> <ul>
+<li><strong>Hiển thị ngẫu nhiên câu hỏi và đáp án:</strong> Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.</li>
+<li><strong>Hiển thị xếp loại sau làm bài:</strong> Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.</li>
+<li><strong>Lưu lịch sử làm bài:</strong> Hệ thống tự động lưu lại lịch sử thi của thành viên</li>
+<li><strong>Cho phép làm lại bài:</strong> Cho phép thành viên có thể làm lại bài thi</li>
+<li><strong>Cho phép in đề:</strong> Hệ thống sẽ in đề thi trực tiếp</li>
+</ul>
+</li>
+</ul>
+<p>Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn <strong>Cập nhật</strong> để thêm đề thi. Dựa vào lựa chọn <strong>Phương thức nhập câu hỏi (6)</strong>, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.</p>
+<h2 id="quan-ly-cau-hoi-cua-e-thi">Quản lý câu hỏi của đề thi</h2>
               
             </div>
           </div>
