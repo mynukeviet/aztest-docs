@@ -94,9 +94,11 @@ Truy cập **Trắc nghiệm (1) / Đề thi (2)** (menu dọc)
 
 ### Tạo đề thi mới
 
-Trên giao diện Quản lý đề thi, click **Thêm đề thi (3)**
+Trên giao diện **Quản lý đề thi**, click **Thêm đề thi (3)**
 
 ![](./images/test/them-de-thi.png)
+
+> Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
 
 Giải thích các trường thông tin:
 
@@ -119,12 +121,16 @@ Giải thích các trường thông tin:
 - **Thang điểm (3):** Nhập thang điểm cho đề thi. Ví dụ: thang điểm 10 thì nhập là 10
 - **Thời gian làm bài (4):** Nhập thời gian làm bài cho đề thi, **thời gian tính bằng đơn vị phút**.
 - **Số câu hỏi trên trang (5):** Nhập số câu hỏi hiển thị trên một trang. Trường hợp đề có nhiều câu hỏi thì việc phân trang sẽ giúp tiết kiệm 
-Phương thức nhập câu hỏi (6):
-Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi
-Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word
-Tích chọn các tính năng mở rộng cho đề thi (7): 
-Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.
-Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.
-Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên
-Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi
-Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp
+- **Phương thức nhập câu hỏi (6):**
+	- **Nhập câu hỏi mới:** Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi
+	- **Nhập từ Microsoft Word:** Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word
+- **Tích chọn các tính năng mở rộng cho đề thi (7):** 
+	- **Hiển thị ngẫu nhiên câu hỏi và đáp án:** Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.
+	- **Hiển thị xếp loại sau làm bài:** Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.
+	- **Lưu lịch sử làm bài:** Hệ thống tự động lưu lại lịch sử thi của thành viên
+	- **Cho phép làm lại bài:** Cho phép thành viên có thể làm lại bài thi
+	- **Cho phép in đề:** Hệ thống sẽ in đề thi trực tiếp
+
+Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
+
+## Quản lý câu hỏi của đề thi
