@@ -162,14 +162,14 @@ td, th {
 }
 
 .rst-content blockquote ul {
-    padding-left: 0 !important   
+    padding-left: 0 !important
 }
 
-footer{
+footer {
     text-align: center
 }
 
-ul.subnav ul{
+ul.subnav ul {
     margin-left: 22px
 }
 
@@ -179,6 +179,15 @@ ul.subnav ul{
     min-height: 0;
 }
 
-li a.toctree-l3{
-display: none
+li a.toctree-l3 {
+    display: none
+}
+
+.rst-content h2 {
+    border-bottom: 3px solid green;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-size: 120%;
 }
