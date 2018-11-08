@@ -297,3 +297,57 @@ Nhấn **Ctrl + S** để lưu lại, bây giờ có thể đóng cửa sổ nà
 ![](./images/test/nhap-cau-hoi-tu-word-1.png)
 
 - Nhấn **Cập nhật** để hoàn tất. Nếu thành công, bạn sẽ thấy được danh sách câu hỏi mới.
+
+## Cấu hình
+
+Để thiết lập cấu hình trên menu **Trắc nghiệm/ Cấu hình** (Menu dọc)
+
+### Nhóm được truy cập
+ 
+Người dùng lựa chọn đối tượng được phép truy cập vào tài khoản AZtest.
+
+- Quản trị tối cao: 
+- Điều hành chung:
+- Quản lý Module: 
+- Thành viên chính thức:
+- Thành viên mới:
+- Khách:
+- Tất cả: 
+
+Nếu tất cả các đối tượng đều được phép truy cập thì tích vào ô **Tất cả**
+
+### Hiển thị trên trang chủ
+
+Click vào mũi tên bên phải dòng Hiển thị trên trang chủ để lựa chọn cách hiển thị của đề thi trên trang chủ. 
+
+- Danh sách, mới lên trên: Các đề thi sẽ được sắp xếp thành một danh sách, những đề thi nào mới sẽ được tự động đẩy lên trên. 
+- Chuyên mục, đề thi nhỏ nằm bên dưới: Các đề thi sẽ được sắp xếp thành các chuyên mục, các đề thi nhỏ sẽ nằm bên dưới chuyên mục. 
+- Chuyên mục, đề thi nhỏ nằm bên phải: Các đề thi sẽ được sắp xếp thành chuyên mục, các đề thi nhỏ thuộc chủ đề sẽ nằm bên phải. 
+- Chuyên mục thành 2 cột: (chưa hiểu) 
+- Chuyên mục chính cấp 1, phụ cấp 2: Các đề thi sẽ được chia làm 2 loại chuyên mục: chuyên mục chính và chuyên mục phụ. 
+- Không hiển thị: Trên trang chủ sẽ không hiển thị bất kì một đề thi nào.
+ 
+### Cấu hình hiển thị giao diện làm bài
+
+Click vào mũi tên bên phải để chọn Cấu hình hiển thị giao diện làm bài. 
+
+- Hiển thị theo dạng danh sách:  Các câu hỏi trong đề thi sẽ hiển thị theo dạng danh sách theo số thứ tự
+- Hiển thị từng câu hỏi: Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài. 
+
+### Thực hiện tương tự các thao tác khác dể thiết lập cấu hình 
+
+- Sử dụng editor: Trong trường hợp câu hỏi có sử dụng hình ảnh, định dạng văn bản,...thì bạn tích chọn Sử dụng editor. Khung soạn thảo sẽ chuyển sang dạng trình soạn thảo văn bản. 
+- Hiển thị giới thiệu ngắn gọn: Nếu bạn muốn hiển thị lời giới thiệu ngắn gọn về đề thi trên trang chủ thì tích chọn Hiển thị giới thiệu ngắn gọn. 
+- Công cụ xã hội: Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội. 
+- Ảnh mặc định: 
+- Cấu trúc thư mục upload:
+- Số đề thi chỉ hiển thị link:
+- Số đề thi trên trang danh sách: 
+- Vị trí ảnh mặc định: Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu. 
+- Hiển thị lời giải khi làm bài: Khi tích chọn lời giải sẽ hiện thị trong quá trình làm bài
+- Từ khóa:
+	- Chuyển chữ thường: 
+	- Lọc tag alias: 
+	- Tự động tạo từ khóa: 
+	- Nhắc nhở từ khóa: 
+Sau khi đã chọn đầy đủ các mục click Cập nhật để hoàn thành. 
