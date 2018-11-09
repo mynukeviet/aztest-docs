@@ -2,182 +2,142 @@
 title: Quản trị hệ thống
 ---
 
-## Cấu hình thông tin website
+## Thay đổi thông tin website
 
-Bạn có thể thay đổi các thông tin cơ bản của website như tiêu đề, mô tả, logo,... bằng cách thực hiện các thao tác sau:
+Truy cập **Cấu hình** (Menu ngang)
 
-- Đăng nhập vào quản trị website.
-- Tại giao diện chính, chọn **Cấu hình** (Menu ngang)
-- Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn **Lưu cấu hình** ở cuối trang để lưu lại thiết lập.
- 
 ![](images/system/cau_hinh_site.png)
 
-Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần **Cấu hình / Cấu hình chung**
+Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn **Lưu cấu hình** ở cuối trang để lưu lại thiết lập.
+
+Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần **Cấu hình / Cấu hình chung** (Menu ngang)
 
 ## Cấu hình máy chủ gửi thư (Email)
 
 Mặc định, AZtest đã thiết lập máy chủ gửi thư để website có thể gửi thư đi mà không cần cấu hình thêm. Song, AZtest cũng cung cấp giải pháp để những người am hiểu kỹ thuật có thể tự cấu hình máy chủ gửi thư của riêng họ.
 
-- Truy cập menu (ngang) **Cấu hình / Cấu hình SMTP**
-- Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.
+Truy cập **Cấu hình / Cấu hình SMTP** (Menu ngang)
 
 ![](images/system/cau_hinh_email.png)
 
+Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.
+
 ## Quản lý module
-Trong một hệ thống quản lý website có rất nhiều module và để quản lý được module người dùng muốn quản lý người dùng cần chọn menu "**Quản lý module**". Mục quản lý module giúp người dùng quản lý từng module nhỏ trong hệ thống website.
+
+Hệ thống AZtest được cấu thành bởi các tính năng riêng biệt (gọi là modules). Ngoài các module được kích hoạt sẵn khi khởi tạo website, bạn cũng có thể cài đặt cho website của mình nhiều module với các mục đích khác nhau.
+
+Truy cập "**Quản lý modules**" (Menu ngang)
+
+Tại trang chính, bạn có thể thấy danh sách các modules đã được cài đặt trước đó. Bạn có thể thực hiện các thao tác như kích hoạt, nghưng kích hoạt, sửa, cài lại và xóa modules.
 
 ![](images/system/quan_ly_module.png)
 
-Ở mục quản lý module người dùng có thể tháo tác can thiệp vào các module như kích hoạt, nghưng kích hoạt, sửa, cài lại và xóa.
-Nếu cài lại module người dùng có thể làm như sau:
+### Cài đặt module mới
 
-Bước 1: Chọn module cần cài và chọn cài lại.
+Truy cập "**Quản lý modules / Thiết lập module mới**" (Menu ngang)
 
-Bước 2: Khi cài đặt module nếu module có dữ liệu mẫu bạn cần thao tác chọn cách thức cài đặt có chứa dữ liệu mẫu hoặc là không, và chọn cài đặt.
+- Các module chưa được cài đặt sẽ hiển thị trong phần **Các module hệ thống**
+- Click **Thiết lập** ở cuối mỗi module để tiến hành cài đặt
+- Bạn có thể chọn cài đặt thêm dữ liệu mẫu hoặc không tại hộp thoại tiếp theo
+- Click **Thiết lập** để chuyển sang bước tiếp theo
 
-Bước 3: Sau khi cài đặt thành công chọn hoàn tất.
+![](images/system/thiet-lap-module.png)
 
-> * Lưu ý: việc cài lại module này chỉ cho phép đối với các module chứa trong hệ thống, hoặc là các module của hệ thống AZtest cung cấp cho người dùng.
+- Ở bước cuối cùng này, bạn có thể bỏ qua, hoặc có thể hiệu chỉnh thêm một số thông tin như mong muốn, clic **Thực hiện** nếu có thay đổi
 
-## Quản lý giao diện người dùng
+![](images/system/thiet-lap-module-1.png)
 
-Để quản lý giao diện website , người dùng vào mục "**Quản lý giao diện**" trên thanh menu để hiểu chỉnh website.
+## Thay đổi giao diện website
+
+Truy cập **Quản lý giao diện** (Menu ngang)
 
 ![](images/system/quan_ly_giao_dien.png)
 
-Ở mục "**Quản lý giao diện**" người dùng có thể thiết lập giao diện, layout và quản lý các block.
+Tại đây, bạn có thể chọn một trong các giao diện có sẵn để sử dụng cho website của mình bằng cách rê chuột lên (ảnh đại diện) của giao diện, chọn **Kích hoạt sử dụng**.
 
-Để thay đổi kích hoạt người dùng có thể tháo tác sau:
-
-Bước 1: Chọn giao diện người dùng muốn kích hoạt hoặc cài đặt.
-
-Bước 2: Chọn kích hoạt giao diện sử dụng.
-
-Quản lý giao diện là nơi người dùng có thể tùy chỉnh layout bố cục của website hoặc tùy chỉnh các block theo ý muốn của người dùng.
-> Lưu ý: Các giao diện và block người dùng cài đặt thiết lập chỉ có trong hệ thống.
-
-> Các giao diện mặc định của hệ thống, bạn không được xóa, đổi tên và không nên sửa trực tiếp vào giao diện này. Nếu muốn, hãy copy thành giao diện khác và kích hoạt sử dụng giao diện mới đó để chỉnh sửa và sử dụng.
+Sau khi kích hoạt, bạn có thể quay trở lại trang chủ đề xem website với giao diện mới.
 
 ## Quản lý nhóm thành viên
 
-Để quản lý nhóm thành viên người dùng chọn "**Tài khoản và chọn nhóm thành viên**", ở mục nhóm thành viên người dùng có thể quản lý tất cả các nhóm thành viên bằng các phân quyền có sẵn như tạo nhóm thành viên, thêm, sửa, xóa tài khoản thành viên và nhiều phần quyền khác. Các nhóm thành viên đều có hiệu lực riêng tùy vào người sử dụng phân quyền.
+Truy cập "**Tài khoản / Nhóm thành viên**" (Menu dọc)
 
 ![](images/system/nhom_thanh_vien.png) 
 
+Trên giao diện này, bạn có thể sửa, xóa các nhóm thành viên
+
+> Các nhóm ở vị trí 1, 2, 3, 4 là các nhóm mặc định của hệ thống, bạn không thể sửa hoặc xóa cũng như ngưng kích hoạt chúng
 
 ### Thêm nhóm
 
-Để thêm nhóm thành viên người dùng chọn thêm nhóm, điền tất cả thông tin về nhóm như tên nhóm, mô tả và các phân quyền của nhóm mà người dùng cho phép.
-
+Trên giao diện danh sách nhóm, click nút **Thêm nhóm**
+ 
 ![](images/system/them_nhom_thanh_vien.png)
 
-Để thêm nhóm thành viên người dùng cần thao tác:
+Trên giao diện này, bạn chỉ cần nhập **Tên nhóm** (các trường có dấu sao (*)), các thông tin khác có thể bỏ qua
 
-Bước 1: Chọn thêm nhóm và điền các thông tin nhóm vào.
-
-Bước 2: chọn loại nhóm và các nội dung của nhóm.
-
-Bước 3: Cấu hình quyền hạn sử dụng module của trưởng nhóm và chọn Lưu.
-
-Khi thêm nhóm người dùng cần chú ý các vấn đề sau:
-
-> * Các trường có dấu (*) là những trường bắt buộc người dùng phải nhập.
-> 
-> * Trường "**Hiệu lực đến**" sẽ giúp người dùng muốn nhóm thành viên có quyền hạn sử dụng.
-> * Mục loại nhóm sẽ cho phép người dùng chọn tính chất của loại nhóm.
-> * Ở mục bắt buộc xác thực hai bước khu vực quản trị và ngoài site giúp người dùng tăng khả năng bảo mật của tài khoản, khi dùng chức năng này người dùng đăng nhập bằng tài khoản hệ thống sẽ xác nhận lại đăng nhập bằng tin nhắn hoặc là email. 
-> * Ở mục quyền hạn sử dụng người dùng có thể phân quyền cho tài khoản.
-
-### Sửa thông tin nhóm
-
-Để sửa thông tin nhóm người dùng cần thao tác:
-
-Bước 1: Chọn nhóm thành viên và chọn chế độ sửa.
-
-Bước 2: Điền những thông tin muốn sửa và sửa.
-
-Bước 3: Lưu những thông tin cần sửa cho phù hợp.
-
-> (Lưu ý: chỉ những nhóm thành viên nào được cho phép phân quyền sửa mới được sửa).
-
-![](images/system/sua_nhom.png)
-
-### Xóa nhóm
-Tương tự chức năng sửa nhóm người dùng chọn nhóm cần xóa và tiến hành thao tác xóa.
-
-> (Lưu ý: chỉ những nhóm thành viên nào được cho phép phân quyền xóa mới được xóa).
-
+Click **Lưu** ở cuối trang để hoàn tất
 
 ## Quản lý tài khoản thành viên
 
-Để quản lý tài khoản thành viên người dùng chọn mục tài khoản. Ở mục tài khoản sẽ hiện ra tất cả các thông tin, các thành viên trên website
+Truy cập **Tài khoản** (menu dọc)
 
 ![](images/system/tai_khoan.png)
 
 ### Thêm tài khoản
 
-Thêm tài khoản người dùng cần thao tác sau: 
-
-Bước 1: Thêm tài khoản người dùng cần chọn vào mục thêm tài khoản mới
-
-Bước 2: Điền đầy đủ thông tin tài khoản và lưu tài khoản cần thêm.
-
-Khi thêm tài khoản người dùng cần lưu ý những chi tiết sau:
-
-> * Tên tài khoản không được trùng với tài khoản khác.
-> * Những trường có dấu (*) là những trường bắt buộc người dùng phải nhập.
-> * Trường mật khẩu người dùng có thể tạo ngẫu nhiên và phải ghi nhớ để đăng nhập sử dụng.
-> * Ở mục là tài khoản của nhóm người dùng chọn nhóm mà người dùng muốn phân loại tài khoản.
-> * Mục tùy chọn khác giúp người dùng kiểm tra giá trị nhập vào của trường dữ liệu.
+Truy cập **Tài khoản / Thêm tài khoản mới** 
 
 ![](images/system/them_tai_khoan.png)
 
-### Sửa thông tin tài khoản
+Bảng mô tả một số thông tin quan trọng
 
-Để sửa thông tin tài khoản người dùng chọn tài khoản cần sửa và chọn sửa, sau khi điền thông tin cần sửa người dùng bấm lưu để lưu thông tin cần chỉnh sửa.
+| Thông tin     | Bắt buộc         | Mô tả		   |
+|---------------|------------------|---------------|
+| Tài khoản 	| Có | Tên truy cập. Tên truy cập không được trùng nhau. Quy tắc đặt tên truy cập được quy định tại **Tài khoản / Cấu hình module / Các ký tự cho phép khi tạo tài khoản** |
+| Email 	| Có | Email liên hệ. Bạn cần cung cấp một email đúng để có thể tương tác với thành viên về sau |
+| Mật khẩu 	| Có | Mật khẩu truy cập. Quy tắc đặt tên truy cập được quy định tại **Tài khoản / Cấu hình module / Số ký tự của mật khẩu** |
+| Họ và tên	| Có | Họ tên thật của thành viên |
+| Hiển thị email	| Không | Nếu chọn, email của thành viên sẽ hiển thị trên trang thông tin thành viên (Tất cả mọi người đều thấy) |
+| Là tài khoản của nhóm	| Không | Chọn nhóm mà thành viên sẽ tham gia sau khi khởi tạo |
+| Là thành viên chính thức	| Không | Nếu chọn, tài khoản sẽ được sử dụng toàn quyền của thành viên, ngược lại, một số quyền bị giới hạn |
+| Gửi email thông báo	| Không | Gửi email thông báo tài khoản đã được tạo, thông tin bao gồm tên đăng nhập và mật khẩu. Quá trình gửi mail có thể làm chậm tiến trình import, bạn cần cân nhắc khi sử dụng tùy chọn này |
 
 ### Xóa tài khoản
 
-Nếu mọi người muốn xóa tài khoản của một thành viên nào muốn xóa và chọn xóa.
-Sau khi chọn tài khoản và bchonj xóa hệ thống sẽ xác nhận lại nếu người dùng muốn chắc chắn xóa tài khoản đó. Nếu chắc chắn người dùng chọn OK còn không người dùng chọn Hủy.
-
-![](images/system/xac_nhan_xoa_tai_khoan.png)
-
-### Thêm trường thông tin thành viên
-
-Để thêm trường thông tin thành viên người dùng cần chọn "**Tùy biến dữ liệu**" trong mục tài khoản.
-
-Bước 1: Điền các thông tin như tên trường, tiêu đề, mô tả và những trường bắt buộc nhập.
-
-Bước 2: Chọn kiểu dữ liệu và loại dữ liệu cho trường dữ liệu.
-
-Bước 3: Thêm các tùy chọn khác nếu cần và bấm lưu để lưu trường dữ liệu. 
-
-> Ở mục này người dùng cần lưu ý:
-> *  Những trường có dấu (*) là những trường bắt buộc người dùng phải nhập.
-> * Ở mục trường dữ liệu bắt buộc giúp người dùng tùy chỉnh trường dữ liệu có bắt buộc hay không ?
-> * Ở mục loại dữ liệu người dùng có thể tùy biển kiểu nhập dữ liệu.
-
-![](images/system/them_truong_du_lieu.png)
-Điền trường dữ liệu cần thêm và bấm lưu, trường dữ liệu người dùng thêm vào sẽ được hiển thị khi thêm nhân viên và ở bảng trường thông tin thành viên.
+- Sau khi xóa, mọi thông tin, dữ liệu liên quan đến tài khoản đều bị xóa 
+- Thành viên sẽ nhận được thông báo về việc xóa tài khoản qua email
 
 ### Nhập danh sách thành viên từ Excel
 
-Để nhập danh sách thành viên từ file Excal, người dùng chọn "**Nhập từ Excal**" có trong mục tài khoản.
+Truy cập **Tài khoản / Nhập từ Excel** (Menu dọc)
 
 ![](images/system/nhap_file_excel.png)
-Bước 1: Chọn tệp có chứa thông tin thành viên và bắt đầu kiểm tra.
 
-Bước 2: Sau khi kiểm tra thành công người dùng sẽ tới bước cấu hình các tài khoản vừa được nhập vào. 
+- Click **Tải file mẫu** để download về file excel mẫu
+- Trên bảng tính mẫu, tiến hành nhập thông tin theo các trường gợi ý 
+- Click nút **Choose File**, tìm tới file đã nhập thông tin thành viên ở bước 2
+- Click **Kiểm tra dữ liệu**, lúc này hệ thống sẽ kiểm tra thông tin bạn nhập vào, nếu có lỗi sẽ thông báo để bạn tiến hành kiểm tra và sửa lỗi. Thực hiện cho đến khi file không còn lỗi
+- Click **Tiếp theo** để hoàn tất
 
-Bước 3: Và cuối cùng là thực hiện lưu lạ danh sách các thành viên cần nhập vào.
-
-> Lưu ý : Khi chọn tệp file Excel, file Excel phải chứa đúng định dạng nhập vào. 
+ 
 ## Bổ nhiệm người quản trị
 
-Để bổ nhiệm một thành viên làm người quản trị, người dùng cần chọn tài khoản cần bổ nhiệm sau đó tích vào ô "**Là tài khoản của nhóm**" và chọn nhóm mà người dùng muốn bổ nhiệm.
+Truy cập **Tài khoản / Quản trị / Thêm quản trị** (Menu dọc)
+
+> Trước khi thêm người quản trị, bạn cần [tạo tài khoản thành viên](/system/#them-tai-khoan)
 
 ![](images/system/bo_nhiem.png)
+
+| Thông tin | Bắt buộc | Mô tả |
+|-----------|----------|-------|
+| Chỉ định thành viên | Có | Chọn tài khoản thành viên muốn bổ nhiệm làm người quản trị |
+| Chức danh | Có | Điền chức danh của người quản trị |
+| Giao diện người quản trị | Không | Chọn giao diện của người quản trị khi đăng nhập vào khu vực quản lý |
+| Trình soạn thảo | Không | Nếu chọn ***Không sử dụng**, người quản trị này sẽ không được sử dụng trình soạn thảo mà chỉ là một ô đơn thuần text |
+| Các kiểu file được phép tải lên | Không | Các loại file có thể upload lên hệ thống |
+| Quyền hạn | Có | Chọn các module mà người quản trị này được quản lý |
+
+Sau khi điền đầy đủ các thông tin, click **Thêm Quản trị website** để hoàn tất
 
 ## Quản lý File
 
@@ -198,15 +158,17 @@ Trên đây là giao diện quản lý file. Các khu vực quan trọng bạn c
 - **Quản lý File (2):** Khi click vào thư mục, danh sách file ở bảng bên phải sẽ hiển thị các file thuộc thư mục được chọn. Click phải chuột vào file, bạn sẽ thấy:
 ![](images/system/quan-ly-file-1.png)
 
-	- **Tải về:** Download file được chọn về máy
-	- **Xem chi tiết:** Hiển thị thông tin chi tiết về file. Thông tin: tên file, kích thước, dung lượng, thời gian cập nhật,....
-	- **Thêm logo:** Xem [Cấu hình đóng dấu ảnh](/system/#cau-hinh-ong-dau-anh)
-	- **Công cụ ảnh:** Sử dụng công cụ này để cắt hình ảnh về một kích thước nhỏ hơn cùng tỉ lệ
-	- **Cắt ảnh:** Sử dụng công cụ này để chọn vùng ảnh cần cắt
-	- **Xoay ảnh:** Sử dụng công cụ này để xoay hướng ảnh
-	- **Di chuyển:** Sử dụng công cụ này để di chuyển ảnh đến một thư mục khác
-	- **Đổi tên file:** Sử dụng công cụ này để đổi tên file
-	- **Xóa file:** Sử dụng công cụ này để xóa file ra khỏi hệ thống
+| Thông tin | Mô tả |
+|-----------|-------|
+| Tải về | Download file được chọn về máy |
+| Xem chi tiết | Hiển thị thông tin chi tiết về file. Thông tin: tên file, kích thước, dung lượng, thời gian cập nhật,.... |
+| Thêm logo | Xem [Cấu hình đóng dấu ảnh](/system/#cau-hinh-ong-dau-anh) |
+| Công cụ ảnh | Sử dụng công cụ này để cắt hình ảnh về một kích thước nhỏ hơn cùng tỉ lệ |
+| Cắt ảnh | Sử dụng công cụ này để chọn vùng ảnh cần cắt |
+| Xoay ảnh | Sử dụng công cụ này để xoay hướng ảnh |
+| Di chuyển | Sử dụng công cụ này để di chuyển ảnh đến một thư mục khác |
+| Đổi tên file | Sử dụng công cụ này để đổi tên file |
+| Xóa file | Sử dụng công cụ này để xóa file ra khỏi hệ thống |
 
 - **Tìm kiếm file (3):** Bạn có thể dễ dàng lọc file theo các tiêu chí được cung cấp tại khu vực này
 - **Tải lên một file mới (4):** Xem [Tải lên một file mới](/system/#tai-len-mot-file-moi)
