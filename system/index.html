@@ -71,6 +71,12 @@
 
     <li class="toctree-l2"><a href="#quan-ly-module">Quản lý module</a></li>
     
+        <ul>
+        
+            <li><a class="toctree-l3" href="#cai-at-module-moi">Cài đặt module mới</a></li>
+        
+        </ul>
+    
 
     <li class="toctree-l2"><a href="#thay-oi-giao-dien-website">Thay đổi giao diện website</a></li>
     
@@ -81,10 +87,6 @@
         
             <li><a class="toctree-l3" href="#them-nhom">Thêm nhóm</a></li>
         
-            <li><a class="toctree-l3" href="#sua-thong-tin-nhom">Sửa thông tin nhóm</a></li>
-        
-            <li><a class="toctree-l3" href="#xoa-nhom">Xóa nhóm</a></li>
-        
         </ul>
     
 
@@ -94,11 +96,7 @@
         
             <li><a class="toctree-l3" href="#them-tai-khoan">Thêm tài khoản</a></li>
         
-            <li><a class="toctree-l3" href="#sua-thong-tin-tai-khoan">Sửa thông tin tài khoản</a></li>
-        
             <li><a class="toctree-l3" href="#xoa-tai-khoan">Xóa tài khoản</a></li>
-        
-            <li><a class="toctree-l3" href="#them-truong-thong-tin-thanh-vien">Thêm trường thông tin thành viên</a></li>
         
             <li><a class="toctree-l3" href="#nhap-danh-sach-thanh-vien-tu-excel">Nhập danh sách thành viên từ Excel</a></li>
         
@@ -163,126 +161,171 @@
             <div class="section">
               
                 <h2 id="thay-oi-thong-tin-website">Thay đổi thông tin website</h2>
-<p>Bạn có thể thay đổi các thông tin cơ bản của website như tiêu đề, mô tả, logo,... bằng cách thực hiện các thao tác sau:</p>
-<ul>
-<li>Đăng nhập vào quản trị website.</li>
-<li>Tại giao diện chính, chọn <strong>Cấu hình</strong> (Menu ngang)</li>
-<li>Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn <strong>Lưu cấu hình</strong> ở cuối trang để lưu lại thiết lập.</li>
-</ul>
+<p>Truy cập <strong>Cấu hình</strong> (Menu ngang)</p>
 <p><img alt="" src="../images/system/cau_hinh_site.png" /></p>
-<p>Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần <strong>Cấu hình / Cấu hình chung</strong></p>
+<p>Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn <strong>Lưu cấu hình</strong> ở cuối trang để lưu lại thiết lập.</p>
+<p>Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần <strong>Cấu hình / Cấu hình chung</strong> (Menu ngang)</p>
 <h2 id="cau-hinh-may-chu-gui-thu-email">Cấu hình máy chủ gửi thư (Email)</h2>
 <p>Mặc định, AZtest đã thiết lập máy chủ gửi thư để website có thể gửi thư đi mà không cần cấu hình thêm. Song, AZtest cũng cung cấp giải pháp để những người am hiểu kỹ thuật có thể tự cấu hình máy chủ gửi thư của riêng họ.</p>
-<ul>
-<li>Truy cập menu (ngang) <strong>Cấu hình / Cấu hình SMTP</strong></li>
-<li>Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.</li>
-</ul>
+<p>Truy cập <strong>Cấu hình / Cấu hình SMTP</strong> (Menu ngang)</p>
 <p><img alt="" src="../images/system/cau_hinh_email.png" /></p>
+<p>Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.</p>
 <h2 id="quan-ly-module">Quản lý module</h2>
-<p>Trong một hệ thống quản lý website có rất nhiều module và để quản lý được module người dùng muốn quản lý người dùng cần chọn menu "<strong>Quản lý module</strong>". Mục quản lý module giúp người dùng quản lý từng module nhỏ trong hệ thống website.</p>
+<p>Hệ thống AZtest được cấu thành bởi các tính năng riêng biệt (gọi là modules). Ngoài các module được kích hoạt sẵn khi khởi tạo website, bạn cũng có thể cài đặt cho website của mình nhiều module với các mục đích khác nhau.</p>
+<p>Truy cập "<strong>Quản lý modules</strong>" (Menu ngang)</p>
+<p>Tại trang chính, bạn có thể thấy danh sách các modules đã được cài đặt trước đó. Bạn có thể thực hiện các thao tác như kích hoạt, nghưng kích hoạt, sửa, cài lại và xóa modules.</p>
 <p><img alt="" src="../images/system/quan_ly_module.png" /></p>
-<p>Ở mục quản lý module người dùng có thể tháo tác can thiệp vào các module như kích hoạt, nghưng kích hoạt, sửa, cài lại và xóa.
-Nếu cài lại module người dùng có thể làm như sau:</p>
-<p>Bước 1: Chọn module cần cài và chọn cài lại.</p>
-<p>Bước 2: Khi cài đặt module nếu module có dữ liệu mẫu bạn cần thao tác chọn cách thức cài đặt có chứa dữ liệu mẫu hoặc là không, và chọn cài đặt.</p>
-<p>Bước 3: Sau khi cài đặt thành công chọn hoàn tất.</p>
-<blockquote>
+<h3 id="cai-at-module-moi">Cài đặt module mới</h3>
+<p>Truy cập "<strong>Quản lý modules / Thiết lập module mới</strong>" (Menu ngang)</p>
 <ul>
-<li>Lưu ý: việc cài lại module này chỉ cho phép đối với các module chứa trong hệ thống, hoặc là các module của hệ thống AZtest cung cấp cho người dùng.</li>
+<li>Các module chưa được cài đặt sẽ hiển thị trong phần <strong>Các module hệ thống</strong></li>
+<li>Click <strong>Thiết lập</strong> ở cuối mỗi module để tiến hành cài đặt</li>
+<li>Bạn có thể chọn cài đặt thêm dữ liệu mẫu hoặc không tại hộp thoại tiếp theo</li>
+<li>Click <strong>Thiết lập</strong> để chuyển sang bước tiếp theo</li>
 </ul>
-</blockquote>
+<p><img alt="" src="../images/system/thiet-lap-module.png" /></p>
+<ul>
+<li>Ở bước cuối cùng này, bạn có thể bỏ qua, hoặc có thể hiệu chỉnh thêm một số thông tin như mong muốn, clic <strong>Thực hiện</strong> nếu có thay đổi</li>
+</ul>
+<p><img alt="" src="../images/system/thiet-lap-module-1.png" /></p>
 <h2 id="thay-oi-giao-dien-website">Thay đổi giao diện website</h2>
 <p>Truy cập <strong>Quản lý giao diện</strong> (Menu ngang)</p>
 <p><img alt="" src="../images/system/quan_ly_giao_dien.png" /></p>
 <p>Tại đây, bạn có thể chọn một trong các giao diện có sẵn để sử dụng cho website của mình bằng cách rê chuột lên (ảnh đại diện) của giao diện, chọn <strong>Kích hoạt sử dụng</strong>.</p>
 <p>Sau khi kích hoạt, bạn có thể quay trở lại trang chủ đề xem website với giao diện mới.</p>
 <h2 id="quan-ly-nhom-thanh-vien">Quản lý nhóm thành viên</h2>
-<p>Để quản lý nhóm thành viên người dùng chọn "<strong>Tài khoản và chọn nhóm thành viên</strong>", ở mục nhóm thành viên người dùng có thể quản lý tất cả các nhóm thành viên bằng các phân quyền có sẵn như tạo nhóm thành viên, thêm, sửa, xóa tài khoản thành viên và nhiều phần quyền khác. Các nhóm thành viên đều có hiệu lực riêng tùy vào người sử dụng phân quyền.</p>
+<p>Truy cập "<strong>Tài khoản / Nhóm thành viên</strong>" (Menu dọc)</p>
 <p><img alt="" src="../images/system/nhom_thanh_vien.png" /> </p>
+<p>Trên giao diện này, bạn có thể sửa, xóa các nhóm thành viên</p>
+<blockquote>
+<p>Các nhóm ở vị trí 1, 2, 3, 4 là các nhóm mặc định của hệ thống, bạn không thể sửa hoặc xóa cũng như ngưng kích hoạt chúng</p>
+</blockquote>
 <h3 id="them-nhom">Thêm nhóm</h3>
-<p>Để thêm nhóm thành viên người dùng chọn thêm nhóm, điền tất cả thông tin về nhóm như tên nhóm, mô tả và các phân quyền của nhóm mà người dùng cho phép.</p>
+<p>Trên giao diện danh sách nhóm, click nút <strong>Thêm nhóm</strong></p>
 <p><img alt="" src="../images/system/them_nhom_thanh_vien.png" /></p>
-<p>Để thêm nhóm thành viên người dùng cần thao tác:</p>
-<p>Bước 1: Chọn thêm nhóm và điền các thông tin nhóm vào.</p>
-<p>Bước 2: chọn loại nhóm và các nội dung của nhóm.</p>
-<p>Bước 3: Cấu hình quyền hạn sử dụng module của trưởng nhóm và chọn Lưu.</p>
-<p>Khi thêm nhóm người dùng cần chú ý các vấn đề sau:</p>
-<blockquote>
-<ul>
-<li>
-<p>Các trường có dấu (*) là những trường bắt buộc người dùng phải nhập.</p>
-</li>
-<li>
-<p>Trường "<strong>Hiệu lực đến</strong>" sẽ giúp người dùng muốn nhóm thành viên có quyền hạn sử dụng.</p>
-</li>
-<li>Mục loại nhóm sẽ cho phép người dùng chọn tính chất của loại nhóm.</li>
-<li>Ở mục bắt buộc xác thực hai bước khu vực quản trị và ngoài site giúp người dùng tăng khả năng bảo mật của tài khoản, khi dùng chức năng này người dùng đăng nhập bằng tài khoản hệ thống sẽ xác nhận lại đăng nhập bằng tin nhắn hoặc là email. </li>
-<li>Ở mục quyền hạn sử dụng người dùng có thể phân quyền cho tài khoản.</li>
-</ul>
-</blockquote>
-<h3 id="sua-thong-tin-nhom">Sửa thông tin nhóm</h3>
-<p>Để sửa thông tin nhóm người dùng cần thao tác:</p>
-<p>Bước 1: Chọn nhóm thành viên và chọn chế độ sửa.</p>
-<p>Bước 2: Điền những thông tin muốn sửa và sửa.</p>
-<p>Bước 3: Lưu những thông tin cần sửa cho phù hợp.</p>
-<blockquote>
-<p>(Lưu ý: chỉ những nhóm thành viên nào được cho phép phân quyền sửa mới được sửa).</p>
-</blockquote>
-<p><img alt="" src="../images/system/sua_nhom.png" /></p>
-<h3 id="xoa-nhom">Xóa nhóm</h3>
-<p>Tương tự chức năng sửa nhóm người dùng chọn nhóm cần xóa và tiến hành thao tác xóa.</p>
-<blockquote>
-<p>(Lưu ý: chỉ những nhóm thành viên nào được cho phép phân quyền xóa mới được xóa).</p>
-</blockquote>
+<p>Trên giao diện này, bạn chỉ cần nhập <strong>Tên nhóm</strong> (các trường có dấu sao (*)), các thông tin khác có thể bỏ qua</p>
+<p>Click <strong>Lưu</strong> ở cuối trang để hoàn tất</p>
 <h2 id="quan-ly-tai-khoan-thanh-vien">Quản lý tài khoản thành viên</h2>
-<p>Để quản lý tài khoản thành viên người dùng chọn mục tài khoản. Ở mục tài khoản sẽ hiện ra tất cả các thông tin, các thành viên trên website</p>
+<p>Truy cập <strong>Tài khoản</strong> (menu dọc)</p>
 <p><img alt="" src="../images/system/tai_khoan.png" /></p>
 <h3 id="them-tai-khoan">Thêm tài khoản</h3>
-<p>Thêm tài khoản người dùng cần thao tác sau: </p>
-<p>Bước 1: Thêm tài khoản người dùng cần chọn vào mục thêm tài khoản mới</p>
-<p>Bước 2: Điền đầy đủ thông tin tài khoản và lưu tài khoản cần thêm.</p>
-<p>Khi thêm tài khoản người dùng cần lưu ý những chi tiết sau:</p>
-<blockquote>
-<ul>
-<li>Tên tài khoản không được trùng với tài khoản khác.</li>
-<li>Những trường có dấu (*) là những trường bắt buộc người dùng phải nhập.</li>
-<li>Trường mật khẩu người dùng có thể tạo ngẫu nhiên và phải ghi nhớ để đăng nhập sử dụng.</li>
-<li>Ở mục là tài khoản của nhóm người dùng chọn nhóm mà người dùng muốn phân loại tài khoản.</li>
-<li>Mục tùy chọn khác giúp người dùng kiểm tra giá trị nhập vào của trường dữ liệu.</li>
-</ul>
-</blockquote>
+<p>Truy cập <strong>Tài khoản / Thêm tài khoản mới</strong> </p>
 <p><img alt="" src="../images/system/them_tai_khoan.png" /></p>
-<h3 id="sua-thong-tin-tai-khoan">Sửa thông tin tài khoản</h3>
-<p>Để sửa thông tin tài khoản người dùng chọn tài khoản cần sửa và chọn sửa, sau khi điền thông tin cần sửa người dùng bấm lưu để lưu thông tin cần chỉnh sửa.</p>
+<p>Bảng mô tả một số thông tin quan trọng</p>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Bắt buộc</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tài khoản</td>
+<td>Có</td>
+<td>Tên truy cập. Tên truy cập không được trùng nhau. Quy tắc đặt tên truy cập được quy định tại <strong>Tài khoản / Cấu hình module / Các ký tự cho phép khi tạo tài khoản</strong></td>
+</tr>
+<tr>
+<td>Email</td>
+<td>Có</td>
+<td>Email liên hệ. Bạn cần cung cấp một email đúng để có thể tương tác với thành viên về sau</td>
+</tr>
+<tr>
+<td>Mật khẩu</td>
+<td>Có</td>
+<td>Mật khẩu truy cập. Quy tắc đặt tên truy cập được quy định tại <strong>Tài khoản / Cấu hình module / Số ký tự của mật khẩu</strong></td>
+</tr>
+<tr>
+<td>Họ và tên</td>
+<td>Có</td>
+<td>Họ tên thật của thành viên</td>
+</tr>
+<tr>
+<td>Hiển thị email</td>
+<td>Không</td>
+<td>Nếu chọn, email của thành viên sẽ hiển thị trên trang thông tin thành viên (Tất cả mọi người đều thấy)</td>
+</tr>
+<tr>
+<td>Là tài khoản của nhóm</td>
+<td>Không</td>
+<td>Chọn nhóm mà thành viên sẽ tham gia sau khi khởi tạo</td>
+</tr>
+<tr>
+<td>Là thành viên chính thức</td>
+<td>Không</td>
+<td>Nếu chọn, tài khoản sẽ được sử dụng toàn quyền của thành viên, ngược lại, một số quyền bị giới hạn</td>
+</tr>
+<tr>
+<td>Gửi email thông báo</td>
+<td>Không</td>
+<td>Gửi email thông báo tài khoản đã được tạo, thông tin bao gồm tên đăng nhập và mật khẩu. Quá trình gửi mail có thể làm chậm tiến trình import, bạn cần cân nhắc khi sử dụng tùy chọn này</td>
+</tr>
+</tbody>
+</table>
 <h3 id="xoa-tai-khoan">Xóa tài khoản</h3>
-<p>Nếu mọi người muốn xóa tài khoản của một thành viên nào muốn xóa và chọn xóa.
-Sau khi chọn tài khoản và bchonj xóa hệ thống sẽ xác nhận lại nếu người dùng muốn chắc chắn xóa tài khoản đó. Nếu chắc chắn người dùng chọn OK còn không người dùng chọn Hủy.</p>
-<p><img alt="" src="../images/system/xac_nhan_xoa_tai_khoan.png" /></p>
-<h3 id="them-truong-thong-tin-thanh-vien">Thêm trường thông tin thành viên</h3>
-<p>Để thêm trường thông tin thành viên người dùng cần chọn "<strong>Tùy biến dữ liệu</strong>" trong mục tài khoản.</p>
-<p>Bước 1: Điền các thông tin như tên trường, tiêu đề, mô tả và những trường bắt buộc nhập.</p>
-<p>Bước 2: Chọn kiểu dữ liệu và loại dữ liệu cho trường dữ liệu.</p>
-<p>Bước 3: Thêm các tùy chọn khác nếu cần và bấm lưu để lưu trường dữ liệu. </p>
-<blockquote>
-<p>Ở mục này người dùng cần lưu ý:
-<em>  Những trường có dấu (</em>) là những trường bắt buộc người dùng phải nhập.
-<em> Ở mục trường dữ liệu bắt buộc giúp người dùng tùy chỉnh trường dữ liệu có bắt buộc hay không ?
-</em> Ở mục loại dữ liệu người dùng có thể tùy biển kiểu nhập dữ liệu.</p>
-</blockquote>
-<p><img alt="" src="../images/system/them_truong_du_lieu.png" />
-Điền trường dữ liệu cần thêm và bấm lưu, trường dữ liệu người dùng thêm vào sẽ được hiển thị khi thêm nhân viên và ở bảng trường thông tin thành viên.</p>
+<ul>
+<li>Sau khi xóa, mọi thông tin, dữ liệu liên quan đến tài khoản đều bị xóa </li>
+<li>Thành viên sẽ nhận được thông báo về việc xóa tài khoản qua email</li>
+</ul>
 <h3 id="nhap-danh-sach-thanh-vien-tu-excel">Nhập danh sách thành viên từ Excel</h3>
-<p>Để nhập danh sách thành viên từ file Excal, người dùng chọn "<strong>Nhập từ Excal</strong>" có trong mục tài khoản.</p>
-<p><img alt="" src="../images/system/nhap_file_excel.png" />
-Bước 1: Chọn tệp có chứa thông tin thành viên và bắt đầu kiểm tra.</p>
-<p>Bước 2: Sau khi kiểm tra thành công người dùng sẽ tới bước cấu hình các tài khoản vừa được nhập vào. </p>
-<p>Bước 3: Và cuối cùng là thực hiện lưu lạ danh sách các thành viên cần nhập vào.</p>
-<blockquote>
-<p>Lưu ý : Khi chọn tệp file Excel, file Excel phải chứa đúng định dạng nhập vào. </p>
-</blockquote>
+<p>Truy cập <strong>Tài khoản / Nhập từ Excel</strong> (Menu dọc)</p>
+<p><img alt="" src="../images/system/nhap_file_excel.png" /></p>
+<ul>
+<li>Click <strong>Tải file mẫu</strong> để download về file excel mẫu</li>
+<li>Trên bảng tính mẫu, tiến hành nhập thông tin theo các trường gợi ý </li>
+<li>Click nút <strong>Choose File</strong>, tìm tới file đã nhập thông tin thành viên ở bước 2</li>
+<li>Click <strong>Kiểm tra dữ liệu</strong>, lúc này hệ thống sẽ kiểm tra thông tin bạn nhập vào, nếu có lỗi sẽ thông báo để bạn tiến hành kiểm tra và sửa lỗi. Thực hiện cho đến khi file không còn lỗi</li>
+<li>Click <strong>Tiếp theo</strong> để hoàn tất</li>
+</ul>
 <h2 id="bo-nhiem-nguoi-quan-tri">Bổ nhiệm người quản trị</h2>
-<p>Để bổ nhiệm một thành viên làm người quản trị, người dùng cần chọn tài khoản cần bổ nhiệm sau đó tích vào ô "<strong>Là tài khoản của nhóm</strong>" và chọn nhóm mà người dùng muốn bổ nhiệm.</p>
+<p>Truy cập <strong>Tài khoản / Quản trị / Thêm quản trị</strong> (Menu dọc)</p>
+<blockquote>
+<p>Trước khi thêm người quản trị, bạn cần <a href="/system/#them-tai-khoan">tạo tài khoản thành viên</a></p>
+</blockquote>
 <p><img alt="" src="../images/system/bo_nhiem.png" /></p>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Bắt buộc</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chỉ định thành viên</td>
+<td>Có</td>
+<td>Chọn tài khoản thành viên muốn bổ nhiệm làm người quản trị</td>
+</tr>
+<tr>
+<td>Chức danh</td>
+<td>Có</td>
+<td>Điền chức danh của người quản trị</td>
+</tr>
+<tr>
+<td>Giao diện người quản trị</td>
+<td>Không</td>
+<td>Chọn giao diện của người quản trị khi đăng nhập vào khu vực quản lý</td>
+</tr>
+<tr>
+<td>Trình soạn thảo</td>
+<td>Không</td>
+<td>Nếu chọn <strong>*Không sử dụng</strong>, người quản trị này sẽ không được sử dụng trình soạn thảo mà chỉ là một ô đơn thuần text</td>
+</tr>
+<tr>
+<td>Các kiểu file được phép tải lên</td>
+<td>Không</td>
+<td>Các loại file có thể upload lên hệ thống</td>
+</tr>
+<tr>
+<td>Quyền hạn</td>
+<td>Có</td>
+<td>Chọn các module mà người quản trị này được quản lý</td>
+</tr>
+</tbody>
+</table>
+<p>Sau khi điền đầy đủ các thông tin, click <strong>Thêm Quản trị website</strong> để hoàn tất</p>
 <h2 id="quan-ly-file">Quản lý File</h2>
 <p>Khu vực <strong>Quản lý File</strong> giúp người quản trị quản lý (upload, sửa thông tin, xóa, tạo thư mục,...) các thư mục, tập tin được upload lên hệ thống</p>
 <p>Truy cập <strong>Quản lý File</strong> (Menu ngang)</p>
@@ -300,21 +343,56 @@ Bước 1: Chọn tệp có chứa thông tin thành viên và bắt đầu ki�
 <li>
 <p><strong>Quản lý File (2):</strong> Khi click vào thư mục, danh sách file ở bảng bên phải sẽ hiển thị các file thuộc thư mục được chọn. Click phải chuột vào file, bạn sẽ thấy:
 <img alt="" src="../images/system/quan-ly-file-1.png" /></p>
-<ul>
-<li><strong>Tải về:</strong> Download file được chọn về máy</li>
-<li><strong>Xem chi tiết:</strong> Hiển thị thông tin chi tiết về file. Thông tin: tên file, kích thước, dung lượng, thời gian cập nhật,....</li>
-<li><strong>Thêm logo:</strong> Xem <a href="/system/#cau-hinh-ong-dau-anh">Cấu hình đóng dấu ảnh</a></li>
-<li><strong>Công cụ ảnh:</strong> Sử dụng công cụ này để cắt hình ảnh về một kích thước nhỏ hơn cùng tỉ lệ</li>
-<li><strong>Cắt ảnh:</strong> Sử dụng công cụ này để chọn vùng ảnh cần cắt</li>
-<li><strong>Xoay ảnh:</strong> Sử dụng công cụ này để xoay hướng ảnh</li>
-<li><strong>Di chuyển:</strong> Sử dụng công cụ này để di chuyển ảnh đến một thư mục khác</li>
-<li><strong>Đổi tên file:</strong> Sử dụng công cụ này để đổi tên file</li>
-<li><strong>Xóa file:</strong> Sử dụng công cụ này để xóa file ra khỏi hệ thống</li>
+</li>
 </ul>
-</li>
-<li>
-<p><strong>Tìm kiếm file (3):</strong> Bạn có thể dễ dàng lọc file theo các tiêu chí được cung cấp tại khu vực này</p>
-</li>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tải về</td>
+<td>Download file được chọn về máy</td>
+</tr>
+<tr>
+<td>Xem chi tiết</td>
+<td>Hiển thị thông tin chi tiết về file. Thông tin: tên file, kích thước, dung lượng, thời gian cập nhật,....</td>
+</tr>
+<tr>
+<td>Thêm logo</td>
+<td>Xem <a href="/system/#cau-hinh-ong-dau-anh">Cấu hình đóng dấu ảnh</a></td>
+</tr>
+<tr>
+<td>Công cụ ảnh</td>
+<td>Sử dụng công cụ này để cắt hình ảnh về một kích thước nhỏ hơn cùng tỉ lệ</td>
+</tr>
+<tr>
+<td>Cắt ảnh</td>
+<td>Sử dụng công cụ này để chọn vùng ảnh cần cắt</td>
+</tr>
+<tr>
+<td>Xoay ảnh</td>
+<td>Sử dụng công cụ này để xoay hướng ảnh</td>
+</tr>
+<tr>
+<td>Di chuyển</td>
+<td>Sử dụng công cụ này để di chuyển ảnh đến một thư mục khác</td>
+</tr>
+<tr>
+<td>Đổi tên file</td>
+<td>Sử dụng công cụ này để đổi tên file</td>
+</tr>
+<tr>
+<td>Xóa file</td>
+<td>Sử dụng công cụ này để xóa file ra khỏi hệ thống</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Tìm kiếm file (3):</strong> Bạn có thể dễ dàng lọc file theo các tiêu chí được cung cấp tại khu vực này</li>
 <li><strong>Tải lên một file mới (4):</strong> Xem <a href="/system/#tai-len-mot-file-moi">Tải lên một file mới</a></li>
 </ul>
 <h3 id="tai-len-mot-file-moi">Tải lên một file mới</h3>
