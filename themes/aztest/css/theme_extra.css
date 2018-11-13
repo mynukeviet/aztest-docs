@@ -161,8 +161,12 @@ td, th {
     margin-bottom: 0
 }
 
-.rst-content blockquote ul {
+.rst-content blockquote ul, .rst-content table ul {
     padding-left: 0 !important
+}
+
+.rst-content table ul{
+    margin: 0 !important
 }
 
 footer {
