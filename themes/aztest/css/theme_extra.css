@@ -187,6 +187,10 @@ li a.toctree-l3 {
     display: none
 }
 
+li.toctree-l2 .active {
+    font-weight: bold   
+}
+
 .rst-content h2 {
     border-bottom: 3px solid green;
     padding-bottom: 5px;
