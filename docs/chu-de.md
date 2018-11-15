@@ -3,8 +3,6 @@
 
 Bạn cần tạo ít nhất 01 chủ đề trước khi thực hiện các bước tiếp theo.
 
-Xem [Quản lý chủ đề](/test/#quan-ly-chu-e)
-
 Truy cập **Trắc nghiệm / Chủ đề** (menu dọc)
 
 ![](./images/test/truy-cap-quan-ly-chu-de.png)
@@ -47,3 +45,5 @@ Sau khi nhập thông tin, nhấn nút **Cập nhật** để tiến hành thêm
 - Tại danh sách các chủ đề, click nút **Xóa** ở cuối dòng
 - Xóa chủ đề cha, cũng đồng thời xóa chủ đề con của nó
 - Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa 
+
+Sau khi thực hiện xong bước **Tạo chủ đề**, bạn thực hiện tiếp bước  [**Xếp loại**](/xep-loai/)

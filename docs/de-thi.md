@@ -4,11 +4,11 @@
 
 Bạn cần đăng nhập vào khu vực quản trị trước khi sử dụng tính năng này. Thông tin tài khoản đã được gửi qua email khi bạn đăng ký dịch vụ.
 
-Trên giao diện quản trị, truy cập **Trắc nghiệm** >>> Chọn Menu **Đề thi** (1) >>> Chọn **Thêm đề thi** (2)
+**Bước 1**: Trên giao diện quản trị, truy cập **Trắc nghiệm** >>> Chọn Menu **Đề thi** (1) >>> Chọn **Thêm đề thi** (2)
 
 ![](./images/test/tao-de-thi-1.png)
 
-> Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
+**Bước 2**: Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
 
 ![](./images/test/them-de-thi.png)
 
@@ -27,7 +27,7 @@ Giải thích các trường thông tin:
 |**Nhóm được bình luận (9)**| Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi | 
 |**Nhóm xem đáp án sau bài làm (10)**| Nhóm thành viên được phép xem đáp án sau khi làm bài. |
 
-Nhập tương tự cho các thông tin tiếp theo
+**Bước 3**: Nhập tương tự cho các thông tin tiếp theo
 
 ![](./images/test/them-de-thi-1.png)
 
@@ -97,3 +97,5 @@ Chọn menu **Đề thi**, các đề thi đã có xuất hiện với các thô
 |**Sửa & xóa đề thi (9)** | Liên kết sửa, xóa đề thi |
 
 Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
+
+Sau khi thực hiện xong bước **Xếp loại**, bạn thực hiện tiếp bước   [**Cấu hình**](/cau-hinh/)
