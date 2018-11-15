@@ -87,3 +87,5 @@ Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao di
 	- Nhắc nhở từ khóa:
 
 Sau khi đã chọn đầy đủ các mục click **Cập nhật** để hoàn thành. 
+
+Sau khi thực hiện xong bước **Cấu hình**, bạn thực hiện tiếp bước   [**Phân quyền quản lý**](/phan-quyen-quan-ly/)
