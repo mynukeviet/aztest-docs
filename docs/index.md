@@ -10,7 +10,7 @@ Mỗi website có thể cá nhân hóa tối đa cho người làm chủ, có th
 
 Với kho module (tính năng) và giao diện đa dạng, phong phú, đội ngũ hỗ trợ tận tình, AZtest cam kết mang lại sự hiệu quả nhất cho khách hàng sử dụng dịch vụ.
 
-## Các tính năng nổi bật:
+## Các tính năng nổi bật
 
 - Tạo đề thi theo nhóm và chủ đề, không giới hạn
 - Nhập đề thi từ Microsoft Word
@@ -23,15 +23,15 @@ Với kho module (tính năng) và giao diện đa dạng, phong phú, đội ng
 - Hiển thị ngẫu nhiên câu hỏi và đáp án dựa trên đề gốc
 - Bộ đếm ngược thời gian làm bài, tự động thu bài khi hết giờ
 
-## Ai có thể sử dụng AZtest?
+## Đối tượng sử dụng AZtest
 AZtest không giới hạn đối tượng sử dụng. Bạn là một tổ chức giáo dục, hay là một giáo viên, một cán bộ,.... có nhu cầu tạo đề thi trắc nghiệm cho học sinh ôn luyện, hay thi cử, đều có thể sử dụng.
 
-## Làm sao để khởi tạo website tại AZtest?
+## Khởi tạo website tại AZtest
 Chúng tôi sẽ tiến hành khởi tạo và gửi thông tin đến bạn qua email. Việc khởi tạo website hoàn toàn miễn phí, AZtest cung cấp dịch vụ theo các gói, bạn có thể sử dụng miễn phí, hoặc nâng cấp lên các gói cao hơn (trả phí) để sử dụng các tính năng nâng cao. 
 
 Xem bảng giá của chúng tôi công bố tại [Bảng so sánh tính năng](https://aztest.vn/bang-so-sanh-tinh-nang.html)
 
-## Đơn vị nào chịu trách nghiệm quản lý và phát triển AZtest?
+## Đơn vị phát triển AZtest
 AZtest, hệ thống tổ chức thi trắc nghiệm trực tuyến do CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC phát triển hướng đến đối tượng là giáo viên - học sinh. Giáo viên có thể tạo đề thi trắc nghiệm trực tuyến một cách nhanh chóng và khoa học, học sinh có thể làm bài thi trắc nghiệm trên máy, được chấm điểm sau khi hoàn thành bài thi.
 
 **CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC**
