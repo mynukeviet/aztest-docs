@@ -44,23 +44,27 @@ Truy cập **Trắc nghiệm / Chủ đề** (menu dọc)
 
 Trên danh sách chủ đề, bạn có thể:
 
-- Click vào Tiêu đề để truy cập đến danh sách chủ đề con
-- **Hiển thị trang chủ:** Cấu hình cho phép Hiển thị / Không hiển thị chủ đề (và các đề thi thuộc chủ đề) lên trang chủ của website.
-- **Số liên kết:** Quy định số đề thi cùng chủ đề được gợi ý khi xem một đề thi bất kỳ
-- **Phương án hiển thị:** Quy định giao diện hiển thị đề thi khi xem chủ đề
-- **Thống kê điểm cao:** Quy định giao diện hiển thị đề thi khi xem chủ đề
+| Trường thông tin | Mô tả |
+| ---------------- | ----- |
+|**Tiêu đề** | Truy cập đến danh sách chủ đề con | 
+|**Hiển thị trang chủ** | Cấu hình cho phép Hiển thị / Không hiển thị chủ đề (và các đề thi thuộc chủ đề) lên trang chủ của website |
+|**Số liên kết** | Quy định số đề thi cùng chủ đề được gợi ý khi xem một đề thi bất kỳ |
+|**Phương án hiển thị** | Quy định giao diện hiển thị đề thi khi xem chủ đề |
+|**Thống kê điểm cao** | Quy định giao diện hiển thị đề thi khi xem chủ đề | 
 
 ### Thêm chủ đề
 
 Tại khu vực thêm chủ đề, nhập đầy đủ thông tin bắt buộc (trường có dấu sao):
 
-- **Tiêu đề (1):** Nhập tên cho chủ đề. Ví dụ: Đề thi toán, đề thi lý, đề thi hóa,...
-- **Liên kết tĩnh (2):** Phần này sẽ tự động tạo sau khi nhập xong Tiêu đề, bạn có thể sửa lại hoặc không (không được để trống)
-- **Thuộc chủ đề (3):** Chọn chủ đề trực thuộc (Bạn có thể thêm chủ đề con của một chủ đề bằng cách chọn chủ đề trực thuộc)
-- **Title tag (4):**  (SEO) Nhập thẻ tiêu đề, 
-- **Mô tả (5):** Mô tả ngắn gọn về chủ đề.
-- **Hình ảnh (6):** Chọn hình ảnh minh họa cho chủ đề. 
-- **Từ khóa (8):** Nhập từ khóa tìm kiếm cho chủ đề.
+| Trường thông tin | Mô tả | 
+| ---------------- | ----- | 
+|**Tiêu đề (1)** | Nhập tên cho chủ đề. Ví dụ: Đề thi toán, đề thi lý, đề thi hóa,... |
+|**Liên kết tĩnh (2)** | Phần này sẽ tự động tạo sau khi nhập xong Tiêu đề, bạn có thể sửa lại hoặc không (không được để trống) |
+|**Thuộc chủ đề (3)** | Chọn chủ đề trực thuộc (Bạn có thể thêm chủ đề con của một chủ đề bằng cách chọn chủ đề trực thuộc) |
+|**Title tag (4)** | (SEO) Nhập thẻ tiêu đề |
+|**Mô tả (5)** | Mô tả ngắn gọn về chủ đề |
+|**Hình ảnh (6)** | Chọn hình ảnh minh họa cho chủ đề |
+|**Từ khóa (8)** | Nhập từ khóa tìm kiếm cho chủ đề |
 
 ![](./images/test/them-chu-de-1.png)
 
@@ -94,42 +98,99 @@ Truy cập **Trắc nghiệm (1) / Đề thi (2)** (menu dọc)
 
 ### Tạo đề thi mới
 
-Trên giao diện **Quản lý đề thi**, click **Thêm đề thi (3)**
+Bạn cần đăng nhập vào khu vực quản trị trước khi sử dụng tính năng này. Thông tin tài khoản đã được gửi qua email khi bạn đăng ký dịch vụ.
 
-![](./images/test/them-de-thi.png)
+Trên giao diện quản trị, truy cập **Trắc nghiệm** >>> Chọn Menu **Đề thi** (1) >>> Chọn **Thêm đề thi** (2)
+
+![](./images/test/tao-de-thi-1.png)
 
 > Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
 
+![](./images/test/them-de-thi.png)
+
 Giải thích các trường thông tin:
 
-- **Tên gọi đề thi (1):**  Nhập tên đề thi. Ví dụ: Đề thi toán học kỳ 2, năm học 2017-2018
-- **Liên kết tĩnh (2):** Đây là chuỗi quy định URL của một đề thi. Chuỗi này thường được tự động tạo sau khi điền xong Tiêu đề. Do đó, bạn có thể không cần quan tâm đến nó, cứ để giá trị có sẵn. Ví dụ: tương ứng với tiêu đề bên trên thì chúng ta sẽ có liên kết tĩnh tương ứng là `de-thi-toan-hoc-ky-2-nam-hoc-2017-2018`.
-- **Chủ đề (3):** Chọn Chủ đề cho đề thi, danh sách đề thi quản lý tại [Quản lý đề thi](/test/#quan-ly-e-thi)
-- **Hình ảnh (5):** Chọn ảnh đại diện cho đề thi, ảnh này sẽ hiển thị bên cạnh đề thi
-- **Giới thiệu (6):** Mô tả ngắn gọn về nội dung đề thi
-- **Nội dung (7):** Nhập nội dung mô tả chi tiết cho đề thi
-- **Nhóm tham gia thi (8):** Chọn nhóm thành viên được phép thực hiện đề thi này. Xem thêm [Quản lý nhóm thành viên](/system/#quan-ly-nhom-thanh-vien)
-- **Nhóm được bình luận (9):** Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi.
-- **Nhóm xem đáp án sau bài làm (10):** Nhóm thành viên được phép xem đáp án sau khi làm bài.
+| Trường thông tin | Mô tả |
+|------------------|-------|
+|**Tên gọi đề thi (1)**| Nhập tiêu đề cho đề thi |
+|**Liên kết tĩnh (2)**| Cấu hình liên kết URL cho đề thi, phần này sẽ tự động tạo sau khi nhập xong Tên gọi đề thi, bạn có thể sửa lại hoặc không |
+|**Chủ đề (3)**| Chọn chủ đề cho đề thi. (Cần có ít nhất chủ đề trước khi thêm đề thi) |
+|**Dòng sự kiện (4)**| Chọn thêm đề thi vào nhóm đề thi liên quan. Khi bạn click, các nhóm đề thi liên quan trước đó sẽ xuất hiện, bạn chọn nhóm đề thi liên quan muốn liên kết. |
+|**Hình ảnh (5)**| Chọn ảnh đại diện cho đề thi (hiển thị trên danh sách) |
+|**Giới thiệu (6)**| Mô tả ngắn gọn về nội dung đề thi |
+|**Nội dung (7)**| Nhập nội dung mô tả chi tiết cho đề thi |
+|**Nhóm tham gia thi (8)**| Chọn nhóm thành viên được phép thực hiện đề thi này |
+|**Nhóm được bình luận (9)**| Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi | 
+|**Nhóm xem đáp án sau bài làm (10)**| Nhóm thành viên được phép xem đáp án sau khi làm bài. |
+
+Nhập tương tự cho các thông tin tiếp theo
 
 ![](./images/test/them-de-thi-1.png)
 
-- **Hình thức kiểm tra (1):**
-	- **Tự luyện:** Cho phép một thành viên thi nhiều lượt, mỗi lượt thi hệ thống sẽ tự động thay đổi vị trí các câu hỏi và đáp án. Mỗi lượt thi đều chấm điểm.
-	- **Chấm điểm:** Đề thi chỉ cho phép mỗi thành viên thi một lượt và được chấm điểm. Phương án này phù hợp với việc tổ chức các kỳ thi để lấy kết quả thi.
-- **Số lượng câu hỏi (2):** Nhập số lượng câu hỏi cho đề thi
-- **Thang điểm (3):** Nhập thang điểm cho đề thi. Ví dụ: thang điểm 10 thì nhập là 10
-- **Thời gian làm bài (4):** Nhập thời gian làm bài cho đề thi, **thời gian tính bằng đơn vị phút**.
-- **Số câu hỏi trên trang (5):** Nhập số câu hỏi hiển thị trên một trang. Trường hợp đề có nhiều câu hỏi thì việc phân trang sẽ giúp tiết kiệm 
-- **Phương thức nhập câu hỏi (6):**
-	- **Nhập câu hỏi mới:** Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi
-	- **Nhập từ Microsoft Word:** Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word
-- **Tích chọn các tính năng mở rộng cho đề thi (7):** 
-	- **Hiển thị ngẫu nhiên câu hỏi và đáp án:** Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.
-	- **Hiển thị xếp loại sau làm bài:** Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.
-	- **Lưu lịch sử làm bài:** Hệ thống tự động lưu lại lịch sử thi của thành viên
-	- **Cho phép làm lại bài:** Cho phép thành viên có thể làm lại bài thi
-	- **Cho phép in đề:** Hệ thống sẽ in đề thi trực tiếp
+| Trường thông tin | Mô tả | 
+| -----------------| ------| 
+| **Chọn hình thức kiểm tra (1)**| <ul><li>Tự luyện: Đề thi cho phép một thành viên thi nhiều lượt, mỗi lượt thi hệ thống sẽ tự động thay đổi vị trí các câu hỏi và đáp án.Mỗi lượt thi đều chấm điểm <li>Chấm điểm: Đề thi chỉ cho phép mỗi thành viên thi một lượt và được chấm điểm. Phương án này phù hợp với việc tổ chức các kỳ thi để lấy kết quả thi.|
+|**Số lượng câu hỏi (2)** | Nhập số lượng câu hỏi của đề thi |
+|**Thang điểm (3)** | Nhập thang điểm của đề thi |
+|**Thời gian làm bài (4)** | Nhập thời gian làm bài của đề thi, thời gian tính bằng đơn vị phút. |
+|**Số câu hỏi trên trang (5)** | Nhập số câu hỏi hiển thị trên một trang, nếu không muốn phân trang thì nhập 0, hệ thống sẽ tự động phân trang |
+|**Phương thức nhập câu hỏi (6)** | <ul><li>Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi<li>Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word </ul>|
+|**Tích chọn các tính năng mở rộng cho đề thi (7)** | <ul><li>Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.<li>Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.<li>Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên<li>Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi<li>Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp.|
+|**Cập nhật (8)** | Nhấn chọn Cập nhật (8) để hoàn tất. |
+
+###Thêm câu hỏi
+Sau khi cập nhật, giao diện trang xuất hiện câu hỏi:
+
+![](./images/test/them-cau-hoi-1.jpg)
+
+| Trường thông tin | Mô tả |
+| -----------------| ------| 
+|**Loại câu hỏi (1)** | Nhấn chọn loại câu hỏi <ul><li>Câu hỏi trắc nghiệm: Loại câu hỏi với các đáp án cho sẵn, học sinh chọn ra các đáp án đúng, mỗi câu hỏi có thể có một hoặc nhiều đáp án đúng![](./images/test/cau-hoi-trac-nghiem.gif) .<li>Câu hỏi điền vào ô trống: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời đúng tương ứng với dữ liệu đã cho trong câu hỏi![](./images/test/cau-hoi-dien-vao-o-trong.gif).<li>Câu hỏi chung: Loại câu hỏi gồm câu hỏi và đoạn văn bản đọc hiểu. Học sinh dựa vào đoạn văn bản đề chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-chung.gif).|
+|**Tiêu đề (2)** | Nhập tiêu đề chính là nội dung câu hỏi. |
+|**Danh sách câu hỏi (3)** | Danh sách các câu hỏi của đề thi |
+|**Câu hỏi màu xanh (4)** | Câu hỏi đã nhập nội dung sẽ có màu xanh (4) |
+|**Câu hỏi màu đỏ (5)** | Câu chưa nhập nội dung có màu đỏ. Các câu hỏi này có thể xóa (5) |
+
+###Đáp án 
+
+![](./images/test/dap-an.jpg)
+
+| Trường thông tin | Mô tả |
+| -----------------| ------|
+|**Trình bày đáp án (1)** | <ul><li>Chia đều hai cột: Các đáp án sẽ được chia đều thành 2 cột.<li>Các đáp án trên một hàng: Tất cả các đáp án của câu hỏi sẽ được trình bày trên một hàng.<li>Mỗi đáp án một hàng: Mỗi đáp án của câu hỏi nằm tách biệt trên một hàng. |
+|**Sử dụng editor cho nội dung đáp án (2)** | Trong trường hợp đáp án câu hỏi có sử dụng hình ảnh, định dạng văn bản,...thì bạn tích chọn Sử dụng editor cho nội dung đáp án (2), khung soạn thảo sẽ được chuyển sang dạng trình soạn thảo văn vản. |
+|**Thêm đáp án (3)** | Sau khi nhập nội dung đáp án A, bạn nhấn chọn thêm đáp án để thêm đáp án B, C.... Hệ thống không giới hạn số lượng các đáp án được tạo. |
+|**Chọn đáp án đúng (4)** | Bạn cần chọn ít nhất một đáp án đúng (4) cho câu hỏi, một câu hỏi có thể có nhiều đáp án đúng. |
+|**Cập nhật (5)** | Nhấn nút Cập nhật (5) để lưu câu hỏi. Bạn sẽ được tự động chuyển sang câu hỏi tiếp theo để tiếp tục soạn thảo. |
+
+Quá trình này lặp đi lặp lại cho các câu hỏi và kết thúc sau khi hoàn thành câu hỏi cuối cùng.
+
+**Lưu ý:** Đề thì được xem là hợp lệ (có thể làm bài) khi số lượng câu hỏi nhập vào bằng với số lượng câu hỏi của đề thi.
+
+###Lời giải
+
+![](./images/test/loi-giai.jpg)
+
+- Đối với các phân môn tự nhiên: Sử dụng để ghi lời giải (nếu có) của câu hỏi. Người giải đề sẽ tham khảo sau khi trả lời câu hỏi để đối chiếu với bài làm.
+- Đối với các phân môn xã hội: Sử dụng để cung cấp thêm thông tin (nếu có) liên quan đến đáp án đúng.
+
+###Quản lý đề thi
+
+Chọn menu **Đề thi**, các đề thi đã có xuất hiện với các thông tin:
+
+![](./images/test/quan-li-de-thi.png)
+
+| Trường thông tin | Mô tả |
+| -----------------| ----- |
+|**Tìm kiếm (1)** | Nhập từ khóa và chủ chủ đề tìm kiếm một đề thi trong kho đề thi của bạn |
+|**Tên gọi đề thi (2)** | Tên gọi của đề thi mà bạn đã nhập trước đó | 
+|**Hình thức kiểm tra (3)** | Hình thức kiểm tra của đề thi tương ứng |
+|**Số câu hỏi (4)** | Số lượng câu hỏi trên đề thi |
+|**Thang điểm (5)** | Thang điểm của đề thi |
+|**Thời gian làm bài (6)** | Thời gian làm bài của đề thi |
+|**Hoạt động (7)** | Đề thi vấn được sử dụng |
+|**Quản lý (8)** | Cho biết số câu hỏi của đề và lịch sử thi của đề tương ứng |
+|**Sửa & xóa đề thi (9)** | Liên kết sửa, xóa đề thi |
 
 Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
 
@@ -306,48 +367,85 @@ Nhấn **Ctrl + S** để lưu lại, bây giờ có thể đóng cửa sổ nà
  
 Người dùng lựa chọn đối tượng được phép truy cập vào tài khoản AZtest.
 
-- Quản trị tối cao: 
-- Điều hành chung:
-- Quản lý Module: 
-- Thành viên chính thức:
-- Thành viên mới:
-- Khách:
-- Tất cả: 
+- **Quản trị tối cao**: 
+- **Điều hành chung**:
+- **Quản lý Module**: 
+- **Thành viên chính thức**:
+- **Thành viên mới**:
+- **Khách**:
+- **Tất cả**: Nếu tất cả các đối tượng đều được phép truy cập thì tích vào ô **Tất cả**
 
-Nếu tất cả các đối tượng đều được phép truy cập thì tích vào ô **Tất cả**
+![](./images/test/cau-hinh-1.png)
 
 ### Hiển thị trên trang chủ
 
-Click vào mũi tên bên phải dòng Hiển thị trên trang chủ để lựa chọn cách hiển thị của đề thi trên trang chủ. 
+Click vào mũi tên bên phải dòng **Hiển thị trên trang chủ** để lựa chọn cách hiển thị của đề thi trên trang chủ. 
 
-- Danh sách, mới lên trên: Các đề thi sẽ được sắp xếp thành một danh sách, những đề thi nào mới sẽ được tự động đẩy lên trên. 
-- Chuyên mục, đề thi nhỏ nằm bên dưới: Các đề thi sẽ được sắp xếp thành các chuyên mục, các đề thi nhỏ sẽ nằm bên dưới chuyên mục. 
-- Chuyên mục, đề thi nhỏ nằm bên phải: Các đề thi sẽ được sắp xếp thành chuyên mục, các đề thi nhỏ thuộc chủ đề sẽ nằm bên phải. 
-- Chuyên mục thành 2 cột: (chưa hiểu) 
-- Chuyên mục chính cấp 1, phụ cấp 2: Các đề thi sẽ được chia làm 2 loại chuyên mục: chuyên mục chính và chuyên mục phụ. 
-- Không hiển thị: Trên trang chủ sẽ không hiển thị bất kì một đề thi nào.
- 
+![](./images/test/cau-hinh-2.png)
+
+- **Danh sách, mới lên trên**: Các đề thi sẽ được sắp xếp thành một danh sách, những đề thi nào mới sẽ được tự động đẩy lên trên. 
+
+![](./images/test/cau-hinh-3.png)
+
+- **Chuyên mục, đề thi nhỏ nằm bên dưới**: Các đề thi sẽ được sắp xếp thành các chuyên mục, các đề thi nhỏ sẽ nằm bên dưới chuyên mục. 
+
+![](./images/test/cau-hinh-4.png)
+
+- **Chuyên mục, đề thi nhỏ nằm bên phải**: Các đề thi sẽ được sắp xếp thành chuyên mục, các đề thi nhỏ thuộc chủ đề sẽ nằm bên phải. 
+
+![](./images/test/cau-hinh-5.png)
+
+- **Chuyên mục thành 2 cột**
+
+![](./images/test/cau-hinh-6.png)
+
+- **Chuyên mục chính cấp 1, phụ cấp 2** Các đề thi sẽ được chia làm 2 loại chuyên mục: chuyên mục chính và chuyên mục phụ. 
+
+![](./images/test/cau-hinh-7.png)
+
+- **Không hiển thị** Trên trang chủ sẽ không hiển thị bất kì một đề thi nào. 
+
 ### Cấu hình hiển thị giao diện làm bài
 
-Click vào mũi tên bên phải để chọn Cấu hình hiển thị giao diện làm bài. 
+Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao diện làm bài**. 
 
-- Hiển thị theo dạng danh sách:  Các câu hỏi trong đề thi sẽ hiển thị theo dạng danh sách theo số thứ tự
-- Hiển thị từng câu hỏi: Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài. 
+![](./images/test/cau-hinh-8.png)
+
+- **Hiển thị theo dạng danh sách**: Các câu hỏi trong đề thi sẽ hiển thị theo dạng danh sách theo số thứ tự
+
+![](./images/test/cau-hinh-9.png)
+
+- **Hiển thị từng câu hỏi**: Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài. 
+
+![](./images/test/cau-hinh-10.png)
 
 ### Thực hiện tương tự các thao tác khác dể thiết lập cấu hình 
 
-- Sử dụng editor: Trong trường hợp câu hỏi có sử dụng hình ảnh, định dạng văn bản,...thì bạn tích chọn Sử dụng editor. Khung soạn thảo sẽ chuyển sang dạng trình soạn thảo văn bản. 
-- Hiển thị giới thiệu ngắn gọn: Nếu bạn muốn hiển thị lời giới thiệu ngắn gọn về đề thi trên trang chủ thì tích chọn Hiển thị giới thiệu ngắn gọn. 
-- Công cụ xã hội: Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội. 
-- Ảnh mặc định: 
-- Cấu trúc thư mục upload:
-- Số đề thi chỉ hiển thị link:
-- Số đề thi trên trang danh sách: 
-- Vị trí ảnh mặc định: Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu. 
-- Hiển thị lời giải khi làm bài: Khi tích chọn lời giải sẽ hiện thị trong quá trình làm bài
-- Từ khóa:
+![](./images/test/cau-hinh-11.png)
+
+- **Sử dụng editor**: Trong trường hợp câu hỏi có sử dụng hình ảnh, định dạng văn bản,...thì bạn tích chọn **Sử dụng editor**. Khung soạn thảo sẽ chuyển sang dạng trình soạn thảo văn bản. 
+- **Hiển thị giới thiệu ngắn gọn**: Nếu bạn muốn hiển thị lời giới thiệu ngắn gọn về đề thi trên trang chủ thì tích chọn **Hiển thị giới thiệu ngắn gọn**. 
+
+![](./images/test/cau-hinh-12.png)
+
+- **Công cụ xã hội**: Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội. 
+
+![](./images/test/cau-hinh-13.png)
+
+- **Ảnh mặc định**: 
+- **Cấu trúc thư mục upload**: 
+- **Số đề thi chỉ hiện thị link**: 
+- **Số đề thi trên trang danh sách**:  
+- **Vị trí ảnh mặc định**: Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn: Không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu. 
+
+![](./images/test/cau-hinh-14.png)
+
+- **Hiển thị lời giải khi làm bài**: Khi tích chọn lời giải sẽ hiện thị trong quá trình làm bài
+- **Từ khóa**:
 	- Chuyển chữ thường: 
 	- Lọc tag alias: 
 	- Tự động tạo từ khóa: 
-	- Nhắc nhở từ khóa: 
-Sau khi đã chọn đầy đủ các mục click Cập nhật để hoàn thành. 
+	- Nhắc nhở từ khóa:
+
+Sau khi đã chọn đầy đủ các mục click **Cập nhật** để hoàn thành. 
+ 
