@@ -165,7 +165,7 @@ td, th {
     padding-left: 0 !important
 }
 
-.rst-content table ul{
+.rst-content table ul {
     margin: 0 !important
 }
 
@@ -188,7 +188,7 @@ li a.toctree-l3 {
 }
 
 li.toctree-l2 .active {
-    font-weight: bold   
+    font-weight: bold
 }
 
 .rst-content h2 {
@@ -198,4 +198,26 @@ li.toctree-l2 .active {
 
 h3 {
     font-size: 120%;
+}
+
+p.caption {
+    background-color: #2980B9;
+    color: #fff;
+    line-height: 18px;
+    padding: 0.4045em 0.618em;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.wy-menu-vertical li {
+    background: #e3e3e3;
+}
+
+.wy-menu-vertical a:hover {
+    background: #e3e3e3;
+}
+
+.wy-menu-vertical a{
+    color: inherit;
 }
