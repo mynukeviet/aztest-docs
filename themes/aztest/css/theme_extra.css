@@ -98,3 +98,25 @@ p.caption {
 .wy-side-nav-search{
     margin-bottom: 2px
 }
+
+.rst-content table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.rst-content table td, .rst-content table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.rst-content table tr:nth-child(even){background-color: #f2f2f2;}
+
+.rst-content table tr:hover {background-color: #ddd;}
+
+.rst-content table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #2980B9;
+    color: white;
+}
