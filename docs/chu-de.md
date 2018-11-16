@@ -1,4 +1,6 @@
 
+## Thiết lập chủ đề
+
 **Chủ đề** là đơn vị giúp phân loại đề thi trong hệ thống AZtest. Qua chủ đề, chúng ta có thể thiết lập các thuộc tính (cấu hình) riêng cho các đề thi nằm cùng một chủ đề. 
 
 Bạn cần tạo ít nhất 01 chủ đề trước khi thực hiện các bước tiếp theo.
@@ -16,6 +18,8 @@ Trên danh sách chủ đề, bạn có thể:
 |**Số liên kết** | Quy định số đề thi cùng chủ đề được gợi ý khi xem một đề thi bất kỳ |
 |**Phương án hiển thị** | Quy định giao diện hiển thị đề thi khi xem chủ đề |
 |**Thống kê điểm cao** | Quy định giao diện hiển thị đề thi khi xem chủ đề | 
+
+## Quản lý chủ đề
 
 ### Thêm chủ đề
 
