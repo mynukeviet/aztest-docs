@@ -2,52 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://docs.aztest.vn/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/xoa-du-lieu-mau/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/chu-de/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/xep-loai/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/de-thi/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/cau-hinh/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/phan-quyen/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
+     <loc>https://docs.aztest.vn/huong-dan-mo-rong/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.aztest.vn/system/</loc>
-     <lastmod>2018-11-15</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
