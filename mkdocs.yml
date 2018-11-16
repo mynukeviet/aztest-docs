@@ -17,7 +17,7 @@ pages:
     - Xếp loại: 'xep-loai.md'
     - Đề thi: 'de-thi.md'
     - Cấu hình: 'cau-hinh.md'
-    - Phân quyền quản lý: 'phan-quyen.md'
+    - Phân quyền quản lý: 'phan-quyen-quan-ly.md'
 - Hướng dẫn:
     - Hướng dẫn mở rộng: huong-dan-mo-rong/index.md
     - Quản trị hệ thống: system.md

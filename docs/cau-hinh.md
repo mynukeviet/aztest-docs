@@ -1,22 +1,18 @@
-## Cấu hình
-
 Để thiết lập cấu hình trên menu **Trắc nghiệm/ Cấu hình** (Menu dọc)
 
-### Nhóm được truy cập
+## Nhóm được truy cập
  
-Người dùng lựa chọn đối tượng được phép truy cập vào tài khoản AZtest.
-
-- **Quản trị tối cao**: 
-- **Điều hành chung**:
-- **Quản lý Module**: 
-- **Thành viên chính thức**:
-- **Thành viên mới**:
-- **Khách**:
-- **Tất cả**: Nếu tất cả các đối tượng đều được phép truy cập thì tích vào ô **Tất cả**
+Thiết lập [nhóm thành viên](/system/#quan-ly-nhom-thanh-vien) có thể truy cập vào khu vực làm bài thi trên trang chủ.
 
 ![](./images/test/cau-hinh-1.png)
 
-### Hiển thị trên trang chủ
+Bạn có thể quản lý nhóm thành viên thông qua [Quản lý nhóm thành viên](/system/#quan-ly-nhom-thanh-vien)
+
+Nếu một thành viên **KHÔNG** nằm trong các nhóm cho phép, họ sẽ thấy được thông báo về quyền truy cập.
+
+![](./images/test/cau-hinh-15.png)
+
+## Hiển thị trên trang chủ
 
 Click vào mũi tên bên phải dòng **Hiển thị trên trang chủ** để lựa chọn cách hiển thị của đề thi trên trang chủ. 
 
@@ -44,7 +40,7 @@ Click vào mũi tên bên phải dòng **Hiển thị trên trang chủ** để 
 
 - **Không hiển thị** Trên trang chủ sẽ không hiển thị bất kì một đề thi nào. 
 
-### Cấu hình hiển thị giao diện làm bài
+## Cấu hình hiển thị giao diện làm bài
 
 Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao diện làm bài**. 
 
@@ -67,24 +63,23 @@ Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao di
 
 ![](./images/test/cau-hinh-12.png)
 
-- **Công cụ xã hội**: Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội. 
+- **Công cụ mạng xã hội**: Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội. 
 
 ![](./images/test/cau-hinh-13.png)
 
-- **Ảnh mặc định**: 
-- **Cấu trúc thư mục upload**: 
-- **Số đề thi chỉ hiện thị link**: 
-- **Số đề thi trên trang danh sách**:  
-- **Vị trí ảnh mặc định**: Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn: Không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu. 
+- **Ảnh mặc định**: Lựa chọn ảnh sẽ hiển thị trên danh sách đề thi, trong trường hợp đề thi không có ảnh đại diện (không chọn ảnh đại diện)
+- **Cấu trúc thư mục upload**: Lựa chọn cấu trúc thư mục lưu các tập tin được tải lên. Việc này giúp bạn quản lý tập tin dễ dàng hơn.
+- **Số đề thi trên trang danh sách**: Khi số lượng đề thi của bạn nhiều, cần phân trang danh sách đề thi thành nhiều trang. Tại đây bạn có thể thiết lập số lượng đề thi sẽ hiển thị trên một trang.
+- **Vị trí ảnh mặc định**: Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn: 
+	- Không hiển thị
+	- Hiển thị bên trái phần mở đầu 
+	- Hiển thị bên dưới phần mở đầu 
 
 ![](./images/test/cau-hinh-14.png)
 
-- **Hiển thị lời giải khi làm bài**: Khi tích chọn lời giải sẽ hiện thị trong quá trình làm bài
-- **Từ khóa**:
-	- Chuyển chữ thường: 
-	- Lọc tag alias: 
-	- Tự động tạo từ khóa: 
-	- Nhắc nhở từ khóa:
+- **Hiển thị lời giải khi làm bài**: Khi bật tùy chọn này, hệ thống sẽ:
+	- Thêm trình soạn thảo lời giải khi thêm một câu hỏi mới
+	- Hiển thị biểu tượng **Xem lời giải** trong đề thi, người thi có thể xem lời giải (nếu có) của câu hỏi trong hoặc sau khi làm bài
 
 Sau khi đã chọn đầy đủ các mục click **Cập nhật** để hoàn thành. 
 
