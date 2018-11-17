@@ -8,7 +8,7 @@
   
   <meta name="author" content="AZtest">
   <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Chen cong thuc trong noi dung - AZtest Docs</title>
+  <title>Hien thi bang thong ke thanh vien diem cao - AZtest Docs</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
@@ -17,9 +17,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Chen cong thuc trong noi dung";
-    var mkdocs_page_input_path = "huong-dan-mo-rong/chen-cong-thuc-trong-noi-dung.md";
-    var mkdocs_page_url = "/huong-dan-mo-rong/chen-cong-thuc-trong-noi-dung/";
+    var mkdocs_page_name = "Hien thi bang thong ke thanh vien diem cao";
+    var mkdocs_page_input_path = "huong-dan-mo-rong/hien-thi-bang-thong-ke-thanh-vien-diem-cao.md";
+    var mkdocs_page_url = "/huong-dan-mo-rong/hien-thi-bang-thong-ke-thanh-vien-diem-cao/";
   </script>
   
   <script src="../../js/jquery-2.1.1.min.js" defer></script>
@@ -105,10 +105,10 @@
     
       
     
-    <li>Chen cong thuc trong noi dung</li>
+    <li>Hien thi bang thong ke thanh vien diem cao</li>
     <li class="wy-breadcrumbs-aside">
       
-        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/huong-dan-mo-rong/chen-cong-thuc-trong-noi-dung.md"
+        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/huong-dan-mo-rong/hien-thi-bang-thong-ke-thanh-vien-diem-cao.md"
           class="icon icon-github"> Edit on Github</a>
       
     </li>
@@ -119,12 +119,36 @@
           <div role="main">
             <div class="section">
               
-                <p>Với các phân môn tự nhiên, nếu trong nội dung câu hỏi có chứa các công thức toán học, bạn có thể sử dụng công cụ <strong>Chèn công thức toán học</strong> trên trình soạn thảo như hình dưới đây:</p>
-<p><img alt="" src="../../images/test/cong-thuc-toan-1.png" /></p>
-<p>Lúc này sẽ hiển thị ra cửa sổ để <strong>Soạn công thức toán</strong> như hình dưới:</p>
-<p><img alt="" src="../../images/test/cong-thuc-toan-2.png" /></p>
-<p>Sau khi soạn thảo công thức toán bạn click  <strong>Đồng ý</strong> để hoàn tất. </p>
-<p>Xem thêm chi tiết cách tạo <a href="/de-thi/"><strong>đề thi</strong></a></p>
+                <p>Hiển thị bảng thống kê thành viên điểm cao</p>
+<p>Thực hiện kích hoạt tính năng thống kê này theo các bước bên dưới:</p>
+<p><strong>BƯỚC 1</strong>: Đăng nhập quản trị</p>
+<p>Tiến hành truy cập khu vực quản trị theo thông tin đã có, tại đường dẫn domain/admin/index.php (với domain là tên miền của bạn)</p>
+<p><strong>BƯỚC 2</strong>: Kích hoạt block topscore</p>
+<ul>
+<li>Từ giao diện chính quản trị, click vào menu Quản lý giao diện (1) =&gt; Quản lý block (2)</li>
+</ul>
+<p><img alt="" src="../../images/test/Danh-sach-diem-cao.png" />  </p>
+<ul>
+<li>Nhấn Thêm block (3). Lúc này, một cửa sổ mới sẽ hiện lên:</li>
+</ul>
+<p><img alt="" src="../../images/test/danh-sach-diem-cao-1.png" /> </p>
+<p>Bạn cần quan tâm tới những thông tin này:</p>
+<p><img alt="" src="../../images/test/danh-sach-diem-cao-2.png" /> </p>
+<p><strong>Kiểu block</strong> (1): Trắc nghiệm =&gt; global.block_topscore.php (2)</p>
+<p><strong>Number_day</strong> (3)  : Là số ngày giới hạn thống kê <strong>Numrow</strong> (3): Số lượng thành viên hiển thị trong danh sách</p>
+<p><strong>Tên block</strong> (4): Đặt tên hiển thị cho khối này, VD "Thành viên có điểm cao"</p>
+<p><strong>URL của block</strong> (5): Bạn có thể bỏ qua bước này. </p>
+<p><strong>Template</strong> (6): Chọn <strong>Mặc định</strong></p>
+<p><strong>vị trí</strong>(7): Chọn khối bạn muốn hiển thị trên giao diện</p>
+<p><strong>Ngày hết hạn</strong> (8): Bạn có thể bỏ qua bước này nếu muốn bảng thống kê thành viên điểm cao tồn tại vĩnh viển. </p>
+<p><img alt="" src="../images/test/danh-sach-diem-cao-3.png" /> </p>
+<p><strong>Hiển thị trên thiết bị</strong> (9): Bạn chọn thiết bị mà bảng thống kê thành viên điểm cao được phép hiển thị</p>
+<p><strong>Các nhóm được xem</strong> (10): Bạn chọn nhóm được xem bảng thống kê thành viên điểm cao </p>
+<p><strong>Áp dụng cho module</strong> (11): Tích vào <strong>Tất cả các module</strong></p>
+<p>Sau khi hoàn thành các bước trên nhấn <strong>Chấp nhận</strong> để hoàn tất</p>
+<p><strong>BƯỚC 3</strong>: Hiển thị block</p>
+<p>Sau khi thêm, bạn trở lại giao diện chính ở khu vực site, sẽ thấy sự xuất hiện của block thành viên điểm cao</p>
+<p><img alt="" src="../../images/test/danh-sach-diem-cao-4.png" /> </p>
               
             </div>
           </div>
