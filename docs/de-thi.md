@@ -64,7 +64,7 @@ Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả |
 | -----------------| ------| 
-|**Loại câu hỏi (1)** | Nhấn chọn loại câu hỏi <ul><li>Câu hỏi trắc nghiệm: Loại câu hỏi với các đáp án cho sẵn, học sinh chọn ra các đáp án đúng, mỗi câu hỏi có thể có một hoặc nhiều đáp án đúng![](./images/test/cau-hoi-trac-nghiem.gif) .<li>Câu hỏi điền vào ô trống: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời đúng tương ứng với dữ liệu đã cho trong câu hỏi![](./images/test/cau-hoi-dien-vao-o-trong.gif).<li>Câu hỏi chung: Loại câu hỏi gồm câu hỏi và đoạn văn bản đọc hiểu. Học sinh dựa vào đoạn văn bản đề chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-chung.gif).|
+|**Loại câu hỏi (1)** | Nhấn chọn loại câu hỏi <ul><li>**Câu hỏi trắc nghiệm**: Loại câu hỏi với các đáp án cho sẵn, học sinh chọn ra các đáp án đúng, mỗi câu hỏi có thể có một hoặc nhiều đáp án đúng![](./images/test/cau-hoi-trac-nghiem.gif) .<li>**Câu hỏi điền vào ô trống**: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời đúng tương ứng với dữ liệu đã cho trong câu hỏi![](./images/test/cau-hoi-dien-vao-o-trong.gif).<li>**Câu hỏi chung**: Loại câu hỏi gồm câu hỏi và đoạn văn bản đọc hiểu. Học sinh dựa vào đoạn văn bản đề chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-chung.gif).|
 |**Tiêu đề (2)** | Nhập tiêu đề chính là nội dung câu hỏi. |
 |**Danh sách câu hỏi (3)** | Danh sách các câu hỏi của đề thi |
 |**Câu hỏi màu xanh (4)** | Câu hỏi đã nhập nội dung sẽ có màu xanh (4) |

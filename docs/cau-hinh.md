@@ -52,7 +52,7 @@ Giải thích các trường thông tin:
 | **Cấu hình hiển thị giao diện làm bài** | **Mô tả** | 
 | --------------------------------------- | --------- | 
 | **Hiển thị theo dạng danh sách** |  Các câu hỏi trong đề thi sẽ hiển thị theo dạng danh sách theo số thứ tự![](./images/test/cau-hinh-9.png) | 
-| **Hiển thị từng câu hỏi** | Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài ![](./images/test/cau-hinh-10.png) | 
+| **Hiển thị từng câu hỏi** | Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài ![](./images/test/cau-hinh-19.png) | 
 
 ### Thực hiện tương tự các thao tác khác dể thiết lập cấu hình 
 
