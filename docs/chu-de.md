@@ -1,3 +1,4 @@
+## Thiết lập chủ đề
 
 **CHỦ ĐỀ là đơn vị giúp phân loại đề thi trong hệ thống AZtest. Người dùng có thể tạo được nhiều đề thi khác nhau trong cùng một chủ để. Điều này giúp phân loại được dễ dàng giữa các nhóm chủ đề như bộ môn, kỳ thi, lớp học...**
 
@@ -48,7 +49,7 @@ Nếu thêm thành công, chủ đề mới sẽ xuất hiện trong danh sách 
 > **Lưu ý:** Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa 
 
 
-**QUẢN LÝ CHỦ ĐỀ**
+## Quản lý chủ đề
 
 Trong Module **Trắc nghiệm**, bạn chọn **Chủ đề** (menu dọc)
 

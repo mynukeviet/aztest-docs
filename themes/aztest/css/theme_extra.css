@@ -83,6 +83,15 @@ p.caption {
     text-transform: uppercase;
 }
 
+li.toctree-l1 .caption-text {
+    display: inline-block;
+    line-height: 18px;
+    padding: 0.4045em 1.618em;
+    display: block;
+    position: relative;
+    font-size: 90%;
+}
+
 .wy-menu-vertical li {
     background: #e3e3e3;
 }
@@ -91,17 +100,18 @@ p.caption {
     background: #e3e3e3;
 }
 
-.wy-menu-vertical a{
+.wy-menu-vertical a {
     color: inherit;
 }
 
-.wy-side-nav-search{
+.wy-side-nav-search {
     margin-bottom: 2px
 }
 
 .rst-content table {
     border-collapse: collapse;
     width: 100%;
+    margin-bottom: 20px
 }
 
 .rst-content table td, .rst-content table th {
@@ -109,9 +119,13 @@ p.caption {
     padding: 8px;
 }
 
-.rst-content table tr:nth-child(even){background-color: #f2f2f2;}
+.rst-content table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
 
-.rst-content table tr:hover {background-color: #ddd;}
+.rst-content table tr:hover {
+    background-color: #ddd;
+}
 
 .rst-content table th {
     padding-top: 12px;
@@ -119,4 +133,9 @@ p.caption {
     text-align: left;
     background-color: #2980B9;
     color: white;
+    text-align: center;
+}
+
+code, .rst-content tt {
+    white-space: inherit;
 }
