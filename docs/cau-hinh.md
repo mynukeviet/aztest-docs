@@ -52,7 +52,7 @@ Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao di
 
 - **Hiển thị từng câu hỏi**: Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài. 
 
-![](./images/test/cau-hinh-10.png)
+![](./images/test/cau-hinh-19.png)
 
 ### Thực hiện tương tự các thao tác khác dể thiết lập cấu hình 
 
@@ -75,7 +75,7 @@ Click vào mũi tên bên phải để chọn **Cấu hình hiển thị giao di
 	- Hiển thị bên trái phần mở đầu 
 	- Hiển thị bên dưới phần mở đầu 
 
-![](./images/test/cau-hinh-14.png)
+![](./images/test/cau-hinh-20.png)
 
 - **Hiển thị lời giải khi làm bài**: Khi bật tùy chọn này, hệ thống sẽ:
 	- Thêm trình soạn thảo lời giải khi thêm một câu hỏi mới

@@ -17,7 +17,7 @@ Tải về phiên bản mới nhất và tiến hành cài đặt tại http://w
 
 Lúc này văn bản chuyển sang dạng như sau:
 
-![](../images/test/cau-hoi-word- 2.png)
+![](../images/test/cau-hoi-word-2.png)
 
 Lưu nội dung mới này là để thực hiện bước tiếp theo.
 
