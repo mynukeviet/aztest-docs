@@ -1,16 +1,20 @@
 ## Thiết lập đề thi
 
-### Tạo đề thi mới
+**Việc Thiết lập đề thi là một khâu quan trọng cho phép chúng ta có thể Tạo đề thi mới, Quản lý câu hỏi, Đáp án và Lời giải.**
 
-Bạn cần đăng nhập vào khu vực quản trị trước khi sử dụng tính năng này. Thông tin tài khoản đã được gửi qua email khi bạn đăng ký dịch vụ.
+### TẠO ĐỀ THI MỚI
 
-**Bước 1**: Trên giao diện quản trị, truy cập **Trắc nghiệm** >>> Chọn Menu **Đề thi** (1) >>> Chọn **Thêm đề thi** (2)
+Bạn cần [đăng nhập vào khu vực quản trị](http://localhost:8000/start/#ang-nhap-khu-vuc-quan-tri) trước khi sử dụng tính năng này. Thông tin tài khoản đã được gửi qua email khi bạn đăng ký dịch vụ.
+
+**BƯỚC 1**: Trên giao diện quản trị, truy cập **Trắc nghiệm** >>> Chọn Menu **Đề thi** (1) >>> Chọn **Thêm đề thi** (2)
 
 ![](./images/test/tao-de-thi-1.png)
 
-**Bước 2**: Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
+**BƯỚC 2**: Cần nhập đầy đủ các trường có gắn dấu sao (*) ở cuối trước khi nhấn **Cập nhật**
 
 ![](./images/test/them-de-thi.png)
+
+>***Lưu ý**: Với các đề thi thuộc phân môn tự nhiên, nếu trong nội dung câu hỏi có chứa các công thức toán học, bạn có thể xem thêm chi tiết soạn công thức toán học tại [**Nhập công thức toán học**](/nhap-cong-thuc-toan-hoc/).*
 
 Giải thích các trường thông tin:
 
@@ -27,9 +31,11 @@ Giải thích các trường thông tin:
 |**Nhóm được bình luận (9)**| Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi | 
 |**Nhóm xem đáp án sau bài làm (10)**| Nhóm thành viên được phép xem đáp án sau khi làm bài. |
 
-**Bước 3**: Nhập tương tự cho các thông tin tiếp theo
+**BƯỚC 3**: Nhập tương tự cho các thông tin tiếp theo
 
-![](./images/test/them-de-thi-1.png)
+![](./images/test/nhapcauhoiword.png)
+
+Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả | 
 | -----------------| ------| 
@@ -38,15 +44,23 @@ Giải thích các trường thông tin:
 |**Thang điểm (3)** | Nhập thang điểm của đề thi |
 |**Thời gian làm bài (4)** | Nhập thời gian làm bài của đề thi, thời gian tính bằng đơn vị phút. |
 |**Số câu hỏi trên trang (5)** | Nhập số câu hỏi hiển thị trên một trang, nếu không muốn phân trang thì nhập 0, hệ thống sẽ tự động phân trang |
-|**Phương thức nhập câu hỏi (6)** | <ul><li>Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi<li>Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word </ul>|
+|**Phương thức nhập câu hỏi (6)** | <ul><li>Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi<li>Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word </ul>.Xem thêm  [**Nhập câu hỏi từ word**](/nhap-cau-hoi-tu-word/)|
 |**Tích chọn các tính năng mở rộng cho đề thi (7)** | <ul><li>Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.<li>Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.<li>Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên<li>Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi<li>Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp.|
 |**Cập nhật (8)** | Nhấn chọn Cập nhật (8) để hoàn tất. |
 
-### Quản lý câu hỏi
+Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
+
+![](./images/test/cap-nhat-de-thi.png)
+
+
+### QUẢN LÝ CÂU HỎI
+Sau khi **Tạo Đề thi mới**, chúng ta tiếp tục đến bước **Quản lý Câu hỏi** thông qua việc hoàn thiện các bước Thêm câu hỏi, Đáp án và Lời giải.
 ####Thêm câu hỏi
-Sau khi cập nhật, giao diện trang xuất hiện câu hỏi:
+Sau khi nhấn **Cập nhật** ở bước **Tạo Đề thi mới**, giao diện trang xuất hiện câu hỏi:
 
 ![](./images/test/them-cau-hoi-1.jpg)
+
+Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả |
 | -----------------| ------| 
@@ -55,9 +69,13 @@ Sau khi cập nhật, giao diện trang xuất hiện câu hỏi:
 |**Danh sách câu hỏi (3)** | Danh sách các câu hỏi của đề thi |
 |**Câu hỏi màu xanh (4)** | Câu hỏi đã nhập nội dung sẽ có màu xanh (4) |
 |**Câu hỏi màu đỏ (5)** | Câu chưa nhập nội dung có màu đỏ. Các câu hỏi này có thể xóa (5) |
+
 ####Đáp án
+Sau khi **Thêm Câu hỏi** chúng ta tiếp tục thêm **Đáp án** cho câu hỏi đã tạo:
 
 ![](./images/test/dap-an.jpg)
+
+Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả |
 | -----------------| ------|
@@ -69,20 +87,28 @@ Sau khi cập nhật, giao diện trang xuất hiện câu hỏi:
 
 Quá trình này lặp đi lặp lại cho các câu hỏi và kết thúc sau khi hoàn thành câu hỏi cuối cùng.
 
-**Lưu ý:** Đề thì được xem là hợp lệ (có thể làm bài) khi số lượng câu hỏi nhập vào bằng với số lượng câu hỏi của đề thi.
+> **Lưu ý:** Đề thi được xem là hợp lệ (có thể làm bài) khi số lượng câu hỏi nhập vào bằng với số lượng câu hỏi của đề thi.
 ####Lời giải
+
+Phần cuối cùng trong bước **Thiết lập Đề thi** là phần để bạn có thể điền thông tin **Lời giải**:
 
 ![](./images/test/loi-giai.jpg)
 
-- Đối với các phân môn tự nhiên: Sử dụng để ghi lời giải (nếu có) của câu hỏi. Người giải đề sẽ tham khảo sau khi trả lời câu hỏi để đối chiếu với bài làm.
-- Đối với các phân môn xã hội: Sử dụng để cung cấp thêm thông tin (nếu có) liên quan đến đáp án đúng.
+- **Đối với các phân môn Tự nhiên**: Sử dụng để ghi lời giải (nếu có) của câu hỏi. Người giải đề sẽ tham khảo sau khi trả lời câu hỏi để đối chiếu với bài làm.
+- **Đối với các phân môn Xã hội**: Sử dụng để cung cấp thêm thông tin (nếu có) liên quan đến đáp án đúng.
 
 
 ## Quản lý đề thi
 
-Chọn menu **Đề thi**, các đề thi đã có xuất hiện với các thông tin:
+Sau khi thiết lập xong Đề thi, để **Quản lý Đề thi**, bạn chọn menu **Đề thi**
+
+![](./images/test/de-thi.png)
+
+Các đề thi đã có xuất hiện với các thông tin:
 
 ![](./images/test/quan-li-de-thi.png)
+
+Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả |
 | -----------------| ----- |
@@ -96,6 +122,4 @@ Chọn menu **Đề thi**, các đề thi đã có xuất hiện với các thô
 |**Quản lý (8)** | Cho biết số câu hỏi của đề và lịch sử thi của đề tương ứng |
 |**Sửa & xóa đề thi (9)** | Liên kết sửa, xóa đề thi |
 
-Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
-
-Sau khi thực hiện xong bước **Xếp loại**, bạn thực hiện tiếp bước   [**Cấu hình**](/cau-hinh/)
+*Sau khi thực hiện xong bước **Xếp loại**, bạn thực hiện tiếp bước   [**Cấu hình**](/cau-hinh/) để hiển thị Đề thi ra bên ngoài*.
