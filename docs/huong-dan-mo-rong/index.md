@@ -8,3 +8,4 @@ title: Hướng dẫn mở rộng
 - [Nhập câu hỏi từ Microsoft Word](nhap-cau-hoi-tu-microsoftword.md)
 - [Hiển thị bảng thống kê thành viên điểm cao](hien-thi-bang-thong-ke-thanh-vien-diem-cao)
 - [Xem lại lịch sử thi của đề thi](xem-lai-lich-su-thi-cua-de-thi)
+- [Thay đổi nội dung hướng dẫn làm bài thi](thay-doi-noi-dung-huong-dan-lam-bai-thi)
