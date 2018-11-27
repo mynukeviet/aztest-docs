@@ -1,4 +1,6 @@
-##**Nhập câu hỏi từ Microsoft Word**
+---
+title: Nhập câu hỏi từ Microsoft Word
+---
 
 ###**Đối với đề thi có chứa công thức toán học**
 
