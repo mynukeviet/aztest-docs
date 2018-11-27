@@ -11,6 +11,7 @@ repo_url: https://github.com/mynukeviet/aztest-docs
 pages:
 - Bắt đầu:
     - Giới thiệu: index.md
+    - Cho người mới: cho-nguoi-moi.md
 - Tạo đề thi trắc nghiệm:
     - Xóa dữ liệu mẫu: 'xoa-du-lieu-mau.md'
     - Chủ đề: 'chu-de.md'

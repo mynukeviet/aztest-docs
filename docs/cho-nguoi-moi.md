@@ -1,5 +1,5 @@
 ---
-title: Bắt đầu
+title: Cho người mới
 ---
 
 ## Khởi tạo website
