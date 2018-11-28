@@ -45,7 +45,7 @@ Ví dụ: http://huutho.aztest.vn/admin/
 
 ![](images/start/sua_tai_khoan.png)
 
-## Thay đổi mật khẩu tài khoản quản trị
+## Đổi mật khẩu tài khoản quản trị
 
 Sau khi đã được cấp tài khoản đăng nhập và mật khẩu, bạn có thể đổi lại mật khẩu để dễ ghi nhớ trong những lần đăng nhập sau.
  
