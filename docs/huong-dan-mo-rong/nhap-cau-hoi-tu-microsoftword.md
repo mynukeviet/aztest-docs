@@ -1,4 +1,6 @@
-##**Nhập câu hỏi từ Microsoft Word**
+---
+title: Nhập câu hỏi từ Microsoft Word
+---
 
 ###**Đối với đề thi có chứa công thức toán học**
 
@@ -7,7 +9,8 @@
 ####**Cài đặt phần mềm MathType**
 Đây là phần mềm thương mại giúp bạn có thể soạn thảo công thức toán học, sau khi cài đặt nó sẽ được tích hợp trong bộ Office của Microsoft. Ngoài tính năng chính là soạn thảo công thức, phần mềm này có một số công cụ giúp chúng ta chuyển đổi công thức sang nhiều định dạng khác nhau.
 
-Tải về phiên bản mới nhất và tiến hành cài đặt tại http://www.dessci.com/en/products/mathtype/
+Tải về phiên bản mới nhất và tiến hành cài đặt tại [http://www.dessci.com/en/products/mathtype/](http://www.dessci.com/en/products/mathtype/)
+
 ####**Sử dụng MathType chuyển đổi công thức toán học sang mã Tex**
 - Chọn toàn bộ văn bản (bôi đen)
 
