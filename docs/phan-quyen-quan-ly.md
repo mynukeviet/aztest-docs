@@ -42,7 +42,7 @@ Trong quá trình tạo đề thi trắc nghiệm trực tuyến với AZtest, n
 
 -> [**Chèn âm thanh trong nội dung**](/huong-dan-mo-rong/chen-am-thanh-trong-noi-dung/)
 
--> [**Nhập câu hỏi từ Microsoftword*](/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword/)
+-> [**Nhập câu hỏi từ Microsoftword**](/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword/)
 
 -> [**Hiển thị bảng thống kê thành viên có điểm cao**](/huong-dan-mo-rong/hien-thi-bang-thong-ke-thanh-vien-diem-cao/)
 
