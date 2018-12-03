@@ -245,3 +245,11 @@ a.text-warning:hover, a.text-warning:focus {
 a.text-danger:hover, a.text-danger:focus {
 	color: #843534;
 }
+
+.wy-nav-top i{
+	margin-top: 10px
+}
+
+.wy-nav-top{
+	text-align: right
+}
