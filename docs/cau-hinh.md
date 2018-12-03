@@ -53,7 +53,7 @@ Giải thích các trường thông tin:
 | **Công cụ xã hội** | Nếu bạn muốn chia sẻ kết quả sau khi làm bài thi lên các trang mạng xã hội thì tích chọn công cụ xã hội![](./images/test/cau-hinh-13.png) | 
 | **Ảnh mặc định** | Lựa chọn ảnh sẽ hiển thị trên danh sách đề thi, trong trường hợp đề thi không có ảnh đại diện (không chọn ảnh đại diện) | 
 | **Cấu trúc thư mục upload** | Lựa chọn cấu trúc thư mục lưu các tập tin được tải lên. Việc này giúp bạn quản lý tập tin dễ dàng hơn |
-| **Số đề thi chỉ hiển thị link** |  |
+| **Số đề thi liên quan** | Số lượng liên kết đề thi cùng chuyên mục, đề thi cũ hơn khi xem một đề thi ![](./images/test/cau-hinh-22.png) |
 | **Số đề thi trên trang danh sách** | Khi số lượng đề thi của bạn nhiều, cần phân trang danh sách đề thi thành nhiều trang. Tại đây bạn có thể thiết lập số lượng đề thi sẽ hiển thị trên một trang |
 | **Vị trí ảnh mặc định** | Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn: Không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu![](./images/test/cau-hinh-18.png) |
 |**Hiển thị lời giải khi làm bài** |  Khi tích chọn lời giải sẽ hiện thị trong quá trình làm bài |
