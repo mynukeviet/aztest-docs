@@ -16,4 +16,6 @@ Bạn cần xóa các dữ liệu này trước khi bắt đầu xây dựng n�
 
 ![](./images/test/xoa-du-lieu-mau-1.png)
 
-*Sau khi thực hiện bước **Xóa dữ liệu mẫu**, bạn thực hiện tiếp bước [**Tạo chủ đề**](/chu-de/ "Tạo chủ đề").* 
+### Tiếp theo
+
+- [Tạo chủ đề](/chu-de/)
