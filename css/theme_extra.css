@@ -1,141 +1,247 @@
 .fa-home:before, .icon-home:before {
-    content: none;
+	content: none;
 }
 
 .wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
-    margin-bottom: 0
+	margin-bottom: 0
 }
 
 .wy-side-nav-search img {
-    width: inherit;
-    height: inherit;
-    border-radius: 0;
-    width: 200px
+	width: inherit;
+	height: inherit;
+	border-radius: 0;
+	width: 200px
 }
 
 .rst-content img {
-    display: block;
-    margin: auto
+	display: block;
+	margin: auto
 }
 
-.wy-plain-list-disc, .rst-content .section ul, .rst-content .toctree-wrapper ul, article ul {
-    padding-left: 40px;
-    line-height: 27px
+.wy-plain-list-disc, .rst-content .section ul, .rst-content .toctree-wrapper ul,
+	article ul {
+	padding-left: 40px;
+	line-height: 27px
 }
 
 .rst-content blockquote {
-    margin-left: 0;
-    border-left: solid 6px #c5bfbf;
-    padding: 10px;
-    background-color: #f3f0f0;
+	margin-left: 0;
+	border-left: solid 6px #c5bfbf;
+	padding: 10px;
+	background-color: #f3f0f0;
 }
 
 .rst-content blockquote p {
-    margin-bottom: 0
+	margin-bottom: 0
 }
 
 .rst-content blockquote ul, .rst-content table ul {
-    padding-left: 0 !important
+	padding-left: 0 !important
 }
 
 .rst-content table ul {
-    margin: 0 !important
+	margin: 0 !important
 }
 
 footer {
-    text-align: center
+	text-align: center
 }
 
 ul.subnav ul {
-    margin-left: 22px
+	margin-left: 22px
 }
 
 .wy-nav-side {
-    height: calc(100% - 45px);
-    overflow-y: auto;
-    min-height: 0;
+	height: calc(100% - 45px);
+	overflow-y: auto;
+	min-height: 0;
 }
 
 li a.toctree-l3 {
-    display: none
+	display: none
 }
 
 li.toctree-l2 .active {
-    font-weight: bold
+	font-weight: bold
 }
 
 .rst-content h2 {
-    border-bottom: 3px solid green;
-    padding-bottom: 5px;
+	border-bottom: 3px solid green;
+	padding-bottom: 5px;
 }
 
 h3 {
-    font-size: 120%;
+	font-size: 120%;
 }
 
 p.caption {
-    background-color: #2980B9;
-    color: #fff;
-    line-height: 18px;
-    padding: 0.4045em 0.618em;
-    margin-bottom: 0;
-    font-weight: bold;
-    text-transform: uppercase;
+	background-color: #2980B9;
+	color: #fff;
+	line-height: 18px;
+	padding: 0.4045em 0.618em;
+	margin-bottom: 0;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 li.toctree-l1 .caption-text {
-    display: inline-block;
-    line-height: 18px;
-    padding: 0.4045em 1.618em;
-    display: block;
-    position: relative;
-    font-size: 90%;
+	display: inline-block;
+	line-height: 18px;
+	padding: 0.4045em 1.618em;
+	display: block;
+	position: relative;
+	font-size: 90%;
 }
 
 .wy-menu-vertical li {
-    background: #e3e3e3;
+	background: #e3e3e3;
 }
 
 .wy-menu-vertical a:hover {
-    background: #e3e3e3;
+	background: #e3e3e3;
 }
 
 .wy-menu-vertical a {
-    color: inherit;
+	color: inherit;
 }
 
 .wy-side-nav-search {
-    margin-bottom: 2px
+	margin-bottom: 2px
 }
 
 .rst-content table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 20px
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px
 }
 
 .rst-content table td, .rst-content table th {
-    border: 1px solid #ddd;
-    padding: 8px;
+	border: 1px solid #ddd;
+	padding: 8px;
 }
 
 .rst-content table tr:nth-child(even) {
-    background-color: #f2f2f2;
+	background-color: #f2f2f2;
 }
 
 .rst-content table tr:hover {
-    background-color: #ddd;
+	background-color: #ddd;
 }
 
 .rst-content table th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #2980B9;
-    color: white;
-    text-align: center;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #2980B9;
+	color: white;
+	text-align: center;
 }
 
 code, .rst-content tt {
-    white-space: inherit;
+	white-space: inherit;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 15px;
+	border-bottom: 3px solid green;
+	padding-bottom: 5px
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed
+	{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.text-nowrap {
+	white-space: nowrap;
+}
+
+.text-lowercase {
+	text-transform: lowercase;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
+
+.text-capitalize {
+	text-transform: capitalize;
+}
+
+.text-italic {
+	font-style: italic;
+}
+
+.text-muted {
+	color: #999999;
+}
+
+.text-primary {
+	color: #428bca;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+	color: #3071a9;
+}
+
+.text-success {
+	color: #3c763d;
+}
+
+a.text-success:hover, a.text-success:focus {
+	color: #2b542c;
+}
+
+.text-info {
+	color: #31708f;
+}
+
+a.text-info:hover, a.text-info:focus {
+	color: #245269;
+}
+
+.text-warning {
+	color: #8a6d3b;
+}
+
+a.text-warning:hover, a.text-warning:focus {
+	color: #66512c;
+}
+
+.text-danger {
+	color: #a94442;
+}
+
+a.text-danger:hover, a.text-danger:focus {
+	color: #843534;
 }

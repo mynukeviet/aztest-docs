@@ -8,7 +8,7 @@
   
   <meta name="author" content="AZtest">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Thông tin hỗ trợ - AZtest Docs</title>
+  <title>Hỗ trợ - AZtest Docs</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,13 +17,21 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Th\u00f4ng tin h\u1ed7 tr\u1ee3";
+    var mkdocs_page_name = "H\u1ed7 tr\u1ee3";
     var mkdocs_page_input_path = "help.md";
     var mkdocs_page_url = "/help/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
   <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="../js/jquery.slimscroll.min.js" defer></script>
+  <script>
+	  $(function(){
+	  	$('.wy-nav-side').slimScroll({
+	  		height: '250px'
+	  	});
+	  });
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
@@ -79,34 +87,12 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Hướng dẫn</span></p>
-                <ul class="current">
+                <ul>
                     <li class="toctree-l1">
     <a class="" href="../huong-dan-mo-rong/">Hướng dẫn mở rộng</a>
                     </li>
                     <li class="toctree-l1">
     <a class="" href="../system/">Quản trị hệ thống</a>
-                    </li>
-                    <li class="toctree-l1 current">
-    <a class="current" href="./">Thông tin hỗ trợ</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l2"><a href="#cac-kenh-ho-tro">Các kênh hỗ trợ</a></li>
-    
-
-    <li class="toctree-l2"><a href="#cac-cau-hoi-thuong-gap">Các câu hỏi thường gặp</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l3" href="#toi-co-the-yeu-cau-them-cac-tinh-nang-o-website-cua-toi-khong">Tôi có thể yêu cầu thêm các tính năng ở website của tôi không?</a></li>
-        
-            <li><a class="toctree-l3" href="#toi-co-the-dung-ten-mien-rieng-cho-website-cua-toi-khong">Tôi có thể dụng tên miền riêng cho website của tôi không?</a></li>
-        
-            <li><a class="toctree-l3" href="#toi-thay-website-kha-hay-rat-hieu-qua-cho-van-e-giao-duc-hien-nay-va-toi-muon-dung-o-cac-ky-thi-tap-trung-khong">Tôi thấy website khá hay, rất hiệu quả cho vấn đề giáo dục hiện nay và tôi muốn dùng ở các kỳ thi tập trung không?</a></li>
-        
-        </ul>
-    
-
-    </ul>
                     </li>
                 </ul>
       </div>
@@ -129,12 +115,8 @@
     <li><a href="..">Docs</a> &raquo;</li>
     
       
-        
-          <li>Hướng dẫn &raquo;</li>
-        
-      
     
-    <li>Thông tin hỗ trợ</li>
+    <li>Hỗ trợ</li>
     <li class="wy-breadcrumbs-aside">
       
         <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/help.md"
@@ -198,8 +180,6 @@ Trường hợp bạn chưa có tên miền, muốn mua tên miền mới, chún
   <div class="rst-versions" role="note" aria-label="versions">
     <span class="rst-current-version" data-toggle="rst-current-version">
       
-      
-        <span><a href="../system/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
       
       
     </span>

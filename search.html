@@ -17,6 +17,14 @@
   
   <script src="./js/jquery-2.1.1.min.js" defer></script>
   <script src="./js/modernizr-2.8.3.min.js" defer></script>
+  <script src="./js/jquery.slimscroll.min.js" defer></script>
+  <script>
+	  $(function(){
+	  	$('.wy-nav-side').slimScroll({
+	  		height: '250px'
+	  	});
+	  });
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
@@ -78,9 +86,6 @@
                     </li>
                     <li class="toctree-l1">
     <a class="" href="./system/">Quản trị hệ thống</a>
-                    </li>
-                    <li class="toctree-l1">
-    <a class="" href="./help/">Thông tin hỗ trợ</a>
                     </li>
                 </ul>
       </div>

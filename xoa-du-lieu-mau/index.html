@@ -24,6 +24,14 @@
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
   <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="../js/jquery.slimscroll.min.js" defer></script>
+  <script>
+	  $(function(){
+	  	$('.wy-nav-side').slimScroll({
+	  		height: '250px'
+	  	});
+	  });
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
@@ -63,6 +71,9 @@
     <a class="current" href="./">Xóa dữ liệu mẫu</a>
     <ul class="subnav">
             
+    <li class="toctree-l2"><a href="#tiep-theo">Tiếp theo</a></li>
+    
+
     </ul>
                     </li>
                     <li class="toctree-l1">
@@ -88,9 +99,6 @@
                     </li>
                     <li class="toctree-l1">
     <a class="" href="../system/">Quản trị hệ thống</a>
-                    </li>
-                    <li class="toctree-l1">
-    <a class="" href="../help/">Thông tin hỗ trợ</a>
                     </li>
                 </ul>
       </div>
@@ -134,6 +142,11 @@
               
                 <p><strong>DỮ LIỆU MẪU là dữ liệu được AZtest nhập sẵn sau khi khởi tạo website, nhằm mục đích giúp người quản trị có cái nhìn tổng quan về website của mình.</strong></p>
 <p>Bạn cần xóa các dữ liệu này trước khi bắt đầu xây dựng nội dung. Đây chính là bước khởi đầu để bạn có thể tạo một đề thi trắc nghiệm hoàn chỉnh.</p>
+<div class="video-container">
+    <iframe width="875" height="398" src="https://www.youtube.com/embed/XFm_WC77pLw"    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<p><div class="text-center text-italic">Video hướng dẫn Xóa dữ liệu mẫu trong AZtest</div></p>
 <blockquote>
 <p>Hành động này sẽ xóa hết tất cả dữ liệu của module Trắc nghiệm, bạn không thể khôi phục lại dữ liệu sau khi đã xóa</p>
 </blockquote>
@@ -143,7 +156,10 @@
 <p><strong>BƯỚC 2</strong>:  Truy cập <strong>Trắc nghiệm</strong> (1) </p>
 <p><strong>BƯỚC 3</strong>: Từ giao diện danh sách đề thi, Click <strong>Xóa dữ liệu mẫu</strong> (2). Hệ thống sẽ hiển thị hộp thoại xác nhận lại một lần nữa. Nhấn <strong>OK</strong> để đồng ý xóa.</p>
 <p><img alt="" src="../images/test/xoa-du-lieu-mau-1.png" /></p>
-<p><em>Sau khi thực hiện bước <strong>Xóa dữ liệu mẫu</strong>, bạn thực hiện tiếp bước <a href="/chu-de/" title="Tạo chủ đề"><strong>Tạo chủ đề</strong></a>.</em> </p>
+<h3 id="tiep-theo">Tiếp theo</h3>
+<ul>
+<li><a href="/chu-de/">Tạo chủ đề</a></li>
+</ul>
               
             </div>
           </div>
