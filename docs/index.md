@@ -32,7 +32,7 @@ Chúng tôi sẽ tiến hành khởi tạo và gửi thông tin đến bạn qua
 Xem bảng giá của chúng tôi công bố tại [Bảng so sánh tính năng](https://aztest.vn/bang-so-sanh-tinh-nang.html)
 
 ## Đơn vị phát triển AZtest
-AZtest, hệ thống tổ chức thi trắc nghiệm trực tuyến do CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC phát triển hướng đến đối tượng là giáo viên - học sinh. Giáo viên có thể tạo đề thi trắc nghiệm trực tuyến một cách nhanh chóng và khoa học, học sinh có thể làm bài thi trắc nghiệm trên máy, được chấm điểm sau khi hoàn thành bài thi.
+AZtest, hệ thống tổ chức thi trắc nghiệm trực tuyến do [**CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC**](https://tdfoss.vn) phát triển hướng đến đối tượng là giáo viên - học sinh. Giáo viên có thể tạo đề thi trắc nghiệm trực tuyến một cách nhanh chóng và khoa học, học sinh có thể làm bài thi trắc nghiệm trên máy, được chấm điểm sau khi hoàn thành bài thi.
 
 **CÔNG TY TNHH PHÁT TRIỂN VÀ DỊCH VỤ NGUỒN MỞ THUẬN ĐỨC**
 

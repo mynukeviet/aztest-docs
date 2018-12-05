@@ -70,3 +70,12 @@ Bạn điền mật khẩu mới vào ô **Mật khẩu** (1) và **Lặp lại 
 ## Chuyển đổi gói dịch vụ
 
 Khi muốn chuyển đổi gói dịch vụ, vui lòng liên hệ với AZtest tại [đây](https://aztest.vn/contact/) để được hỗ trợ. Sau khi nhận yêu cầu, bộ phận chăm sóc khách hàng của AZtest sẽ liên hệ để thực hiện một số thủ tục, website của bạn sẽ được tự động chuyển đổi gói dịch vụ sau khi giao dịch thành công.
+
+## Các kênh hỗ trợ
+
+Nếu bạn đang gặp khó khăn trong việc khởi tạo dịch vụ, cũng như sử dụng hệ thống. Hãy yên tâm bởi vì đã có đội ngũ chuyên viên kỹ thuật của AZtest luôn túc trực để sẵn sáng giúp đỡ khi bạn gặp khó khăn. Hãy liên hệ với chúng tôi qua một trong những kênh thông tin dưới đây:
+
+- Điện thoại: 02336 270 610
+- Hotline: 0905 908 430 (hỗ trợ 24/7)
+- [Cộng đồng AZtest trên Facebook](https://www.facebook.com/groups/aztest.vn/)
+- [Diễn đàn AZtest](https://aztest.vn/forum/)

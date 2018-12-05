@@ -2,10 +2,11 @@
 
 Bạn cần xóa các dữ liệu này trước khi bắt đầu xây dựng nội dung. Đây chính là bước khởi đầu để bạn có thể tạo một đề thi trắc nghiệm hoàn chỉnh.
 
-<iframe width="875" height="398" src="https://www.youtube.com/embed/XFm_WC77pLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/XFm_WC77pLw" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn Xóa dữ liệu mẫu trong AZtest</div>
 
-*<p style="text-align: center">Video hướng dẫn Xóa dữ liệu mẫu trong AZtest</p>* 
- 
 > Hành động này sẽ xóa hết tất cả dữ liệu của module Trắc nghiệm, bạn không thể khôi phục lại dữ liệu sau khi đã xóa
 
 ![](./images/test/1.jpg)
