@@ -8,6 +8,7 @@ theme:
     custom_dir: themes/aztest/
 repo_name: Github
 repo_url: https://github.com/mynukeviet/aztest-docs
+google_analytics: ['UA-130583769-1', 'docs.aztest.vn']
 pages:
 - Bắt đầu:
     - Giới thiệu: index.md
