@@ -90,6 +90,20 @@ Quá trình này lặp đi lặp lại cho các câu hỏi và kết thúc sau k
 > **Lưu ý:** Đề thi được xem là hợp lệ (có thể làm bài) khi số lượng câu hỏi nhập vào bằng với số lượng câu hỏi của đề thi.
 ####Lời giải
 
+**Lời giải là phần thông tin về cách giải đề hoặc các thông tin liên quan đến đáp án để học sinh tham khảo. Nhờ phần lời giải học sinh có thể bổ sung thêm những phần kiến thức chưa biết.**
+
+Trong quá trình soạn đề thi, giáo viên có thể lựa chọn cho phép hiển thị lời giải hoặc không. 
+
+![](./images/test/loi-giai-6.png) 
+
+Tại mục **Hiển thị lời giải**, giáo viên có thể lựa chọn: 
+
+| Trường thông tin | Mô tả |
+| ---------------- | ----- |
+| **Không hiển thị** | Lời giải sẽ không hiển thị |
+| **Hiển thị tất cả** | Lời giải sẽ hiển thị ở cả trong quá trình làm bài và sau khi làm bài |
+| **Sau khi làm bài** | Lời giải sẽ hiển thị sau khi hết thời gian làm bài (có thể áp dụng cho dạng đề thi **Chấm điểm**) |
+
 Phần cuối cùng trong bước **Thiết lập Đề thi** là phần để bạn có thể điền thông tin **Lời giải**:
 
 ![](./images/test/loi-giai.jpg)
