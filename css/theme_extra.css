@@ -155,6 +155,7 @@ code, .rst-content tt {
 	padding-top: 30px;
 	height: 0;
 	overflow: hidden;
+	margin-bottom: 15px
 }
 
 .video-container iframe, .video-container object, .video-container embed
