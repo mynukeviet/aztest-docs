@@ -11,6 +11,13 @@ title: Biên soạn tài liệu
 <div class="text-center text-italic">Video hướng dẫn Xóa dữ liệu mẫu trong AZtest</div>
 ```
 
+## Liên kết trang tiếp theo
+
+```
+<p class="title">Tiếp theo</p>
+- [**Đăng nhập, đăng xuất khu vực quản trị**](/bat-dau/dang-nhap-dang-xuat-quan-tri/)
+```
+
 ## Định dạng văn bản
 
 Chữ <span class="text-danger">màu đỏ</span>

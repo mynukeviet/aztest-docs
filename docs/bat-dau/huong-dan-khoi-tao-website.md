@@ -6,7 +6,9 @@ title: Hướng dẫn khởi tạo website
 
 ![](/images/start/khoi-tao-website-thi-trac-nghiem.png)
 
-Trên giao diện khai báo thông tin đăng ký, bạn cần điền chính xác các trường thông tin bắt buộc (có gắn dầu sao)
+Trên giao diện khai báo thông tin đăng ký, bạn cần điền chính xác các trường thông tin bắt buộc (có gắn dầu sao).
+
+![](/images/start/khoi-tao-website-thi-trac-nghiem-1.png)
 
 | Trường thông tin &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Bắt buộc nhập &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Mô tả |
 |------------------|---------------|-------|
