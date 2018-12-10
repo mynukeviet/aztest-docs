@@ -24,4 +24,4 @@ Click nút **Đăng ký**. Website của bạn sẽ được khởi tạo sau v�
 Sau khi nhận được thông báo thành công, hãy kiểm tra email và tham khảo thêm các thông tin hướng dẫn kèm theo.
 
 <p class="title">Tiếp theo</p>
-- [Đăng nhập, đăng xuất khu vực quản trị](/bat-dau/dang-nhap-dang-xuat-quan-tri/)
+- [**Đăng nhập, đăng xuất khu vực quản trị**](/bat-dau/dang-nhap-dang-xuat-quan-tri/)
