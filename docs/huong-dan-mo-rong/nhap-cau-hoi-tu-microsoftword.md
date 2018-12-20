@@ -38,7 +38,7 @@ Lưu nội dung mới này là để thực hiện bước tiếp theo.
 
 -	Không cần đánh thứ tự đán án. Ví dụ: A, B, C, D,..... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)
 
--	Đánh dấu đáp án đúng bằng ký tự sao (*), đằng trước đáp án đúng
+-	Đánh dấu đáp án đúng bằng ký tự sao (=), đằng trước đáp án đúng
 
 -	Mỗi bộ câu hỏi (gồm câu hỏi và đáp án) cách nhau bởi một dòng trắng (Enter)
 
