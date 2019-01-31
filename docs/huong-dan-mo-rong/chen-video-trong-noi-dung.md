@@ -6,6 +6,11 @@ title: Chèn video trong nội dung
 
 AZtest khuyến khích việc sử dụng youtube làm nơi lưu trữ, chia sẽ video, tiết kiệm dung lượng cho hệ thống.
 
+<div class="video-container">https://youtu.be/udnAY5_mxFI
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/udnAY5_mxFI" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn chèn video trong nội dung</div>
+
 Khi đã có video từ Youtube, bạn cần thực hiện các bước sau:
 
 **Bước 1:** Sao chép đường dẫn video. Ví dụ: `https://www.youtube.com/watch?v=bqL76wUDkCI&t=72s`

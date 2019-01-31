@@ -2,6 +2,11 @@ Hiển thị bảng thống kê thành viên điểm cao
 
 Thực hiện kích hoạt tính năng thống kê này theo các bước bên dưới:
 
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/dOYAINNSpsE" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn hiển thị bảng thống kê thành viên điểm cao</div>
+
 **BƯỚC 1**: Đăng nhập quản trị
 
 Tiến hành truy cập khu vực quản trị theo thông tin đã có, tại đường dẫn domain/admin/index.php (với domain là tên miền của bạn)

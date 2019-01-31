@@ -4,6 +4,11 @@ title: Phân quyền quản lý
 
 Với AZtest, bạn có thể phân quyền cho nhiều người cùng quản lý nội dung module thi Trắc nghiệm. Mỗi người dùng có thể phân quyền chi tiết đến từng [chủ đề](/chu-de/).
 
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/KAkv3J-96bM" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn phân quyền quản lý</div>
+
 Truy cập **Trắc nghiệm (1) / Phân quyền quản lý (2)**
 
 ![](./images/test/phan-quyen-quan-ly.png)

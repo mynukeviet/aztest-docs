@@ -1,3 +1,10 @@
+Để xem lại lịch sử thi của thí sinh, bạn thực hiện các bước sau: 
+
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/CRPagW3yKOo" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn xem lại lịch sử thi</div>
+
 Nhấn chọn module **Trắc nghiệm**, chọn menu **Đề thi**, lúc này trên trang là danh sách các đề thi.
 
 ![](../images/test/lich-su-thi-3.png) 
