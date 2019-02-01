@@ -2,6 +2,11 @@
 title: Hướng dẫn khởi tạo website
 ---
 
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/xw1CP1nLDLo" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn khởi tạo website</div>
+
 Để có thể khởi tạo website thi trắc nghiệm tại [AZtest](https://aztest.vn), bạn có thể click vào liên kết Khởi tạo website (Menu ngang) tại địa chỉ [https://aztest.vn](https://aztest.vn)
 
 ![](/images/start/khoi-tao-website-thi-trac-nghiem.png)
