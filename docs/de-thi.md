@@ -2,6 +2,11 @@
 
 **Việc Thiết lập đề thi là một khâu quan trọng cho phép chúng ta có thể Tạo đề thi mới, Quản lý câu hỏi, Đáp án và Lời giải.**
 
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/zkL39njETgA" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn thiết lập đề thi</div>
+
 ### TẠO ĐỀ THI MỚI
 
 Bạn cần [đăng nhập vào khu vực quản trị](http://localhost:8000/start/#ang-nhap-khu-vuc-quan-tri) trước khi sử dụng tính năng này. Thông tin tài khoản đã được gửi qua email khi bạn đăng ký dịch vụ.

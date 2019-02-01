@@ -2,7 +2,13 @@
 title: Chèn hình ảnh trong nội dung
 ---
 
+
 Với những đề thi có các câu hỏi chứa nội dung liên quan đến hình ảnh, bạn phải thực hiện các thao tác sau đây:
+
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/DMzcCZzack8" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn chèn hình ảnh trong nội dung</div>
  
 **Bước 1:**  Click icon **Hình ảnh** trên công cụ soạn thảo
 
@@ -30,5 +36,7 @@ Sau khi upload  ảnh lên thành công thì cần click đúp chuột vào hìn
 
 Xem thêm  [**Quản lý file**](/quan-ly-file/)
 
+![](../videos/test/video.mp4) 
 
+Truy cập tên miền chính [www.youtu.be/XFm_WC77pLw](https://youtu.be/XFm_WC77pLw) và đăng nhập tài khoản đã được cấp
 

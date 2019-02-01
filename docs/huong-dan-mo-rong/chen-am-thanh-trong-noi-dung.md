@@ -3,6 +3,10 @@ title: Chèn âm thanh trong nội dung
 ---
 
 Với những đề thi có câu hỏi chứa nội dung liên quan đến âm thanh, bạn phải thực hiện các thao tác sau đây: 
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/_5TVvPiFxZk" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn chèn âm thanh trong nội dung</div>
 
 **Bước 1:** Click icon **Âm thanh** trên công cụ soạn thảo
 
@@ -29,3 +33,5 @@ Xem thêm  [Quản lý file](/system/#quan-ly-file)
 Sau khi upload  âm thanh lên thành công cần click đúp chuột vào âm thanh để đưa âm thanh và nội dung soạn thảo. 
 
 ![](../images/test/chen-am-thanh-trong-noi-dung.png) 
+
+

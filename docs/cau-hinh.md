@@ -1,3 +1,10 @@
+Để thiết lập **Cấu hình** của đề thi bạn thực hiện các thao tác sau:
+
+<div class="video-container">
+	<iframe width="875" height="398" src="https://www.youtube.com/embed/9m8ngqvwDlo" 	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+<div class="text-center text-italic">Video hướng dẫn thiết lập cấu hình</div>
+
 Truy cập **Trắc nghiệm/ Cấu hình** (Menu dọc)
 
 ![](./images/test/cau-hinh-21.png)
