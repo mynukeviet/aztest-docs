@@ -1,5 +1,5 @@
 ---
-Chèn công thức trong nội dung
+title: Chèn công thức trong nội dung
 ---
 
 Với các phân môn tự nhiên, nếu trong nội dung câu hỏi có chứa các công thức toán học bạn thực hiện các thao tác sau đây:
