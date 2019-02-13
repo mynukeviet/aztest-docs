@@ -63,6 +63,7 @@ Giải thích các trường thông tin:
 | **Số đề thi liên quan** | Số lượng liên kết đề thi cùng chuyên mục, đề thi cũ hơn khi xem một đề thi ![](./images/test/cau-hinh-22.png) |
 | **Số đề thi trên trang danh sách** | Khi số lượng đề thi của bạn nhiều, cần phân trang danh sách đề thi thành nhiều trang. Tại đây bạn có thể thiết lập số lượng đề thi sẽ hiển thị trên một trang |
 | **Vị trí ảnh mặc định** | Click vào mũi tên bên phải để lựa chọn vị trí của ảnh mặc định. Bạn có thể lựa chọn: Không hiển thị; Hiển thị bên trái phần mở đầu hoặc hiển thị bên dưới phần mở đầu![](./images/test/cau-hinh-18.png) |
+| **Xem trước câu hỏi** | Tích chọn hiển thị hoặc không hiển thị câu hỏi trước khi bắt đầu làm bài![](./images/test/tinh-nang-moi-7.png) |
  
 Sau khi đã chọn đầy đủ các mục click **Cập nhật** để hoàn thành. 
 

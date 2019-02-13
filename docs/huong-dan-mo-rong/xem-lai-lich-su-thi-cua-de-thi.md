@@ -34,3 +34,23 @@ Có các hình thức để tìm kiếm lịch sử thi như:
 - Hiển thị số lượng kết quả tìm kiếm (11). 
 
 Sau khi đã nhập đầy đủ các thông tin click **Tìm kiếm** (12) để tìm kiếm lịch sử thi. 
+
+Người dùng có thể in toàn bộ danh sách những thí sinh đã tham gia thi cũng như thông tin liên quan ở bất kỳ đề thi nào.
+
+Thao tác in lịch sử thi hết sức đơn giản: Trong Lịch sử thi của đề thi bạn chọn nút In.
+
+![](../images/test/tinh-nang-moi-2.png)
+
+Lúc này sẽ hiển thị ra cửa sổ với đầy đủ các thông tin về lịch sử thi, bạn có thể điều chỉnh hình thức in ở cột bên phải. Sau đó chọn In.
+
+![](../images/test/tinh-nang-moi-3.png)
+
+Ngoài ra người dùng có thể in chi tiết kết quả thi của một thí sinh, từ đó có thể đối chiếu giữa kết quả của bài thi với kết quả mà thí sinh đã làm.
+
+Để in kết quả bài thi, chỉ cần click vào tên thí sinh, sau đó sẽ hiển thị ra danh sách bao gồm thông tin đề thi, thông tin người trả lời và kết quả đề thi.
+
+![](../images/test/tinh-nang-moi-4.png)
+
+Bạn chỉ cần click nút In ở góc phải màn hình.
+
+![](../images/test/tinh-nang-moi-5.png)

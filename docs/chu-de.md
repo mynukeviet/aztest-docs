@@ -72,3 +72,8 @@ Giải thích các Trường thông tin:
 |**Thống kê điểm cao** | Quy định giao diện hiển thị đề thi khi xem chủ đề | 
 
 *Sau khi thực hiện xong bước **Tạo chủ đề**, bạn thực hiện tiếp bước  [**Xếp loại**](/xep-loai/)*
+
+**Lưu ý: Với những trang web mới khởi tạo nếu người dùng chưa tạo chủ đề, khi tạo đề thi hệ thống sẽ thông báo và chuyển sang trang quản lý chủ đề.
+Lúc này người dùng phải tạo một chủ đề thì mới có thể tạo được đề thi. Người dùng có thể tạo được nhiều đề thi khác nhau trong cùng một chủ đề. Điều này giúp phân loại được dễ dàng giữa các nhóm chủ đề như bộ môn, kỳ thi, lớp học…
+
+![](./images/test/tinh-nang-moi-9.png)
