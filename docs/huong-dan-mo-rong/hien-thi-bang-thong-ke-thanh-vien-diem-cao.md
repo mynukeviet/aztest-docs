@@ -49,7 +49,7 @@ Sau khi hoàn thành các bước trên nhấn **Chấp nhận** (12) để hoà
 
 **BƯỚC 3**: Hiển thị block
 
-Sau khi thêm, bạn trở lại giao diện chính ở khu vực site, sẽ thấy sự xuất hiện của block thành viên điểm cao
+Sau khi thêm, bạn trở lại giao diện chính ở khu vực site, sẽ thấy sự xuất hiện của block thành viên điểm cao. Trong danh sách hiển thị, Top 3 thành viên (số lượng này có thể thay đổi) có kết quả cao nhất sẽ được bôi đậm và có có các biểu tượng huy chương vàng, bạc, đồng tương ứng với các thành viên có điểm thi xếp nhất, nhì, ba.
 
-![](../images/test/danh-sach-diem-cao-4.png) 
+![](../images/test/tinh-nang-moi-6.png) 
 

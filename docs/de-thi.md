@@ -74,6 +74,7 @@ Giải thích các trường thông tin:
 |**Danh sách câu hỏi (3)** | Danh sách các câu hỏi của đề thi |
 |**Câu hỏi màu xanh (4)** | Câu hỏi đã nhập nội dung sẽ có màu xanh (4) |
 |**Câu hỏi màu đỏ (5)** | Câu chưa nhập nội dung có màu đỏ. Các câu hỏi này có thể xóa (5) |
+|**Tính năng làm rỗng hoặc xóa** | Với những nội dung câu hỏi bị trùng lặp hoặc không cần thiết nữa thì bạn có thể sử dụng tính năng cho phép làm rỗng nội dung câu hỏi hoặc xóa câu hỏi khỏi danh sách để thay thế những nội dung câu hỏi mới ![](./images/test/tinh-nang-moi-8).|
 
 ####Đáp án
 Sau khi **Thêm Câu hỏi** chúng ta tiếp tục thêm **Đáp án** cho câu hỏi đã tạo:
@@ -115,7 +116,6 @@ Phần cuối cùng trong bước **Thiết lập Đề thi** là phần để b
 
 - **Đối với các phân môn Tự nhiên**: Sử dụng để ghi lời giải (nếu có) của câu hỏi. Người giải đề sẽ tham khảo sau khi trả lời câu hỏi để đối chiếu với bài làm.
 - **Đối với các phân môn Xã hội**: Sử dụng để cung cấp thêm thông tin (nếu có) liên quan đến đáp án đúng.
-
 
 ## Quản lý đề thi
 
