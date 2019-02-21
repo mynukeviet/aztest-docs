@@ -1,4 +1,6 @@
-Hiển thị bảng thống kê thành viên điểm cao
+---
+title: Hiển thị bảng thống kê thành viên điểm cao
+---
 
 Thực hiện kích hoạt tính năng thống kê này theo các bước bên dưới:
 

@@ -70,8 +70,7 @@ Trên giao diện này, bạn có thể sửa, xóa các nhóm thành viên
 ### Các nhóm thành viên mặc định
 | Nhóm thành viên | Mô tả |
 |-----------------|-------|
-| Quản trị tối cao | Tài khoản có quyền hạn cao nhất trong hệ thống. Là tài khoản quản lý, hỗ trợ của AZtest trên website của bạn |
-| Điều hành chung (là bạn) | Là tài khoản có quyền hạn thứ 2 (sau quản trị tối cao). Được phép sử dụng một số tính năng của hệ thống và quản lý tất cả các module |
+| Điều hành chung | Là tài khoản quản trị cao nhất. Chính là tài khoản bạn khai báo khi đăng ký website |
 | Quản lý module | Là tài khoản có quyền hạn xếp thứ 3 (sau Điều hành chung). Được phép quản lý các module được **Quản trị tối cao** hoặc **Điều hành chung** chỉ định |
 | Thành viên mới, thành viên chính thức | Là tài khoản đăng ký làm thành viên website |
 | Khách | Là đối tượng sử dụng website khi không đăng nhập |

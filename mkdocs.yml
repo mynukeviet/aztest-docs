@@ -12,7 +12,11 @@ google_analytics: ['UA-130583769-1', 'docs.aztest.vn']
 pages:
 - Bắt đầu:
     - Giới thiệu: index.md
-    - Cho người mới: cho-nguoi-moi.md
+    - Khởi tạo website: bat-dau/huong-dan-khoi-tao-website.md
+    - Đăng nhập, đăng xuất quản trị: bat-dau/dang-nhap-dang-xuat-quan-tri.md
+    - Đổi mật khẩu quản trị: bat-dau/thay-doi-mat-khau-quan-tri.md
+    - Nâng cấp gói dịch vụ: bat-dau/nang-cap-goi-dich-vu.md
+    - Thông tin hỗ trợ: bat-dau/thong-tin-ho-tro.md
 - Tạo đề thi trắc nghiệm:
     - Xóa dữ liệu mẫu: 'xoa-du-lieu-mau.md'
     - Chủ đề: 'chu-de.md'
