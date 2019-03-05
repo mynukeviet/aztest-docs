@@ -6,6 +6,7 @@ title: Nhập câu hỏi từ Microsoft Word
 
 Đối với mỗi câu hỏi bạn thực hiện lần lượt các thao tác sau:
 
+- Định dạng file cho phép: **.docx**
 - Tập tin MS Word chỉ chứa nội dung câu hỏi, câu trả lời. Các nội dung không liên quan ở trên và dưới phần nội dung câu hỏi, câu trả lời cần được xóa bỏ
 - Mỗi câu hỏi, đáp án nằm trên một hàng riêng biệt
 - Không cần đánh thứ tự số câu. Ví dụ: Câu 1, Câu 2,...... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)
