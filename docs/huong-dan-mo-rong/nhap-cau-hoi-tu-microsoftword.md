@@ -2,7 +2,7 @@
 title: Nhập câu hỏi từ Microsoft Word
 ---
 
-##1. Kiểm tra và thay đổi nội dung đề thi
+## 1. Kiểm tra và thay đổi nội dung đề thi
 
 Đối với mỗi câu hỏi bạn thực hiện lần lượt các thao tác sau:
 
@@ -37,18 +37,18 @@ X là sản phẩm sinh ra khi cho fructozơ tác dụng với H2. Đốt cháy 
 5,60
 ```
 
-##2. Đối với đề thi có chứa công thức toán học
+## 2. Đối với đề thi có chứa công thức toán học
 
 >Phần này chỉ dành cho nội dung có chứa công thức toán học. Nếu nội dung của bạn không có công thức, hãy chuyển sang **phần 3** bên dưới
 
 Để tải đề thi có chứa công thức toán học lên hệ thống, bạn cần phải qua một số thao tác kỹ thuật nhằm chuyển công thức toán sang dạng ký hiệu. Hướng dẫn dưới đây sẽ giúp bạn làm điều này. Nếu đề thi của bạn không chứa công thức toán học, đơn giản hãy bỏ qua phần này và chuyển sang phần 2 bên dưới.
 
-####**Cài đặt phần mềm MathType**
+#### Cài đặt phần mềm MathType
 Đây là phần mềm thương mại giúp bạn có thể soạn thảo công thức toán học, sau khi cài đặt nó sẽ được tích hợp trong bộ Office của Microsoft. Ngoài tính năng chính là soạn thảo công thức, phần mềm này có một số công cụ giúp chúng ta chuyển đổi công thức sang nhiều định dạng khác nhau.
 
 Tải về phiên bản mới nhất và tiến hành cài đặt tại [http://www.dessci.com/en/products/mathtype/](http://www.dessci.com/en/products/mathtype/)
 
-####**Sử dụng MathType chuyển đổi công thức toán học sang mã Tex**
+#### Sử dụng MathType chuyển đổi công thức toán học sang mã Tex
 - Chọn toàn bộ văn bản (bôi đen)
 
 - Trên thanh định dạng chọn **MathType**, chọn tiếp **Toggle Tex**
@@ -59,7 +59,7 @@ Lúc này văn bản chuyển sang dạng như sau:
 
 ![](../images/test/cau-hoi-word-2.png)
 
-##3. Thực hiện import câu hỏi cho đề thi
+## 3. Thực hiện import câu hỏi cho đề thi
 
 - Sau khi hoàn tất các bước chỉnh sửa đề thi theo cấu hình từ MS Word, bây giờ tiến hành import câu hỏi vào đề thi thuộc hệ thống **AZtest**. 
 
