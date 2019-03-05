@@ -39,7 +39,7 @@ X là sản phẩm sinh ra khi cho fructozơ tác dụng với H2. Đốt cháy 
 
 ##2. Đối với đề thi có chứa công thức toán học
 
->Phần này chỉ dành cho nội dung có chứa công thức toán học. Nếu nội dung của bạn không có công thức, hãy chuyển sang bước 3 bên dưới
+>Phần này chỉ dành cho nội dung có chứa công thức toán học. Nếu nội dung của bạn không có công thức, hãy chuyển sang **phần 3** bên dưới
 
 Để tải đề thi có chứa công thức toán học lên hệ thống, bạn cần phải qua một số thao tác kỹ thuật nhằm chuyển công thức toán sang dạng ký hiệu. Hướng dẫn dưới đây sẽ giúp bạn làm điều này. Nếu đề thi của bạn không chứa công thức toán học, đơn giản hãy bỏ qua phần này và chuyển sang phần 2 bên dưới.
 
