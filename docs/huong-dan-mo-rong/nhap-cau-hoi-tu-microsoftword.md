@@ -18,24 +18,17 @@ title: Nhập câu hỏi từ Microsoft Word
 Xem ví dụ:
 
 ```
-Xà phòng hóa hoàn toàn 265,2 gam chất béo (X) bằng dung dịch KOH thu được 288 gam một muối kali duy nhất. Tên gọi của X là
->Đây là nội dung lời giải
-*tripanmitoyl glixerol (hay tripanmitin).
-trilinoleoyl glixerol (hay trilinolein).
-tristearoyl glixerol (hay tristearin).
-trioleoyl glixerol (hay triolein).
+Một người gửi tiết kiệm vào một ngân hàng với lãi suất  $7,2%$ năm. 
+Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào vốn để tính lãi cho năm tiếp theo. 
+Hỏi sau ít nhất bao nhiêu năm người đo thu được (cả số tiền gửi ban đầu và lãi) gấp đôi số tiền gửi ban đầu, 
+giả định trong khoảng thời gian này lãi suất không thay đổi và người đó không rút tiền ra??   
+>10 năm
+11 năm
+12 năm
+9 năm
+*10 năm
+13 năm
 
-Nhiều vụ ngộ độc rượu do trong rượu có chứa metanol. Công thức của metanol là
-*C2H5OH	
-H-CHO	
-CH3COOH	
-CH3OH
-
-X là sản phẩm sinh ra khi cho fructozơ tác dụng với H2. Đốt cháy hoàn toàn m gam hỗn hợp Y gồm: ancol metylic, glixerol và X thu được 5,6 lít khí CO2 (đktc). Cũng m gam Y trên cho tác dụng với Na dư thu được tối đa V lít khí H2 (đktc). Giá trị của V là
-4,48
-2,80	
-*3,36	
-5,60
 ```
 
 ## 2. Đối với đề thi có chứa công thức toán học
