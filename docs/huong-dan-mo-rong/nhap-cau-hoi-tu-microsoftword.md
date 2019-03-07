@@ -31,6 +31,8 @@ giả định trong khoảng thời gian này lãi suất không thay đổi và
 
 ```
 
+Tải file mẫu: <span style="background-image: url('../../images/msword.png'); width: 16px; height: 16px; display: inline-block">&nbsp;</span> [template_import.docx](../images/test/template_import.docx)
+
 ## 2. Đối với đề thi có chứa công thức toán học
 
 >Phần này chỉ dành cho nội dung có chứa công thức toán học. Nếu nội dung của bạn không có công thức, hãy chuyển sang **phần 3** bên dưới
