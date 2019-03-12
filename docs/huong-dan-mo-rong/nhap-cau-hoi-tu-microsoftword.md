@@ -14,6 +14,7 @@ title: Nhập câu hỏi từ Microsoft Word
 - Đánh dấu đáp án đúng bằng dấu **sao** (*), đằng trước đáp án đúng. Bạn có thể nhiều dấu sao để chỉ định nhiều đáp án đúng
 - Nội dung lời giải đặt bên dưới nội dung câu hỏi, mở đầu bằng một dấu **lớn** (>)
 - Mỗi bộ câu hỏi (gồm câu hỏi và đáp án) cách nhau bởi một dòng trắng (Một dấu enter)
+- Font chữ, kích cỡ chữ trên file sẽ được tự động loại bỏ để có định dạng giống với giao diện website. Vậy nên, khi biên soạn đề bạn không cần phải lưu tâm tới việc định dạng font chữ và cỡ chữ
 
 Xem ví dụ:
 
