@@ -67,4 +67,6 @@ Giải thích các trường thông tin:
  
 Sau khi đã chọn đầy đủ các mục click **Cập nhật** để hoàn thành. 
 
-Sau khi thực hiện xong bước **Cấu hình**, bạn thực hiện tiếp bước   [**Phân quyền quản lý**](/phan-quyen-quan-ly/)
+<p class="title">Tiếp theo</p>
+
+- [Phân quyền quản lý](/phan-quyen-quan-ly/)

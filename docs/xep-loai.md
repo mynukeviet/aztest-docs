@@ -12,4 +12,6 @@
 
 ![](./images/test/quan-ly-xep-loai.png)
 
-*Sau khi thực hiện xong bước **Xếp loại**, bạn thực hiện tiếp bước [**Đề thi**](/de-thi/) để tạo một để thi trắc nghiệm hoàn chỉnh.*
+<p class="title">Tiếp theo</p>
+
+- [Đề thi](/de-thi/)

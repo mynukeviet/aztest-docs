@@ -21,6 +21,6 @@ Bạn cần xóa các dữ liệu này trước khi bắt đầu xây dựng n�
 
 ![](./images/test/xoa-du-lieu-mau-1.png)
 
-### Tiếp theo
+<p class="title">Tiếp theo</p>
 
 - [Tạo chủ đề](/chu-de/)

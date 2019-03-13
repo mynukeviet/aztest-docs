@@ -77,3 +77,7 @@ Giải thích các Trường thông tin:
 Lúc này người dùng phải tạo một chủ đề thì mới có thể tạo được đề thi. Người dùng có thể tạo được nhiều đề thi khác nhau trong cùng một chủ đề. Điều này giúp phân loại được dễ dàng giữa các nhóm chủ đề như bộ môn, kỳ thi, lớp học…
 
 ![](./images/test/tinh-nang-moi-9.png)
+
+<p class="title">Tiếp theo</p>
+
+- [Xếp loại](/xep-loai/)
