@@ -21,17 +21,22 @@ Vì vậy khi đã thực sự tin tưởng và muốn sử dụng hệ thống 
 
 Có 2 cách để khách hàng có thể thanh toán phí gói dịch vụ:
 
-**Cách 1**: **THANH TOÁN TRỰC TIẾP TẠI VĂN PHÒNG**
+### Cách 1: THANH TOÁN TRỰC TIẾP TẠI VĂN PHÒNG
 
-**Công ty TNHH phát triển và dịch vụ nguồn mở Thuận Đức**
+```
+
+Công ty TNHH phát triển và dịch vụ nguồn mở Thuận Đức
 
 Địa chỉ: 161 Tôn Thất Thuyết, Phường 5, TP Đông Hà, Tỉnh Quảng Trị
 
 Điện thoại: 02336 270 610 - 0905 908 430
+```
 
-**Cách 2**: **CHUYỂN KHOẢN QUA NGÂN HÀNG**
+### Cách 2: CHUYỂN KHOẢN QUA NGÂN HÀNG
 
-**NGOẠI THƯƠNG VIỆT NAM**
+```
+
+NGÂN HÀNG NGOẠI THƯƠNG VIỆT NAM
 
 Chi nhánh Quảng Trị
 
@@ -39,13 +44,16 @@ Chủ tài khoản: Hồ Ngọc Triển
 
 Số tài khoản: 0771000590434
 
-**TMCP SÀI GÒN THƯƠNG TÍN**
+====================================
+
+TMCP SÀI GÒN THƯƠNG TÍN
 
 Phòng giao dịch Triệu Hải - Quảng Trị
 
 Chủ tài khoản: Hồ Ngọc Triển
 
 Số tài khoản: 040045712666
+```
 
 Sau khi thanh toán thành công hệ thống sẽ gửi mail thông báo đã nâng cấp thành công gói dịch vụ tới bạn. 
 
