@@ -1,5 +1,5 @@
 ---
-Xem lịch sử thi
+title: Xem lịch sử thi
 ---
 
 Để xem lại lịch sử thi của thí sinh, bạn thực hiện các bước sau: 

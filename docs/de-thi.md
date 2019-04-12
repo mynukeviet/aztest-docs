@@ -141,4 +141,6 @@ Giải thích các trường thông tin:
 |**Quản lý (8)** | Cho biết số câu hỏi của đề và lịch sử thi của đề tương ứng |
 |**Sửa & xóa đề thi (9)** | Liên kết sửa, xóa đề thi |
 
-*Sau khi thực hiện xong bước **Xếp loại**, bạn thực hiện tiếp bước   [**Cấu hình**](/cau-hinh/) để hiển thị Đề thi ra bên ngoài*.
+<p class="title">Tiếp theo</p>
+
+- [Cấu hình](/cau-hinh/)

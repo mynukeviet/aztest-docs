@@ -12,8 +12,9 @@ title: Nhập câu hỏi từ Microsoft Word
 - Không cần đánh thứ tự số câu. Ví dụ: Câu 1, Câu 2,...... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)
 - Không cần đánh thứ tự đán án. Ví dụ: A, B, C, D,..... Nếu có, hãy xóa nó đi (Hệ thống sẽ tự đánh khi thể hiện đề thi)
 - Đánh dấu đáp án đúng bằng dấu **sao** (*), đằng trước đáp án đúng. Bạn có thể nhiều dấu sao để chỉ định nhiều đáp án đúng
-- Nội dung lời giải đặt bên dưới nội dung câu hỏi, mở đầu bằng một dấu **lớn** (>)
+- Nội dung lời giải đặt bên dưới đáp án cuối cùng, mở đầu bằng một dấu **lớn** (>)
 - Mỗi bộ câu hỏi (gồm câu hỏi và đáp án) cách nhau bởi một dòng trắng (Một dấu enter)
+- Font chữ, kích cỡ chữ trên file sẽ được tự động loại bỏ để có định dạng giống với giao diện website. Vậy nên, khi biên soạn đề bạn không cần phải lưu tâm tới việc định dạng font chữ và cỡ chữ
 
 Xem ví dụ:
 
@@ -30,6 +31,8 @@ giả định trong khoảng thời gian này lãi suất không thay đổi và
 13 năm
 
 ```
+
+Tải file mẫu: <span style="background-image: url('../../images/msword.png'); width: 16px; height: 16px; display: inline-block">&nbsp;</span> [template_import.docx](../images/test/template_import.docx)
 
 ## 2. Đối với đề thi có chứa công thức toán học
 
