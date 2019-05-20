@@ -52,7 +52,9 @@ Nếu thêm thành công, chủ đề mới sẽ xuất hiện trong danh sách 
 ![](./images/test/chudexoa.png)
 
 - **Xóa Chủ đề** chính cũng đồng thời xóa chủ đề con của nó
-> **Lưu ý:** Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa 
+
+!!! warning "Chú ý"
+	Xóa chủ đề sẽ xóa hết các dữ liệu thuộc chủ đề đó (Đề thi, lịch sử thi,...). Bạn cần chuyển dữ liệu cần thiết sang chủ đề khác trước khi quyết định xóa 
 
 
 ## Quản lý chủ đề
@@ -73,7 +75,8 @@ Giải thích các Trường thông tin:
 
 *Sau khi thực hiện xong bước **Tạo chủ đề**, bạn thực hiện tiếp bước  [**Xếp loại**](/xep-loai/)*
 
-**Lưu ý: Với những trang web mới khởi tạo nếu người dùng chưa tạo chủ đề, khi tạo đề thi hệ thống sẽ thông báo và chuyển sang trang quản lý chủ đề.
+!!! warning "Chú ý"
+	Với những trang web mới khởi tạo nếu người dùng chưa tạo chủ đề, khi tạo đề thi hệ thống sẽ thông báo và chuyển sang trang quản lý chủ đề.
 Lúc này người dùng phải tạo một chủ đề thì mới có thể tạo được đề thi. Người dùng có thể tạo được nhiều đề thi khác nhau trong cùng một chủ đề. Điều này giúp phân loại được dễ dàng giữa các nhóm chủ đề như bộ môn, kỳ thi, lớp học…
 
 ![](./images/test/tinh-nang-moi-9.png)

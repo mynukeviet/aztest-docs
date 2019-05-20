@@ -7,7 +7,8 @@ Bạn cần xóa các dữ liệu này trước khi bắt đầu xây dựng n�
 </div> 
 <div class="text-center text-italic">Video hướng dẫn Xóa dữ liệu mẫu trong AZtest</div>
 
-> Hành động này sẽ xóa hết tất cả dữ liệu của module Trắc nghiệm, bạn không thể khôi phục lại dữ liệu sau khi đã xóa
+!!! warning "Chú ý"
+	Hành động này sẽ xóa hết tất cả dữ liệu của module Trắc nghiệm, bạn không thể khôi phục lại dữ liệu sau khi đã xóa
 
 ![](./images/test/1.jpg)
 
