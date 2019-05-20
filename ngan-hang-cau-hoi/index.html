@@ -8,7 +8,7 @@
   
   <meta name="author" content="AZtest">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Hướng dẫn mở rộng - Tài liệu AZtest</title>
+  <title>Ngân hàng câu hỏi - Tài liệu AZtest</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,9 +17,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "H\u01b0\u1edbng d\u1eabn m\u1edf r\u1ed9ng";
-    var mkdocs_page_input_path = "huong-dan-mo-rong/index.md";
-    var mkdocs_page_url = "/huong-dan-mo-rong/";
+    var mkdocs_page_name = "Ng\u00e2n h\u00e0ng c\u00e2u h\u1ecfi";
+    var mkdocs_page_input_path = "ngan-hang-cau-hoi.md";
+    var mkdocs_page_url = "/ngan-hang-cau-hoi/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
@@ -80,7 +80,7 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Tạo đề thi trắc nghiệm</span></p>
-                <ul>
+                <ul class="current">
                     <li class="toctree-l1">
     <a class="" href="../xoa-du-lieu-mau/">Xóa dữ liệu mẫu</a>
                     </li>
@@ -90,8 +90,28 @@
                     <li class="toctree-l1">
     <a class="" href="../xep-loai/">Xếp loại</a>
                     </li>
-                    <li class="toctree-l1">
-    <a class="" href="../ngan-hang-cau-hoi/">Ngân hàng câu hỏi</a>
+                    <li class="toctree-l1 current">
+    <a class="current" href="./">Ngân hàng câu hỏi</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#to-chuc-ngan-hang-cau-hoi">Tổ chức ngân hàng câu hỏi</a></li>
+    
+
+    <li class="toctree-l2"><a href="#them-cau-hoi-vao-ngan-hang">Thêm câu hỏi vào ngân hàng</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#nhap-cau-hoi">Nhập câu hỏi</a></li>
+        
+            <li><a class="toctree-l3" href="#nhap-cau-hoi-tu-ms-word">Nhập câu hỏi từ MS Word</a></li>
+        
+        </ul>
+    
+
+    <li class="toctree-l2"><a href="#tao-cau-hinh-ma-tran-e-thi">Tạo cấu hình (ma trận) đề thi</a></li>
+    
+
+    </ul>
                     </li>
                     <li class="toctree-l1">
     <a class="" href="../de-thi/">Đề thi</a>
@@ -104,12 +124,9 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Hướng dẫn</span></p>
-                <ul class="current">
-                    <li class="toctree-l1 current">
-    <a class="current" href="./">Hướng dẫn mở rộng</a>
-    <ul class="subnav">
-            
-    </ul>
+                <ul>
+                    <li class="toctree-l1">
+    <a class="" href="../huong-dan-mo-rong/">Hướng dẫn mở rộng</a>
                     </li>
                     <li class="toctree-l1">
     <a class="" href="../system/">Quản trị hệ thống</a>
@@ -136,14 +153,14 @@
     
       
         
-          <li>Hướng dẫn &raquo;</li>
+          <li>Tạo đề thi trắc nghiệm &raquo;</li>
         
       
     
-    <li>Hướng dẫn mở rộng</li>
+    <li>Ngân hàng câu hỏi</li>
     <li class="wy-breadcrumbs-aside">
       
-        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/huong-dan-mo-rong/index.md"
+        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/ngan-hang-cau-hoi.md"
           class="icon icon-github"> Edit on Github</a>
       
     </li>
@@ -154,16 +171,93 @@
           <div role="main">
             <div class="section">
               
-                <ul>
-<li><a href="chen-hinh-anh-trong-noi-dung/">Chèn hình ảnh trong nội dung</a></li>
-<li><a href="chen-video-trong-noi-dung/">Chèn video trong nội dung</a></li>
-<li><a href="chen-cong-thuc-trong-noi-dung/">Chèn công thức toán học trong nội dung</a></li>
-<li><a href="chen-am-thanh-trong-noi-dung/">Chèn âm thanh trong nội dung</a></li>
-<li><a href="nhap-cau-hoi-tu-microsoftword/">Nhập câu hỏi từ Microsoft Word</a></li>
-<li><a href="hien-thi-bang-thong-ke-thanh-vien-diem-cao">Hiển thị bảng thống kê thành viên điểm cao</a></li>
-<li><a href="xem-lai-lich-su-thi-cua-de-thi">Xem lại lịch sử thi của đề thi</a></li>
-<li><a href="thay-doi-noi-dung-huong-dan-lam-bai-thi">Thay đổi nội dung hướng dẫn làm bài thi</a></li>
-<li><a href="chen-ma-theo-doi-google-analytics">Chèn mã theo dõi Google analytics</a></li>
+                <p><strong>AZtest</strong> cung cấp hai giải pháp tạo bộ câu hỏi cho đề thi:</p>
+<ul>
+<li>Tạo câu hỏi bằng cách nhập vào danh sách câu hỏi</li>
+<li>Tạo câu hỏi từ ngân hàng câu hỏi</li>
+</ul>
+<p>Với <strong>Ngân hàng câu hỏi</strong>, bạn có thể tạo ra các đề thi với bộ câu hỏi được tạo từ ma trận đề thi, từ ngân hàng câu hỏi.</p>
+<h2 id="to-chuc-ngan-hang-cau-hoi">Tổ chức ngân hàng câu hỏi<a class="headerlink" href="#to-chuc-ngan-hang-cau-hoi" title="Permanent link">#</a></h2>
+<p>Để truy cập <strong>Ngân hàng câu hỏi</strong>, chọn menu <strong>Trắc nghiệm (Menu dọc) =&gt; Ngân hàng câu hỏi</strong>, ở biểu mẫu đầu tiên, tiếp hành nhập vào các phân mục. </p>
+<p><strong>Ví dụ:</strong> Với website của trường THPT, có thể chia thành các chuyên mục như Toán 12, Toán 11, Toán 10</p>
+<p><img alt="" src="../images/test/ngan-hang-cau-hoi-chuyen-muc.png" /></p>
+<p>Click vào tên chuyên mục, bạn sẽ khai báo các chuyên đề (Cấp nhỏ hơn của chuyên mục)</p>
+<p><img alt="" src="../images/test/ngan-hang-cau-hoi-chuyen-de.png" /></p>
+<p>Click vào tên chuyên đề, bạn sẽ đến khu vực quản lý danh sách câu hỏi thuộc chuyên đề</p>
+<p><img alt="" src="../images/test/ngan-hanng-cau-hoi-danh-sach-cau-hoi.png" /></p>
+<p>Hệ thống chia thành 04 loại câu hỏi:</p>
+<table>
+<thead>
+<tr>
+<th><strong>Mã (code)</strong></th>
+<th><strong>Tên gọi</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NB</td>
+<td>Nhận biết</td>
+</tr>
+<tr>
+<td>TH</td>
+<td>Thông hiểu</td>
+</tr>
+<tr>
+<td>VD</td>
+<td>Vận dụng</td>
+</tr>
+<tr>
+<td>VC</td>
+<td>Vận dụng cao</td>
+</tr>
+</tbody>
+</table>
+<h2 id="them-cau-hoi-vao-ngan-hang">Thêm câu hỏi vào ngân hàng<a class="headerlink" href="#them-cau-hoi-vao-ngan-hang" title="Permanent link">#</a></h2>
+<h3 id="nhap-cau-hoi">Nhập câu hỏi<a class="headerlink" href="#nhap-cau-hoi" title="Permanent link">#</a></h3>
+<ul>
+<li>Tại trang danh sách câu hỏi thuộc chuyên đề, click <strong>Thêm câu hỏi</strong></li>
+<li>Nhập các thông tin cho câu hỏi</li>
+</ul>
+<h3 id="nhap-cau-hoi-tu-ms-word">Nhập câu hỏi từ MS Word<a class="headerlink" href="#nhap-cau-hoi-tu-ms-word" title="Permanent link">#</a></h3>
+<ul>
+<li>Tại trang danh sách câu hỏi thuộc chuyên đề, click <strong>Nhập từ MS Word</strong></li>
+<li>Chuẩn bị file word theo hướng dẫn <a href="/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword.md">Nhập câu hỏi từ MS Word</a></li>
+<li>Để quy định loại câu hỏi, điền các giá trị là mã loại câu hỏi theo cú pháp</li>
+</ul>
+<pre><code>[Mã] Tiêu đề câu hỏi
+</code></pre>
+
+<p><strong>Ví dụ</strong>:</p>
+<pre><code>[NB] Một người gửi tiết kiệm vào một ngân hàng với lãi suất  7,2%/năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào vốn để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm người đo thu được (cả số tiền gửi ban đầu và lãi) gấp đôi số tiền gửi ban đầu, giả định trong khoảng thời gian này lãi suất không thay đổi và người đó không rút tiền ra??   
+11 năm
+12 năm
+9 năm
+*10 năm
+13 năm
+&gt;10 năm
+
+[VC] Số phức \[5+6i\] có phần thực bằng
+-5
+*5
+6
+-6
+</code></pre>
+
+<h2 id="tao-cau-hinh-ma-tran-e-thi">Tạo cấu hình (ma trận) đề thi<a class="headerlink" href="#tao-cau-hinh-ma-tran-e-thi" title="Permanent link">#</a></h2>
+<ul>
+<li>Truy cập menu <strong>Trắc nghiệm (menu dọc) =&gt; Cấu hình đề thi</strong></li>
+<li>Click <strong>Thêm cấu hình đề thi</strong></li>
+<li>Đặt tên cấu hình (tiêu đề), thời gian làm bài,...và các tùy chọn khác</li>
+<li>Thiết lập cấu hình câu hỏi</li>
+</ul>
+<p><img alt="" src="../images/test/thiet-lap-cau-hinh-cau-hoi.png" /></p>
+<ul>
+<li>Nhấn <strong>Cập nhật</strong> để lưu cấu hình, tương tự cho hành động <strong>Sửa cấu hình</strong></li>
+</ul>
+<p class="title">Tiếp theo</p>
+
+<ul>
+<li><a href="/de-thi/">Đề thi</a></li>
 </ul>
               
             </div>
@@ -192,10 +286,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../phan-quyen-quan-ly/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
+        <span><a href="../xep-loai/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../system/" style="color: #fcfcfc">Trang tiếp &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../de-thi/" style="color: #fcfcfc">Trang tiếp &raquo;</a></span>
       
     </span>
 </div>
