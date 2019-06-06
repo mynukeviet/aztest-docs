@@ -44,7 +44,7 @@ Hệ thống chia thành 04 loại câu hỏi:
 ### Nhập câu hỏi từ MS Word
 
 - Tại trang danh sách câu hỏi thuộc chuyên đề, click **Nhập từ MS Word**
-- Chuẩn bị file word theo hướng dẫn [Nhập câu hỏi từ MS Word](/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword.md)
+- Chuẩn bị file word theo hướng dẫn [Nhập câu hỏi từ MS Word](/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword/)
 - Để quy định loại câu hỏi, điền các giá trị là mã loại câu hỏi theo cú pháp
 ```
 [Mã] Tiêu đề câu hỏi
