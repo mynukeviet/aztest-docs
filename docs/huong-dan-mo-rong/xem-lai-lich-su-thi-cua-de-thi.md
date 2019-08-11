@@ -2,6 +2,9 @@
 title: Xem lịch sử thi
 ---
 
+!!! warning "Chú ý"
+	Hệ thống KHÔNG lưu lịch sử thi với đối tượng tham gia là KHÁCH (Không đăng nhập tài khoản)
+	
 Để xem lại lịch sử thi của thí sinh, bạn thực hiện các bước sau: 
 
 <div class="video-container">
