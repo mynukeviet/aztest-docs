@@ -35,6 +35,7 @@ Giải thích các trường thông tin:
 |**Nhóm tham gia thi (8)**| Chọn nhóm thành viên được phép thực hiện đề thi này |
 |**Nhóm được bình luận (9)**| Nhóm thành viên được phép bình luận trong trang xem chi tiết đề thi | 
 |**Nhóm xem đáp án sau bài làm (10)**| Nhóm thành viên được phép xem đáp án sau khi làm bài. |
+|**Nguồn**| Trong quá trình biên soạn các bộ đề thi trắc nghiệm cho học sinh tự luyện hoặc tổ chức thi chấm điểm, thầy cô có thể tham khảo các nguồn để thi hay từ các đồng nghiệp hoặc các trang đề thi. Để đảm bảo tính bản quyền, AZtest đã cung cấp thêm tính năng thêm thông tin nguồn đề thi ([**Xem thêm**](/huong-dan-mo-rong/quan-ly-nguon-de-thi)) |
 
 **BƯỚC 3**: Nhập tương tự cho các thông tin tiếp theo
 

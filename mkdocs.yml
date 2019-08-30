@@ -9,6 +9,10 @@ theme:
 repo_name: Github
 repo_url: https://github.com/mynukeviet/aztest-docs
 google_analytics: ['UA-130583769-1', 'docs.aztest.vn']
+markdown_extensions:
+    - admonition
+    - toc:
+        permalink: "#"
 pages:
 - Bắt đầu:
     - Giới thiệu: index.md
@@ -21,6 +25,7 @@ pages:
     - Xóa dữ liệu mẫu: 'xoa-du-lieu-mau.md'
     - Chủ đề: 'chu-de.md'
     - Xếp loại: 'xep-loai.md'
+    - Ngân hàng câu hỏi: 'ngan-hang-cau-hoi.md'
     - Đề thi: 'de-thi.md'
     - Cấu hình: 'cau-hinh.md'
     - Phân quyền quản lý: 'phan-quyen-quan-ly.md'
