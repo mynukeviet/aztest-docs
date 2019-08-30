@@ -12,3 +12,4 @@ title: Hướng dẫn mở rộng
 - [Thay đổi nội dung hướng dẫn làm bài thi](thay-doi-noi-dung-huong-dan-lam-bai-thi)
 - [Thiết lập thứ tự hiển thị danh sách câu hỏi trên trang chủ](thiet-lap-thu-tu-danh-sach-cau-hoi)
 - [Chèn mã theo dõi Google analytics](chen-ma-theo-doi-google-analytics)
+- [Khóa copy và paste ở khu vực làm bài](khoa-copy-&-paste-o-khu-vuc-lam-bai)
