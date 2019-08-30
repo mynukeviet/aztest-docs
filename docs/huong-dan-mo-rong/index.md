@@ -11,3 +11,4 @@ title: Hướng dẫn mở rộng
 - [Xem lại lịch sử thi của đề thi](xem-lai-lich-su-thi-cua-de-thi)
 - [Thay đổi nội dung hướng dẫn làm bài thi](thay-doi-noi-dung-huong-dan-lam-bai-thi)
 - [Chèn mã theo dõi Google analytics](chen-ma-theo-doi-google-analytics)
+- [Khóa copy và paste ở khu vực làm bài](khoa-copy-&-paste-o-khu-vuc-lam-bai)
