@@ -3,7 +3,7 @@ title: Nhập câu hỏi từ Microsoft Word
 ---
 
 !!! warning "Chú ý"
- Tính năng nhập câu hỏi từ MS  Word chỉ áp dụng đối với loại câu hỏi **Trắc nghiệm lựa chọn**
+	Tính năng nhập câu hỏi từ MS  Word chỉ áp dụng đối với loại câu hỏi [**Trắc nghiệm lựa chọn**](/de-thi/#quan-ly-cau-hoi)
 
 ## 1. Kiểm tra và thay đổi nội dung đề thi
 
