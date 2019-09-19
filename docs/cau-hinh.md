@@ -49,6 +49,25 @@ Giải thích các trường thông tin:
 | **Hiển thị theo dạng danh sách** |  Các câu hỏi trong đề thi sẽ hiển thị theo dạng danh sách theo số thứ tự![](./images/test/cau-hinh-9.png) | 
 | **Hiển thị từng câu hỏi** | Trên giao diện làm bài sẽ hiển thị từng câu hỏi một, sau khi làm xong một cậu, click Kế tiếp để tiếp tục làm bài ![](./images/test/cau-hinh-19.png) | 
 
+## Cấu hình hiển thị thông báo về quyền làm bài thi 
+
+Ở mục này người dùng có thể tùy chỉnh nội dung hiển thị và quyền làm bài thi, Click vào mũi tên bên phải để chọn **Thông báo quyền làm bài**.  
+Để hiển thị mỗi thông báo và không có nội dung đề thi người dùng tick chọn **Chỉ hiển thị thông báo**
+
+![](./images/test/cau-hinh-thong-bao-quyen-lam-bai-thi-1.png)
+
+Sau khi tick chọn **Chỉ hiển thị thông báo**, khi truy cập vào đề thi người dùng sẽ nhận được thông báo không kèm nội dung.
+
+![](./images/test/cau-hinh-thong-bao-quyen-lam-bai-thi-2.png)
+
+Ngược lại người dùng muốn thông báo quyền bài thi và kèm theo nội dung thì người dùng tick chọn **Hiển thị thông báo cùng nội dung đề thi** 
+
+![](./images/test/cau-hinh-thong-bao-quyen-lam-bai-thi-3.png)
+
+Và sau khi chọn **Hiển thị thông báo cùng nội dung đề thi** thì giao diện sẽ kèm theo thông báo và nội dung đề thi.
+
+![](./images/test/cau-hinh-thong-bao-quyen-lam-bai-thi-4.png)
+
 ## Các thiết lập khác 
 
 ![](./images/test/cau-hinh-11.png)
