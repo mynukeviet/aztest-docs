@@ -78,6 +78,12 @@ Hệ thống chia thành 04 loại câu hỏi:
 
 - Nhấn **Cập nhật** để lưu cấu hình, tương tự cho hành động **Sửa cấu hình**
 
+## Cấu hình tạo câu hỏi ngẫu nhiên ở đề thi
+
+Để tạo bộ đề thi với các câu hỏi ngẫu nhiên và làm mới bộ đề thi người dùng cần cấu hình trong bộ đề thi đó. Ở mục phương thức câu hỏi sau khi chọn ngân hàng người dùng click vào **Tạo lại bộ câu hỏi theo cấu hình sau mỗi lượt thi** để tạo bộ câu hỏi ngẫu nhiên sau mỗi lần thi.
+
+![](./images/test/cau-hinh-ngan-hang-cau-hoi.png)
+
 <p class="title">Tiếp theo</p>
 
 - [Đề thi](/de-thi/)
