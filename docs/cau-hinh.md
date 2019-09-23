@@ -68,6 +68,14 @@ Và sau khi chọn **Hiển thị thông báo cùng nội dung đề thi** thì 
 
 ![](./images/test/cau-hinh-thong-bao-quyen-lam-bai-thi-4.png)
 
+## Cấu hình thành viên xóa lịch sử thi
+
+![](./images/test/xoa-lich-su-thi.png)
+
+Mục này cho phép người quản trị cấu hình quyền hạn xóa lịch sử thi của thành viên, nếu người dùng tích chọn **Cho phép thành viên xóa lịch sử thi** thì thành viên khi truy cập vào trang lịch sử thi của mình có thể xóa bất kỳ lịch sử thi nào mà người dùng mong muốn.
+
+![](./images/test/xoa-lich-su-thi2.png)
+
 ## Các thiết lập khác 
 
 ![](./images/test/cau-hinh-11.png)
