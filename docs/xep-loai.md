@@ -12,6 +12,9 @@
 
 ![](./images/test/quan-ly-xep-loai.png)
 
+!!! warning "Chú ý"
+	Bạn cần sắp xếp các cấu hình theo thứ tự điểm từ thấp đến cao. Nếu sắp xếp không đúng có thể làm sai sót kết quả xếp loại
+
 <p class="title">Tiếp theo</p>
 
 - [Đề thi](/de-thi/)
