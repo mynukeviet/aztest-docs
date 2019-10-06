@@ -5,6 +5,10 @@ title: Xem lịch sử thi
 !!! warning "Chú ý"
 	Hệ thống KHÔNG lưu lịch sử thi với đối tượng tham gia là KHÁCH (Không đăng nhập tài khoản)
 	
+Để xem lịch sử thi người dùng có thể truy cập vào danh mục **Lịch sử thi** (Danh sách lịch sử của tất cả đề thi) hoặc truy cập vào đề thi và chọn mục **lịch sử thi** (lịch sử của đề thi đang xem )
+
+## Lịch sử thi của một đề
+	
 Để xem lại lịch sử thi của thí sinh, bạn thực hiện các bước sau: 
 
 <div class="video-container">
@@ -61,3 +65,25 @@ Ngoài ra người dùng có thể in chi tiết kết quả thi của một th�
 Bạn chỉ cần click nút In ở góc phải màn hình.
 
 ![](../images/test/tinh-nang-moi-5.png)
+
+## Lịch sử thi của tất cả đề thi
+
+Để xem lịch sử thi của tất cả các đề thi từ module Trắc nghiệm người dùng truy cập vàu menu **Lịch sử thi**. Khi truy cập vào mục lịch sử thi người dùng sẽ xem được danh sách lịch sử thi của tất cả các đề thi.
+
+![](../images/test/lich-su-thi.png)
+
+Các chức năng trong lịch sử đề thi
+
+![](../images/test/lich-su-thi2.png)
+
+- **Tìm kiếm nhóm đề thi(1)**: Người dùng có thể tìm kiếm theo nhóm đề thi .
+- **Tìm kiếm tài khoản (2)**: Tìm kiếm thông tin theo tài khoản.
+- **Thời gian làm bài (3)**: Khoảng thời gian thành viên hoàn thành bài thi.
+- **Hiển thị (4)**: Người dùng tìm kiếm theo số lượng hiển thị mong muốn.
+- **Xóa (5)**: Người dùng có thể xóa một hoặc nhiều thông tin lịch sử thi.
+- **Tải về (6)**: Mục này cho phép người dùng tải về danh sách lịch sử thi.
+- **in (7)**: Mục này cho phép người dùng in lịch sử thi.
+- **Biểu đồ (8)**: Thống kê xếp loại thí sinh theo biểu đồ hình tròn.
+- **Thông tin lịch sử thi (9)**: Chứa thông tin toàn bộ lịch sử thi.
+- **Xóa (10)**: Người dùng có thể xóa một thông tin lịch sử đề thi.
+

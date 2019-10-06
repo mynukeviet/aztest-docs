@@ -39,6 +39,8 @@ Giải thích các trường thông tin:
 
 **BƯỚC 3**: Nhập tương tự cho các thông tin tiếp theo
 
+Đối với hình thức kiểm tra tự luyện chúng có những thông tin dưới đây:
+
 ![](./images/test/nhapcauhoiword.png)
 
 Giải thích các trường thông tin:
@@ -50,14 +52,32 @@ Giải thích các trường thông tin:
 |**Thang điểm (3)** | Nhập thang điểm của đề thi |
 |**Thời gian làm bài (4)** | Nhập thời gian làm bài của đề thi, thời gian tính bằng đơn vị phút. |
 |**Số câu hỏi trên trang (5)** | Nhập số câu hỏi hiển thị trên một trang, nếu không muốn phân trang thì nhập 0, hệ thống sẽ tự động phân trang |
-|**Phương thức nhập câu hỏi (6)** | <ul><li>Nhập câu hỏi mới: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung câu hỏi<li>Nhập từ Microsoft Word: Sau khi thêm đề thi thành công, hệ thống sẽ chuyển bạn đến giao diện nhập nội dung từ file Word </ul>.Xem thêm  [**Nhập câu hỏi từ word**](/nhap-cau-hoi-tu-word/)|
+|**Hiển thị lời giải (6)** | Người dùng có thể chọn phương án hiển thị lời giải của đề thi |
 |**Tích chọn các tính năng mở rộng cho đề thi (7)** | <ul><li>Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.<li>Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.<li>Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên<li>Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi<li>Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp.|
 |**Cập nhật (8)** | Nhấn chọn Cập nhật (8) để hoàn tất. |
+
+Đối với hình thức kiểm tra chấm điểm chúng có những thông tin dưới đây:
+
+![](./images/test/nhapcauhoiword2.png)
+
+Giải thích các trường thông tin:
+
+| Trường thông tin | Mô tả | 
+| -----------------| ------| 
+| **Chọn hình thức kiểm tra (1)**| <ul><li>Tự luyện: Đề thi cho phép một thành viên thi nhiều lượt, mỗi lượt thi hệ thống sẽ tự động thay đổi vị trí các câu hỏi và đáp án.Mỗi lượt thi đều chấm điểm <li>Chấm điểm: Đề thi chỉ cho phép mỗi thành viên thi một lượt và được chấm điểm. Phương án này phù hợp với việc tổ chức các kỳ thi để lấy kết quả thi.|
+|**Mã đề thi (2)** | Mã đề thi có chức năng giống như một password của đề thi, khi tạo đề thi có mã đề thi người dùng cần nhập đúng mà mới có thể vào được bài thi |
+|**Thời gian mở đề (3)** | Người dùng có thể quy định thời gian mở đề và thời gian kết thúc đề thi |
+|**Số lượng thi tối đa (4)** | Là số lượt thi tối đa của đề thi ( Nhập 0 nếu không giới hạn lượt thi )|
+|**Số lượng câu hỏi (5)** | Nhập số lượng câu hỏi của đề thi |
+|**Thang điểm (6)** | Nhập thang điểm của đề thi |
+|**Thời gian làm bài (7)** | Nhập thời gian làm bài của đề thi, thời gian tính bằng đơn vị phút. |
+|**Số câu hỏi trên trang (8)** | Nhập số câu hỏi hiển thị trên một trang, nếu không muốn phân trang thì nhập 0, hệ thống sẽ tự động phân trang |
+|**Hiển thị lời giải (9)** | Người dùng có thể chọn phương án hiển thị lời giải của đề thi |
+|**Tích chọn các tính năng mở rộng cho đề thi (10)** | <ul><li>Hiển thị ngẫu nhiên câu hỏi và đáp án: Sau mỗi lượt thi, các câu hỏi sẽ được hiển thị ngẫu nhiên, các đáp án sẽ ngẫu nhiên thay đổi vị trí.<li>Hiển thị xếp loại sau làm bài: Sau khi nộp bài, hệ thống căn cứ vào kết quả và xếp loại bài thi của bạn. Bạn cần cấu hình xếp loại để hiển thị đúng tiêu chí này.<li>Lưu lịch sử làm bài: Hệ thống tự động lưu lại lịch sử thi của thành viên<li>Cho phép làm lại bài: Cho phép thành viên có thể làm lại bài thi<li>Cho phép in đề: Hệ thống sẽ in đề thi trực tiếp.|
 
 Sau khi điền đầy đủ các trường thông tin cần thiết, nhấn **Cập nhật** để thêm đề thi. Dựa vào lựa chọn **Phương thức nhập câu hỏi (6)**, hệ thống sẽ chuyển bạn đến trang tương ứng để tiếp tục nhập câu hỏi cho đề thi.
 
 ![](./images/test/cap-nhat-de-thi.png)
-
 
 ### QUẢN LÝ CÂU HỎI
 Sau khi **Tạo Đề thi mới**, chúng ta tiếp tục đến bước **Quản lý Câu hỏi** thông qua việc hoàn thiện các bước Thêm câu hỏi, Đáp án và Lời giải.
@@ -70,7 +90,7 @@ Giải thích các trường thông tin:
 
 | Trường thông tin | Mô tả |
 | -----------------| ------| 
-|**Loại câu hỏi (1)** | Nhấn chọn loại câu hỏi <ul><li>**Câu hỏi trắc nghiệm**: Loại câu hỏi với các đáp án cho sẵn, học sinh chọn ra các đáp án đúng, mỗi câu hỏi có thể có một hoặc nhiều đáp án đúng![](./images/test/cau-hoi-trac-nghiem.gif) .<li>**Câu hỏi điền vào ô trống**: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời đúng tương ứng với dữ liệu đã cho trong câu hỏi![](./images/test/cau-hoi-dien-vao-o-trong.gif).<li>**Câu hỏi chung**: Loại câu hỏi gồm câu hỏi và đoạn văn bản đọc hiểu. Học sinh dựa vào đoạn văn bản đề chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-chung.gif).|
+|**Loại câu hỏi (1)** | Nhấn chọn loại câu hỏi <ul><li>**Câu hỏi trắc nghiệm**: Loại câu hỏi với các đáp án cho sẵn, học sinh chọn ra các đáp án đúng, mỗi câu hỏi có thể có một hoặc nhiều đáp án đúng![](./images/test/cau-hoi-trac-nghiem.gif) .<li>**Câu hỏi điền vào ô trống**: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời đúng tương ứng với dữ liệu đã cho trong câu hỏi![](./images/test/cau-hoi-dien-vao-o-trong.gif).<li>**Câu hỏi chung**: Loại câu hỏi gồm câu hỏi và đoạn văn bản đọc hiểu. Học sinh dựa vào đoạn văn bản đề chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-chung.gif).<li>**Câu hỏi đúng sai**: Loại câu hỏi gồm câu hỏi và hai đáp án đúng và sai. Học sinh dựa vào câu hỏi và chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-dung-sai.png).<li>**Câu hỏi đánh giá năng lực**: Loại câu hỏi gồm câu hỏi và nhiều đáp án mỗi đáp án sẽ quy định số điểm nhất định, số điểm của câu hỏi sẽ được tối đa nếu học sinh chọn đáp án phù hợp nhất. Học sinh dựa vào câu hỏi và chọn câu trả lời cho câu hỏi![](./images/test/cau-hoi-danh-gia-nang-luc.png).<li>**Câu hỏi tự luận**: Loại câu hỏi yêu cầu điền vào ô trống câu trả lời![](./images/test/cau-hoi-tu-luan.png).|
 |**Tiêu đề (2)** | Nhập tiêu đề chính là nội dung câu hỏi. |
 |**Danh sách câu hỏi (3)** | Danh sách các câu hỏi của đề thi |
 |**Câu hỏi màu xanh (4)** | Câu hỏi đã nhập nội dung sẽ có màu xanh (4) |
