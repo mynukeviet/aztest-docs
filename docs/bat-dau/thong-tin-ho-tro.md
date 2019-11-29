@@ -8,4 +8,4 @@ Nếu bạn đang gặp khó khăn trong việc khởi tạo dịch vụ, cũng 
 - Hotline: 0905 908 430 (hỗ trợ 24/7)
 - Zalo: 0392777913
 - [Cộng đồng AZtest trên Facebook](https://www.facebook.com/groups/aztest.vn/)
-- [Diễn đàn AZtest](https://aztest.vn/forum/)
+- [Diễn đàn AZtest](https://forum.aztest.vn)
