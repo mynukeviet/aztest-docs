@@ -8,7 +8,7 @@ Vì vậy khi đã thực sự tin tưởng và muốn sử dụng hệ thống 
 
 Để nâng cấp gói dịch vụ cần làm theo các bước sau đây:
 
-**Bước 1**: Xem chi tiết các gói dịch vụ tại [Bảng so sánh tính năng](https://aztest.vn/bang-so-sanh-tinh-nang.html)
+**Bước 1**: Xem chi tiết các gói dịch vụ tại [Bảng giá dịch vụ](https://aztest.vn/bang-gia.html)
 
 **Bước 2**: Đăng nhập vào khu vực quản trị, chọn **Thông tin website (1) -> Nâng gói dịch vụ (2)** 
 
