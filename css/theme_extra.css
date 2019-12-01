@@ -235,3 +235,7 @@ code, .rst-content tt {
 .wy-nav-top{
 	text-align: right
 }
+
+.rst-versions{
+    border-top: 0
+}

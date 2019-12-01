@@ -8,7 +8,7 @@
   
   <meta name="author" content="AZtest">
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Thiết lập hệ thống - Tài liệu AZtest</title>
+  <title>Quản lý file - Tài liệu AZtest</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
@@ -17,9 +17,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Thi\u1ebft l\u1eadp h\u1ec7 th\u1ed1ng";
-    var mkdocs_page_input_path = "system.md";
-    var mkdocs_page_url = "/system/";
+    var mkdocs_page_name = "Qu\u1ea3n l\u00fd file";
+    var mkdocs_page_input_path = "uploads.md";
+    var mkdocs_page_url = "/uploads/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js" defer></script>
@@ -108,35 +108,23 @@
                     <li class="toctree-l1">
     <a class="" href="../huong-dan-mo-rong/">Hướng dẫn mở rộng</a>
                     </li>
-                    <li class="toctree-l1 current">
-    <a class="current" href="./">Thiết lập hệ thống</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l2"><a href="#thay-oi-thong-tin-website">Thay đổi thông tin website</a></li>
-    
-
-    <li class="toctree-l2"><a href="#cau-hinh-may-chu-gui-thu-email">Cấu hình máy chủ gửi thư (Email)</a></li>
-    
-
-    <li class="toctree-l2"><a href="#quan-ly-module">Quản lý module</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l3" href="#cai-at-module-moi">Cài đặt module mới</a></li>
-        
-        </ul>
-    
-
-    <li class="toctree-l2"><a href="#thay-oi-giao-dien-website">Thay đổi giao diện website</a></li>
-    
-
-    </ul>
+                    <li class="toctree-l1">
+    <a class="" href="../system/">Thiết lập hệ thống</a>
                     </li>
                     <li class="toctree-l1">
     <a class="" href="../users/">Quản lý tài khoản</a>
                     </li>
-                    <li class="toctree-l1">
-    <a class="" href="../uploads/">Quản lý file</a>
+                    <li class="toctree-l1 current">
+    <a class="current" href="./">Quản lý file</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#tai-len-mot-file-moi">Tải lên một file mới</a></li>
+    
+
+    <li class="toctree-l2"><a href="#cau-hinh-ong-dau-anh">Cấu hình đóng dấu ảnh</a></li>
+    
+
+    </ul>
                     </li>
                 </ul>
       </div>
@@ -164,10 +152,10 @@
         
       
     
-    <li>Thiết lập hệ thống</li>
+    <li>Quản lý file</li>
     <li class="wy-breadcrumbs-aside">
       
-        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/system.md"
+        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/uploads.md"
           class="icon icon-github"> Edit on Github</a>
       
     </li>
@@ -178,39 +166,95 @@
           <div role="main">
             <div class="section">
               
-                <h2 id="thay-oi-thong-tin-website">Thay đổi thông tin website<a class="headerlink" href="#thay-oi-thong-tin-website" title="Permanent link">#</a></h2>
-<p>Truy cập <strong>Cấu hình</strong> (Menu ngang)</p>
-<p><img alt="" src="../images/system/cau_hinh_site.png" /></p>
-<p>Trong giao diện này, bạn có thể thay đổi nội dung theo mong muốn, sau đó nhấn <strong>Lưu cấu hình</strong> ở cuối trang để lưu lại thiết lập.</p>
-<p>Ngoài ra, bạn cũng có thể thay đổi các thông tin nâng cao hơn tại phần <strong>Cấu hình / Cấu hình chung</strong> (Menu ngang)</p>
-<h2 id="cau-hinh-may-chu-gui-thu-email">Cấu hình máy chủ gửi thư (Email)<a class="headerlink" href="#cau-hinh-may-chu-gui-thu-email" title="Permanent link">#</a></h2>
-<p>Mặc định, AZtest đã thiết lập máy chủ gửi thư để website có thể gửi thư đi mà không cần cấu hình thêm. Song, AZtest cũng cung cấp giải pháp để những người am hiểu kỹ thuật có thể tự cấu hình máy chủ gửi thư của riêng họ.</p>
-<p>Truy cập <strong>Cấu hình / Cấu hình SMTP</strong> (Menu ngang)</p>
-<p><img alt="" src="../images/system/cau_hinh_email.png" /></p>
-<p>Trong 3 tùy chọn ở đây, chọn giao thức SMPT và điền các thông số như hình hướng dẫn rồi lưu lại.</p>
-<h2 id="quan-ly-module">Quản lý module<a class="headerlink" href="#quan-ly-module" title="Permanent link">#</a></h2>
-<p>Hệ thống AZtest được cấu thành bởi các tính năng riêng biệt (gọi là modules). Ngoài các module được kích hoạt sẵn khi khởi tạo website, bạn cũng có thể cài đặt cho website của mình nhiều module với các mục đích khác nhau.</p>
-<p>Truy cập "<strong>Quản lý modules</strong>" (Menu ngang)</p>
-<p>Tại trang chính, bạn có thể thấy danh sách các modules đã được cài đặt trước đó. Bạn có thể thực hiện các thao tác như kích hoạt, nghưng kích hoạt, sửa, cài lại và xóa modules.</p>
-<p><img alt="" src="../images/system/quan_ly_module.png" /></p>
-<h3 id="cai-at-module-moi">Cài đặt module mới<a class="headerlink" href="#cai-at-module-moi" title="Permanent link">#</a></h3>
-<p>Truy cập "<strong>Quản lý modules / Thiết lập module mới</strong>" (Menu ngang)</p>
+                <p>Khu vực <strong>Quản lý File</strong> giúp người quản trị quản lý (upload, sửa thông tin, xóa, tạo thư mục,...) các thư mục, tập tin được upload lên hệ thống.</p>
+<p>Truy cập <strong>Quản lý File</strong> (Menu ngang)</p>
+<p><img alt="" src="../images/system/quan-ly-file.png" /></p>
+<p>Trên đây là giao diện quản lý file. Các khu vực quan trọng bạn cần biết:</p>
 <ul>
-<li>Các module chưa được cài đặt sẽ hiển thị trong phần <strong>Các module hệ thống</strong></li>
-<li>Click <strong>Thiết lập</strong> ở cuối mỗi module để tiến hành cài đặt</li>
-<li>Bạn có thể chọn cài đặt thêm dữ liệu mẫu hoặc không tại hộp thoại tiếp theo</li>
-<li>Click <strong>Thiết lập</strong> để chuyển sang bước tiếp theo</li>
-</ul>
-<p><img alt="" src="../images/system/thiet-lap-module.png" /></p>
+<li>
+<p><strong>Quản lý thư mục (1):</strong> Tại khu vực này, bạn có thể truy cập đến thư mục. Danh sách thư mục ở đây sẽ bao gồm toàn bộ thư mục của các module khác. Click phải chuột vào tên thư mục, bạn sẽ thấy:
+<img alt="" src="../images/system/quan-ly-thu-muc.png" /></p>
 <ul>
-<li>Ở bước cuối cùng này, bạn có thể bỏ qua, hoặc có thể hiệu chỉnh thêm một số thông tin như mong muốn, clic <strong>Thực hiện</strong> nếu có thay đổi</li>
+<li><strong>Tạo thư mục:</strong> Tạo thêm thư mục là thư mục con của thư mục đang được click</li>
+<li><strong>Tạo lại ảnh thumb</strong></li>
 </ul>
-<p><img alt="" src="../images/system/thiet-lap-module-1.png" /></p>
-<h2 id="thay-oi-giao-dien-website">Thay đổi giao diện website<a class="headerlink" href="#thay-oi-giao-dien-website" title="Permanent link">#</a></h2>
-<p>Truy cập <strong>Quản lý giao diện</strong> (Menu ngang)</p>
-<p><img alt="" src="../images/system/quan_ly_giao_dien.png" /></p>
-<p>Tại đây, bạn có thể chọn một trong các giao diện có sẵn để sử dụng cho website của mình bằng cách rê chuột lên (ảnh đại diện) của giao diện, chọn <strong>Kích hoạt sử dụng</strong>.</p>
-<p>Sau khi kích hoạt, bạn có thể quay trở lại trang chủ đề xem website với giao diện mới.</p>
+</li>
+<li>
+<p><strong>Quản lý File (2):</strong> Khi click vào thư mục, danh sách file ở bảng bên phải sẽ hiển thị các file thuộc thư mục được chọn. Click phải chuột vào file, bạn sẽ thấy:
+<img alt="" src="../images/system/quan-ly-file-1.png" /></p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tải về</td>
+<td>Download file được chọn về máy</td>
+</tr>
+<tr>
+<td>Xem chi tiết</td>
+<td>Hiển thị thông tin chi tiết về file. Thông tin: tên file, kích thước, dung lượng, thời gian cập nhật,....</td>
+</tr>
+<tr>
+<td>Thêm logo</td>
+<td>Xem <a href="/system/#cau-hinh-ong-dau-anh">Cấu hình đóng dấu ảnh</a></td>
+</tr>
+<tr>
+<td>Công cụ ảnh</td>
+<td>Sử dụng công cụ này để cắt hình ảnh về một kích thước nhỏ hơn cùng tỉ lệ</td>
+</tr>
+<tr>
+<td>Cắt ảnh</td>
+<td>Sử dụng công cụ này để chọn vùng ảnh cần cắt</td>
+</tr>
+<tr>
+<td>Xoay ảnh</td>
+<td>Sử dụng công cụ này để xoay hướng ảnh</td>
+</tr>
+<tr>
+<td>Di chuyển</td>
+<td>Sử dụng công cụ này để di chuyển ảnh đến một thư mục khác</td>
+</tr>
+<tr>
+<td>Đổi tên file</td>
+<td>Sử dụng công cụ này để đổi tên file</td>
+</tr>
+<tr>
+<td>Xóa file</td>
+<td>Sử dụng công cụ này để xóa file ra khỏi hệ thống</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Tìm kiếm file (3):</strong> Bạn có thể dễ dàng lọc file theo các tiêu chí được cung cấp tại khu vực này</li>
+<li><strong>Tải lên một file mới (4):</strong> Xem <a href="/system/#tai-len-mot-file-moi">Tải lên một file mới</a></li>
+</ul>
+<h3 id="tai-len-mot-file-moi">Tải lên một file mới<a class="headerlink" href="#tai-len-mot-file-moi" title="Permanent link">#</a></h3>
+<p>Tại khu vực 4, bạn click vào nút <strong>Chọn kiểu upload</strong>, khi đó sẽ có hai lựa chọn, tùy vào vị trí lưu file bạn cần chọn phương án phù hợp.</p>
+<ul>
+<li><strong>Upload từ internet:</strong> Trường hợp này khi bạn có URL của một file được lưu trữ trực tuyến. Ví dụ: <code>https://docs.aztest.vn/images/system/quan-ly-file-1.png</code>. Nhập được dẫn này vào ô <strong>Nhập URL file</strong> sau đó nhấn <strong>Upload file</strong>, hệ thống sẽ tiến hành download file về máy chủ.</li>
+</ul>
+<p><img alt="" src="../images/system/upload-file-tu-internet.png" /></p>
+<ul>
+<li><strong>Upload từ máy tính:</strong> Trường hợp file lưu tại máy tính, click <strong>Upload từ máy tính</strong>, sau đó chọn đến file cần upload. Có thể chọn nhiều file để upload cùng lúc. Sau khi chọn file, hệ thống sẽ hiện thị lại thông tin của file, bạn có thể điều chỉnh lại mô tả hình ảnh (1) hoặc xóa file khỏi danh sách tại giao diện này. Cuối cùng, click <strong>Upload file (2)</strong> để tiến hành upload file lên hệ thống.</li>
+</ul>
+<p><img alt="" src="../images/system/upload-file-moi.png" /></p>
+<h3 id="cau-hinh-ong-dau-anh">Cấu hình đóng dấu ảnh<a class="headerlink" href="#cau-hinh-ong-dau-anh" title="Permanent link">#</a></h3>
+<p>Đây là một hình thức để bạn có thể in dấu bản quyền lên hình ảnh sau khi đưa lên website một cách tự động mà không cần dùng đến các công cụ ảnh khác để chỉnh sửa.</p>
+<p>Để thiết lập, truy cập <strong>Quản lý file / Cấu hình chèn logo</strong> (Menu ngang)</p>
+<p><img alt="" src="../images/uploads/cau-hinh-dong-dau-logo.png" /></p>
+<p>Các thông tin cần quan tâm:</p>
+<ul>
+<li><strong>Tự động chèn Logo vào ảnh của các module</strong>: Chọn các module sẽ áp dụng việc đóng dấu ảnh</li>
+<li><strong>Logo khi thêm vào hình ảnh</strong>: Chọn hình ảnh sẽ được dùng để đóng dấu lên ảnh. Bạn nên thiết kế một ảnh có nền trong suốt (với định dạng png).</li>
+<li><strong>Vị trí của logo</strong>: chọn ví trí hiển thị của ảnh được đóng dấu</li>
+</ul>
+<p>Nhấn <strong>Cập nhật</strong> để lưu thay đổi. Quay trở lại hộp quản lý file, bạn có thể upload một hình ảnh (vào thư mục của module đã chọn ở trên) để xem kết quả.</p>
               
             </div>
           </div>
@@ -238,10 +282,8 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../huong-dan-mo-rong/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
+        <span><a href="../users/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
       
-      
-        <span style="margin-left: 15px"><a href="../users/" style="color: #fcfcfc">Trang tiếp &raquo;</a></span>
       
     </span>
 </div>

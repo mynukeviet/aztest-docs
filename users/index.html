@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="author" content="AZtest">
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Quản lý tài khoản - Tài liệu AZtest</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Qu\u1ea3n l\u00fd t\u00e0i kho\u1ea3n";
+    var mkdocs_page_input_path = "users.md";
+    var mkdocs_page_url = "/users/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-130583769-1', 'docs.aztest.vn');
+      ga('send', 'pageview');
+  </script>
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> 
+        	<img src="https://docs.aztest.vn/img/logo.png" alt="Tài liệu AZtest">
+        </a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Từ khóa tìm kiếm..." title="Nhập nội dung tìm kiếm vào đây..." />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <p class="caption"><span class="caption-text">Bắt đầu</span></p>
+                <ul>
+                    <li class="toctree-l1">
+    <a class="" href="..">Giới thiệu</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../bat-dau/huong-dan-khoi-tao-website/">Khởi tạo website</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../bat-dau/dang-nhap-dang-xuat-quan-tri/">Đăng nhập, đăng xuất quản trị</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../bat-dau/thay-doi-mat-khau-quan-tri/">Đổi mật khẩu quản trị</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../bat-dau/nang-cap-goi-dich-vu/">Nâng cấp gói dịch vụ</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../bat-dau/thong-tin-ho-tro/">Thông tin hỗ trợ</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tạo đề thi trắc nghiệm</span></p>
+                <ul>
+                    <li class="toctree-l1">
+    <a class="" href="../xoa-du-lieu-mau/">Xóa dữ liệu mẫu</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../chu-de/">Chủ đề</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../xep-loai/">Xếp loại</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../ngan-hang-cau-hoi/">Ngân hàng câu hỏi</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../de-thi/">Đề thi</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../cau-hinh/">Cấu hình</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../phan-quyen-quan-ly/">Phân quyền quản lý</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Hướng dẫn</span></p>
+                <ul class="current">
+                    <li class="toctree-l1">
+    <a class="" href="../huong-dan-mo-rong/">Hướng dẫn mở rộng</a>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../system/">Thiết lập hệ thống</a>
+                    </li>
+                    <li class="toctree-l1 current">
+    <a class="current" href="./">Quản lý tài khoản</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#tao-tai-khoan-moi">Tạo tài khoản mới</a></li>
+    
+
+    <li class="toctree-l2"><a href="#xoa-tai-khoan">Xóa tài khoản</a></li>
+    
+
+    <li class="toctree-l2"><a href="#tao-tai-khoan-tu-ms-excel">Tạo tài khoản từ MS Excel</a></li>
+    
+
+    <li class="toctree-l2"><a href="#quan-ly-nhom-thanh-vien">Quản lý nhóm thành viên</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#cac-nhom-thanh-vien-mac-inh">Các nhóm thành viên mặc định</a></li>
+        
+            <li><a class="toctree-l3" href="#them-nhom">Thêm nhóm</a></li>
+        
+        </ul>
+    
+
+    <li class="toctree-l2"><a href="#bo-nhiem-nguoi-quan-tri">Bổ nhiệm người quản trị</a></li>
+    
+
+    </ul>
+                    </li>
+                    <li class="toctree-l1">
+    <a class="" href="../uploads/">Quản lý file</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Tài liệu AZtest</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Hướng dẫn &raquo;</li>
+        
+      
+    
+    <li>Quản lý tài khoản</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/mynukeviet/aztest-docs/edit/master/docs/users.md"
+          class="icon icon-github"> Edit on Github</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <p>Đây là module cho phép người quản trị quản lý các tài khoản thành viên trên website. Ngoài ra, nó còn đảm nhận các công việc liên quan đến tài khoản như phân quyền tài khoản, quản lý nhóm thành viên,...</p>
+<p>Truy cập <strong>Tài khoản</strong> (menu dọc)</p>
+<p><img alt="" src="../images/system/tai_khoan.png" /></p>
+<h3 id="tao-tai-khoan-moi">Tạo tài khoản mới<a class="headerlink" href="#tao-tai-khoan-moi" title="Permanent link">#</a></h3>
+<p>Truy cập <strong>Tài khoản / Thêm tài khoản mới</strong> </p>
+<p><img alt="" src="../images/system/them_tai_khoan.png" /></p>
+<p>Bảng mô tả một số thông tin quan trọng</p>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Bắt buộc</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tài khoản</td>
+<td>Có</td>
+<td>Tên truy cập. Tên truy cập không được trùng nhau. Quy tắc đặt tên truy cập được quy định tại <strong>Tài khoản / Cấu hình module / Các ký tự cho phép khi tạo tài khoản</strong></td>
+</tr>
+<tr>
+<td>Email</td>
+<td>Có</td>
+<td>Email liên hệ. Bạn cần cung cấp một email đúng để có thể tương tác với thành viên về sau</td>
+</tr>
+<tr>
+<td>Mật khẩu</td>
+<td>Có</td>
+<td>Mật khẩu truy cập. Quy tắc đặt tên truy cập được quy định tại <strong>Tài khoản / Cấu hình module / Số ký tự của mật khẩu</strong></td>
+</tr>
+<tr>
+<td>Họ và tên</td>
+<td>Có</td>
+<td>Họ tên thật của thành viên</td>
+</tr>
+<tr>
+<td>Hiển thị email</td>
+<td>Không</td>
+<td>Nếu chọn, email của thành viên sẽ hiển thị trên trang thông tin thành viên (Tất cả mọi người đều thấy)</td>
+</tr>
+<tr>
+<td>Là tài khoản của nhóm</td>
+<td>Không</td>
+<td>Chọn nhóm mà thành viên sẽ tham gia sau khi khởi tạo</td>
+</tr>
+<tr>
+<td>Là thành viên chính thức</td>
+<td>Không</td>
+<td>Nếu chọn, tài khoản sẽ được sử dụng toàn quyền của thành viên, ngược lại, một số quyền bị giới hạn</td>
+</tr>
+<tr>
+<td>Gửi email thông báo</td>
+<td>Không</td>
+<td>Gửi email thông báo tài khoản đã được tạo, thông tin bao gồm tên đăng nhập và mật khẩu. Quá trình gửi mail có thể làm chậm tiến trình import, bạn cần cân nhắc khi sử dụng tùy chọn này</td>
+</tr>
+</tbody>
+</table>
+<h3 id="xoa-tai-khoan">Xóa tài khoản<a class="headerlink" href="#xoa-tai-khoan" title="Permanent link">#</a></h3>
+<ul>
+<li>Sau khi xóa, mọi thông tin, dữ liệu liên quan đến tài khoản đều bị xóa</li>
+<li>Bạn sẽ không thể tự xóa tài khoản của mình, cũng như tài khoản của các người quản trị cấp cao hơn </li>
+<li>Thành viên sẽ nhận được thông báo về việc xóa tài khoản qua email</li>
+</ul>
+<h3 id="tao-tai-khoan-tu-ms-excel">Tạo tài khoản từ MS Excel<a class="headerlink" href="#tao-tai-khoan-tu-ms-excel" title="Permanent link">#</a></h3>
+<p>Truy cập <strong>Tài khoản / Nhập từ Excel</strong> (Menu dọc)</p>
+<p><img alt="" src="../images/system/nhap_file_excel.png" /></p>
+<ul>
+<li>Click <strong>Tải file mẫu</strong> để download về file excel mẫu</li>
+<li>Trên bảng tính mẫu, tiến hành nhập thông tin theo các trường gợi ý </li>
+<li>Click nút <strong>Choose File</strong>, tìm tới file đã nhập thông tin thành viên ở bước 2</li>
+<li>Click <strong>Kiểm tra dữ liệu</strong>, lúc này hệ thống sẽ kiểm tra thông tin bạn nhập vào, nếu có lỗi sẽ thông báo để bạn tiến hành kiểm tra và sửa lỗi. Thực hiện cho đến khi file không còn lỗi</li>
+<li>Click <strong>Tiếp theo</strong> để hoàn tất</li>
+</ul>
+<h2 id="quan-ly-nhom-thanh-vien">Quản lý nhóm thành viên<a class="headerlink" href="#quan-ly-nhom-thanh-vien" title="Permanent link">#</a></h2>
+<p>Truy cập "<strong>Tài khoản / Nhóm thành viên</strong>" (Menu dọc)</p>
+<p><img alt="" src="../images/system/nhom_thanh_vien.png" /> </p>
+<p>Trên giao diện này, bạn có thể sửa, xóa các nhóm thành viên</p>
+<blockquote>
+<p>Các nhóm ở vị trí 1, 2, 3, 4 là các nhóm mặc định của hệ thống, bạn không thể sửa hoặc xóa cũng như ngưng kích hoạt chúng</p>
+</blockquote>
+<h3 id="cac-nhom-thanh-vien-mac-inh">Các nhóm thành viên mặc định<a class="headerlink" href="#cac-nhom-thanh-vien-mac-inh" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Nhóm thành viên</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Điều hành chung</td>
+<td>Là tài khoản quản trị cao nhất. Chính là tài khoản bạn khai báo khi đăng ký website</td>
+</tr>
+<tr>
+<td>Quản lý module</td>
+<td>Là tài khoản có quyền hạn xếp thứ 3 (sau Điều hành chung). Được phép quản lý các module được <strong>Quản trị tối cao</strong> hoặc <strong>Điều hành chung</strong> chỉ định</td>
+</tr>
+<tr>
+<td>Thành viên mới, thành viên chính thức</td>
+<td>Là tài khoản đăng ký làm thành viên website</td>
+</tr>
+<tr>
+<td>Khách</td>
+<td>Là đối tượng sử dụng website khi không đăng nhập</td>
+</tr>
+<tr>
+<td>Tất cả</td>
+<td>Đối tượng bao gồm các nhóm trên</td>
+</tr>
+</tbody>
+</table>
+<h3 id="them-nhom">Thêm nhóm<a class="headerlink" href="#them-nhom" title="Permanent link">#</a></h3>
+<p>Trên giao diện danh sách nhóm, click nút <strong>Thêm nhóm</strong></p>
+<p><img alt="" src="../images/system/them_nhom_thanh_vien.png" /></p>
+<p>Trên giao diện này, bạn chỉ cần nhập <strong>Tên nhóm</strong> (các trường có dấu sao (*)), các thông tin khác có thể bỏ qua</p>
+<p>Click <strong>Lưu</strong> ở cuối trang để hoàn tất</p>
+<h2 id="bo-nhiem-nguoi-quan-tri">Bổ nhiệm người quản trị<a class="headerlink" href="#bo-nhiem-nguoi-quan-tri" title="Permanent link">#</a></h2>
+<p>Truy cập <strong>Tài khoản / Quản trị / Thêm quản trị</strong> (Menu dọc)</p>
+<blockquote>
+<p>Trước khi thêm người quản trị, bạn cần <a href="/system/#them-tai-khoan">tạo tài khoản thành viên</a></p>
+</blockquote>
+<p><img alt="" src="../images/system/bo_nhiem.png" /></p>
+<table>
+<thead>
+<tr>
+<th>Thông tin</th>
+<th>Bắt buộc</th>
+<th>Mô tả</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chỉ định thành viên</td>
+<td>Có</td>
+<td>Chọn tài khoản thành viên muốn bổ nhiệm làm người quản trị</td>
+</tr>
+<tr>
+<td>Chức danh</td>
+<td>Có</td>
+<td>Điền chức danh của người quản trị</td>
+</tr>
+<tr>
+<td>Giao diện người quản trị</td>
+<td>Không</td>
+<td>Chọn giao diện của người quản trị khi đăng nhập vào khu vực quản lý</td>
+</tr>
+<tr>
+<td>Trình soạn thảo</td>
+<td>Không</td>
+<td>Nếu chọn <strong>*Không sử dụng</strong>, người quản trị này sẽ không được sử dụng trình soạn thảo mà chỉ là một ô đơn thuần text</td>
+</tr>
+<tr>
+<td>Các kiểu file được phép tải lên</td>
+<td>Không</td>
+<td>Các loại file có thể upload lên hệ thống</td>
+</tr>
+<tr>
+<td>Quyền hạn</td>
+<td>Có</td>
+<td>Chọn các module mà người quản trị này được quản lý</td>
+</tr>
+</tbody>
+</table>
+<p>Sau khi điền đầy đủ các thông tin, click <strong>Thêm Quản trị website</strong> để hoàn tất</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+      <p>AZtest - Hệ thống tạo lập website thi trắc nghiệm trực tuyến miễn phí</p>
+    
+  </div>
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../system/" style="color: #fcfcfc;">&laquo; Trang trước</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../uploads/" style="color: #fcfcfc">Trang tiếp &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script type="text/javascript" defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(false);
+        };
+    </script>
+
+</body>
+</html>
