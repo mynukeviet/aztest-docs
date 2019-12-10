@@ -36,14 +36,3 @@ Trong giao diện này, có 3 tùy chọn về quyền hạn bạn có thể l�
 | Toàn quyền module  | Phân quyền cho thành viên này được toàn tuyền quản lý **Trắc nghiệm**, bao gồm các hành động mà bạn (người điều hành chung) đang được sử dụng |
 
 Nhấn **Cập nhật** để lưu lại các thay đổi
-
-Trong quá trình tạo đề thi trắc nghiệm trực tuyến với AZtest, những vướng mắc bạn gặp phải có thể được giải quyết ở mục **Hướng dẫn mở rộng**
-
-- [Chèn hình ảnh trong nội dung](/huong-dan-mo-rong/chen-hinh-anh-trong-noi-dung/)
-- [Chèn video trong nội dung](/huong-dan-mo-rong/chen-video-trong-noi-dung/)
-- [Chèn công thức toán học trong nội dung](/huong-dan-mo-rong/chen-cong-thuc-trong-noi-dung/)
-- [Chèn âm thanh trong nội dung](/huong-dan-mo-rong/chen-am-thanh-trong-noi-dung/)
-- [Nhập câu hỏi từ Microsoftword](/huong-dan-mo-rong/nhap-cau-hoi-tu-microsoftword/)
-- [Hiển thị bảng thống kê thành viên có điểm cao](/huong-dan-mo-rong/hien-thi-bang-thong-ke-thanh-vien-diem-cao/)
-- [Xem lại lịch sử thi của đề thi](/huong-dan-mo-rong/xem-lai-lich-su-thi-cua-de-thi/)
-- [Thay đổi nội dung hướng dẫn làm bài thi](/huong-dan-mo-rong/thay-doi-noi-dung-huong-dan-lam-bai-thi/)
