@@ -30,5 +30,20 @@ Click nút **Đăng ký**. Website của bạn sẽ được khởi tạo sau v�
 
 Sau khi nhận được thông báo thành công, hãy kiểm tra email và tham khảo thêm các thông tin hướng dẫn kèm theo.
 
+## Một số vấn đề có thể gặp phải
+
+### Không nhận được thư (email) thông tin website
+
+Nếu bạn gặp phải vấn đề này, vui lòng lưu ý một số thông tin bên dưới:
+
+1. Hãy chắc chắn rằng bạn đã khai báo đúng email
+2. Ngoài **Inbox**, hãy thử kiểm tra ở **Spam mail**
+
+Nếu vẫn không tìm thấy thư, có khả năng liên quan đến vấn đê kỹ thuật. Lúc này, vui lòng liên hệ với nhân viên hỗ trợ của chúng tôi theo thông tin tại [đây](/bat-dau/thong-tin-ho-tro) để được giải quyết. Xin cảm ơn!
+
+### Nhận thông báo chờ duyệt sau khi đăng ký
+
+Tại một số thời điểm, vì nhiều vấn đề liên quan, hệ thống của chúng tôi không khởi tạo ngay website mà sẽ chuyển sang chế độ **Chờ kiểm duyệt**. Ở chế độ này, thông tin đăng ký của bạn vẫn được hệ thống ghi nhận, sau khi xem xét, chúng tôi sẽ khởi tạo và gửi thông tin website đến bạn qua thư (email). 
+
 <p class="title">Tiếp theo</p>
 - [**Đăng nhập, đăng xuất khu vực quản trị**](/bat-dau/dang-nhap-dang-xuat-quan-tri/)
